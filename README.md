@@ -52,41 +52,35 @@ Building reliable cloud infrastructure for better healthcare
 
 ## GitHub Stats
 
-<div align="center">
+<!-- GITHUB_STATS_START -->
+_Loading..._
+<!-- GITHUB_STATS_END -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohitagilus700&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitagilus700&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+## Top Languages
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitagilus700&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="170" />
-
-</div>
+<!-- TOP_LANGUAGES_START -->
+_Loading..._
+<!-- TOP_LANGUAGES_END -->
 
 ---
 
 ## What I'm Working On
 
-| Project | Tech | Role |
-|:--------|:-----|:-----|
-| Cloud Infrastructure | GCP, Terraform | Platform & Infra |
-| CI/CD Pipelines | GitHub Actions | Automation |
-| Microservices | Java, Docker, K8s | DevOps |
-| Internal Tools | Python, TypeScript | Build & Maintain |
-| Org Automation | Python, GitHub Apps | Admin |
+<!-- WORKING_ON_START -->
+_Loading..._
+<!-- WORKING_ON_END -->
 
 ---
 
-## Activity
+## Weekly Activity
 
-<div align="center">
+<!-- WEEKLY_ACTIVITY_START -->
+_Loading..._
+<!-- WEEKLY_ACTIVITY_END -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitagilus700&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-
-</div>
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **Loading...**
 
 ---
 
