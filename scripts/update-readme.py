@@ -83,12 +83,15 @@ def fetch_participation(repo_name):
     return []
 
 
-def fetch_user_prs(repo_name):
-    prs = api_paginate(
-        f"https://api.github.com/repos/{ORG}/{repo_name}/pulls"
-        f"?state=all&sort=updated&direction=desc"
+def fetch_user_pr_count():
+    """Count user's PRs across the org using the search API (no pull_requests permission needed)."""
+    data = api(
+        f"https://api.github.com/search/issues"
+        f"?q=author:{USER}+type:pr+org:{ORG}&per_page=1"
     )
-    return len([p for p in prs if p.get("user", {}).get("login") == USER])
+    if data and "total_count" in data:
+        return data["total_count"]
+    return 0
 
 
 # ---------------------------------------------------------------------------
@@ -288,7 +291,6 @@ def main():
     lang_totals = {}
     repo_data = []
     total_commits = 0
-    total_prs = 0
     repos_contributed = 0
     weekly_data = []
 
@@ -307,10 +309,6 @@ def main():
         for lang, bytes_count in langs.items():
             lang_totals[lang] = lang_totals.get(lang, 0) + bytes_count
 
-        # PRs (only for repos I contributed to, to save API calls)
-        if my_commits > 0:
-            total_prs += fetch_user_prs(name)
-
         # Weekly activity (top 5 repos by push date)
         if len(weekly_data) < 5:
             weeks = fetch_participation(name)
@@ -324,6 +322,10 @@ def main():
         })
 
     weekly_data.sort(key=lambda x: sum(x[1][-4:]), reverse=True)
+
+    # PRs via search API (single call instead of per-repo)
+    print("Fetching PR count...")
+    total_prs = fetch_user_pr_count()
 
     # 3. Generate sections
     sections = {
