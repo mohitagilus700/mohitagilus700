@@ -53,7 +53,12 @@ Building reliable cloud infrastructure for better healthcare
 ## GitHub Stats
 
 <!-- GITHUB_STATS_START -->
-_Loading..._
+| Stat | Count |
+|:-----|------:|
+| 💻 Total Commits (30d) | **82** |
+| 🔁 Pull Requests | **0** |
+| 📂 Repos Contributed To | **6** |
+| 🏢 Total Org Repos | **36** |
 <!-- GITHUB_STATS_END -->
 
 ---
@@ -61,7 +66,16 @@ _Loading..._
 ## Top Languages
 
 <!-- TOP_LANGUAGES_START -->
-_Loading..._
+| Language | Usage | Share |
+|:---------|:------|------:|
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `39.0%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.4%` |
+| **CSS** | 🟪🟪🟪 | `9.9%` |
+| **TypeScript** | 🟦🟦 | `7.8%` |
+| **Java** | 🟧🟧 | `7.1%` |
+| **SCSS** | 🟦 | `0.4%` |
+| **HTML** | 🟥 | `0.3%` |
+| **Vue** | 🟦 | `0.1%` |
 <!-- TOP_LANGUAGES_END -->
 
 ---
@@ -69,7 +83,13 @@ _Loading..._
 ## What I'm Working On
 
 <!-- WORKING_ON_START -->
-_Loading..._
+| Repository | Language | My Commits (30d) | Activity |
+|:-----------|:--------:|:----------------:|:---------|
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **46** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`.github-private`](https://github.com/agilusdiagnostics/.github-private) | `Python` | **19** | 🟪🟪🟪🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **13** | 🟪🟪🟪 |
+| [`pulse-cms-service`](https://github.com/agilusdiagnostics/pulse-cms-service) | `Java` | **2** | 🟪 |
+| [`cms-agilus-web`](https://github.com/agilusdiagnostics/cms-agilus-web) | `JavaScript` | **1** | 🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -77,10 +97,16 @@ _Loading..._
 ## Weekly Activity
 
 <!-- WEEKLY_ACTIVITY_START -->
-_Loading..._
+| Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
+|:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `assorted-service` | 0 | 0 | 0 | 42 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **42** | ✨ |
+| `consumer-service` | 5 | 8 | 16 | 8 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **37** | ⚠️ |
+| `phlebo-parent` | 19 | 11 | 0 | 2 | 🟩🟩🟩🟩 🟩🟩🟩 ⬜ 🟩 | **32** | ✨ |
+| `agilus-pulse-portal` | 2 | 0 | 0 | 0 | 🟩🟩🟩🟩 ⬜ ⬜ ⬜ | **2** | 💤 |
+| `.github-private` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **Loading...**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **March 20, 2026 04:15 PM IST**
 
 ---
 
