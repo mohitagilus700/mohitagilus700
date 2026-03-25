@@ -55,9 +55,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **138** |
+| 💻 Total Commits (30d) | **147** |
 | 🔁 Pull Requests | **0** |
-| 📂 Repos Contributed To | **8** |
+| 📂 Repos Contributed To | **9** |
 | 🏢 Total Org Repos | **38** |
 <!-- GITHUB_STATS_END -->
 
@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **37** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **29** | 🟪🟪🟪🟦🟦🟦 |
 | [`.github-private`](https://github.com/agilusdiagnostics/.github-private) | `Python` | **19** | 🟪🟪🟪🟦 |
-| [`pulse-cms-service`](https://github.com/agilusdiagnostics/pulse-cms-service) | `Java` | **2** | 🟪 |
+| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **9** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -102,11 +102,11 @@ Building reliable cloud infrastructure for better healthcare
 | `consumer-web` | 0 | 0 | 13 | 47 | ⬜ ⬜ 🟩🟩 🟩🟩🟩🟩 | **60** | 🔥 |
 | `.github-private` | 0 | 0 | 0 | 47 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **47** | ✨ |
 | `phlebo-parent` | 18 | 5 | 0 | 21 | 🟩🟩🟩🟩 🟩 ⬜ 🟩🟩🟩🟩 | **44** | ✨ |
-| `phlebo-app` | 0 | 0 | 9 | 9 | ⬜ ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 | **18** | ✔️ |
 | `edos-service-java` | 0 | 0 | 0 | 10 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **10** | ✨ |
+| `sales-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **March 25, 2026 06:57 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **March 25, 2026 12:25 PM IST**
 
 ---
 
