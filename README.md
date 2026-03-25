@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `phlebo-parent` | 21 | 7 | 0 | 19 | 🟩🟩🟩🟩 🟩🟩 ⬜ 🟩🟩🟩🟩 | **47** | ✨ |
-| `.github-private` | 0 | 0 | 0 | 43 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **43** | ✨ |
-| `consumer-web` | 1 | 0 | 10 | 19 | 🟩 ⬜ 🟩🟩🟩 🟩🟩🟩🟩 | **30** | 🔥 |
-| `phlebo-app` | 0 | 0 | 8 | 10 | ⬜ ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 | **18** | ⬆️ |
-| `edos-service-java` | 0 | 0 | 0 | 2 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **2** | ✨ |
+| `consumer-web` | 0 | 0 | 13 | 47 | ⬜ ⬜ 🟩🟩 🟩🟩🟩🟩 | **60** | 🔥 |
+| `.github-private` | 0 | 0 | 0 | 47 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **47** | ✨ |
+| `phlebo-parent` | 18 | 5 | 0 | 21 | 🟩🟩🟩🟩 🟩 ⬜ 🟩🟩🟩🟩 | **44** | ✨ |
+| `phlebo-app` | 0 | 0 | 9 | 9 | ⬜ ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 | **18** | ✔️ |
+| `edos-service-java` | 0 | 0 | 0 | 10 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **10** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **March 25, 2026 12:23 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **March 25, 2026 06:57 AM IST**
 
 ---
 
