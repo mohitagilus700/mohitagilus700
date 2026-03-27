@@ -55,9 +55,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **166** |
+| 💻 Total Commits (30d) | **163** |
 | 🔁 Pull Requests | **0** |
-| 📂 Repos Contributed To | **10** |
+| 📂 Repos Contributed To | **9** |
 | 🏢 Total Org Repos | **38** |
 <!-- GITHUB_STATS_END -->
 
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `consumer-web` | 0 | 0 | 16 | 62 | ⬜ ⬜ 🟩🟩 🟩🟩🟩🟩 | **78** | 🔥 |
-| `.github-private` | 0 | 0 | 0 | 51 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **51** | ✨ |
-| `edos-service-java` | 0 | 0 | 0 | 45 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **45** | ✨ |
-| `phlebo-parent` | 10 | 5 | 0 | 21 | 🟩🟩 🟩 ⬜ 🟩🟩🟩🟩 | **36** | ✨ |
+| `consumer-web` | 0 | 2 | 22 | 59 | ⬜ 🟩 🟩🟩 🟩🟩🟩🟩 | **83** | 🔥 |
+| `.github-private` | 0 | 0 | 0 | 55 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **55** | ✨ |
+| `edos-service-java` | 0 | 0 | 0 | 47 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **47** | ✨ |
+| `phlebo-parent` | 11 | 0 | 4 | 18 | 🟩🟩🟩 ⬜ 🟩 🟩🟩🟩🟩 | **33** | 🔥 |
 | `elastic-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **March 27, 2026 12:26 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **March 27, 2026 07:17 AM IST**
 
 ---
 
