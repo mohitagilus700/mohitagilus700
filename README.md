@@ -102,11 +102,11 @@ Building reliable cloud infrastructure for better healthcare
 | `consumer-web` | 5 | 19 | 72 | 0 | 🟩 🟩🟩 🟩🟩🟩🟩 ⬜ | **96** | ⚠️ |
 | `.github-private` | 0 | 31 | 28 | 28 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **87** | ✔️ |
 | `edos-service-java` | 0 | 0 | 48 | 12 | ⬜ ⬜ 🟩🟩🟩🟩 🟩 | **60** | ⚠️ |
-| `phlebo-app` | 0 | 18 | 16 | 2 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **36** | ⚠️ |
 | `sales-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
+| `elastic-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 04, 2026 12:22 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 04, 2026 06:09 PM IST**
 
 ---
 
