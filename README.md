@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `phlebo-parent` | 11 | 43 | 67 | 16 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **137** | ⚠️ |
 | `.github-private` | 0 | 43 | 28 | 28 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **99** | ✔️ |
-| `consumer-web` | 10 | 20 | 66 | 0 | 🟩 🟩🟩 🟩🟩🟩🟩 ⬜ | **96** | ⚠️ |
-| `assorted-service` | 1 | 47 | 0 | 0 | 🟩 🟩🟩🟩🟩 ⬜ ⬜ | **48** | 💤 |
-| `pulse-cms-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 | `elastic-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
+| `pulse-cms-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
+| `sales-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 07, 2026 12:37 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 07, 2026 06:35 PM IST**
 
 ---
 
