@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **207** |
+| 💻 Total Commits (30d) | **218** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **9** |
 | 🏢 Total Org Repos | **38** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **52** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **48** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **42** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **39** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`.github-private`](https://github.com/agilusdiagnostics/.github-private) | `Python` | **19** | 🟪🟪🟪🟦 |
+| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **62** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **48** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **43** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **39** | 🟪🟪🟪🟦🟦🟦 |
+| [`.github-private`](https://github.com/agilusdiagnostics/.github-private) | `Python` | **19** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -103,10 +103,10 @@ Building reliable cloud infrastructure for better healthcare
 | `.github-private` | 39 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **123** | ✔️ |
 | `consumer-web` | 19 | 86 | 5 | 4 | 🟩 🟩🟩🟩🟩 🟩 🟩 | **114** | ⬇️ |
 | `edos-service-java` | 0 | 48 | 12 | 21 | ⬜ 🟩🟩🟩🟩 🟩 🟩🟩 | **81** | 🔥 |
-| `DevOps` | 0 | 3 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **3** | 💤 |
+| `agilus-pulse-portal` | 5 | 1 | 28 | 5 | 🟩 🟩 🟩🟩🟩🟩 🟩 | **39** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 13, 2026 01:22 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 13, 2026 06:38 PM IST**
 
 ---
 
