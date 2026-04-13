@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **185** |
+| 💻 Total Commits (30d) | **207** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **9** |
 | 🏢 Total Org Repos | **38** |
@@ -85,10 +85,10 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **48** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **41** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
+| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **52** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **48** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
+| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **42** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **39** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **32** | 🟪🟪🟪🟦🟦🟦🟦 |
 | [`.github-private`](https://github.com/agilusdiagnostics/.github-private) | `Python` | **19** | 🟪🟪🟪🟦 |
 <!-- WORKING_ON_END -->
 
@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `phlebo-parent` | 28 | 60 | 48 | 25 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **161** | ⚠️ |
 | `.github-private` | 39 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **123** | ✔️ |
-| `edos-service-java` | 0 | 48 | 12 | 18 | ⬜ 🟩🟩🟩🟩 🟩 🟩🟩 | **78** | 🔥 |
-| `phlebo-app` | 18 | 16 | 2 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 ⬜ | **36** | ⚠️ |
-| `consumer-service` | 11 | 7 | 3 | 5 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩 | **26** | 🔥 |
+| `consumer-web` | 19 | 86 | 5 | 4 | 🟩 🟩🟩🟩🟩 🟩 🟩 | **114** | ⬇️ |
+| `edos-service-java` | 0 | 48 | 12 | 21 | ⬜ 🟩🟩🟩🟩 🟩 🟩🟩 | **81** | 🔥 |
+| `DevOps` | 0 | 3 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **3** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 13, 2026 07:30 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 13, 2026 01:22 PM IST**
 
 ---
 
