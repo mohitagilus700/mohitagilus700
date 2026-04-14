@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **242** |
+| 💻 Total Commits (30d) | **245** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **9** |
 | 🏢 Total Org Repos | **38** |
@@ -86,10 +86,10 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **62** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **49** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **50** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **48** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **39** | 🟪🟪🟪🟦🟦🟦 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **22** | 🟪🟪🟪🟦 |
+| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **24** | 🟪🟪🟪🟦 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -103,10 +103,10 @@ Building reliable cloud infrastructure for better healthcare
 | `edos-service-java` | 2 | 47 | 11 | 34 | 🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **94** | 🔥 |
 | `elastic-service` | 0 | 0 | 4 | 8 | ⬜ ⬜ 🟩🟩 🟩🟩🟩🟩 | **12** | 🔥 |
 | `DevOps` | 0 | 3 | 0 | 1 | ⬜ 🟩🟩🟩🟩 ⬜ 🟩🟩 | **4** | ✨ |
-| `sales-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
+| `user-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 14, 2026 06:40 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 15, 2026 12:33 AM IST**
 
 ---
 
