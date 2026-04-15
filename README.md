@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **245** |
+| 💻 Total Commits (30d) | **249** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **9** |
 | 🏢 Total Org Repos | **38** |
@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **50** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **48** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **39** | 🟪🟪🟪🟦🟦🟦 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **24** | 🟪🟪🟪🟦 |
+| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **28** | 🟪🟪🟪🟦🟦 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `phlebo-parent` | 55 | 65 | 16 | 37 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **173** | 🔥 |
 | `.github-private` | 47 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **131** | ✔️ |
-| `edos-service-java` | 10 | 43 | 7 | 44 | 🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 | **104** | 🔥 |
-| `DevOps` | 0 | 3 | 0 | 21 | ⬜ 🟩 ⬜ 🟩🟩🟩🟩 | **24** | ✨ |
-| `elastic-service` | 0 | 0 | 4 | 8 | ⬜ ⬜ 🟩🟩 🟩🟩🟩🟩 | **12** | 🔥 |
-| `user-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
+| `phlebo-app` | 14 | 13 | 0 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ ⬜ | **27** | 💤 |
+| `consumer-service` | 10 | 6 | 0 | 5 | 🟩🟩🟩🟩 🟩🟩🟩 ⬜ 🟩🟩 | **21** | ✨ |
+| `pulse-cms-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 15, 2026 07:22 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 15, 2026 12:51 PM IST**
 
 ---
 
