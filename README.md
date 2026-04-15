@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 43 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **127** | ✔️ |
-| `edos-service-java` | 2 | 47 | 11 | 34 | 🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **94** | 🔥 |
+| `.github-private` | 47 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **131** | ✔️ |
+| `edos-service-java` | 10 | 43 | 7 | 44 | 🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 | **104** | 🔥 |
+| `DevOps` | 0 | 3 | 0 | 21 | ⬜ 🟩 ⬜ 🟩🟩🟩🟩 | **24** | ✨ |
 | `elastic-service` | 0 | 0 | 4 | 8 | ⬜ ⬜ 🟩🟩 🟩🟩🟩🟩 | **12** | 🔥 |
-| `DevOps` | 0 | 3 | 0 | 1 | ⬜ 🟩🟩🟩🟩 ⬜ 🟩🟩 | **4** | ✨ |
 | `user-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 15, 2026 12:33 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 15, 2026 07:22 AM IST**
 
 ---
 
