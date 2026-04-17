@@ -55,10 +55,10 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **240** |
+| 💻 Total Commits (30d) | **264** |
 | 🔁 Pull Requests | **0** |
-| 📂 Repos Contributed To | **9** |
-| 🏢 Total Org Repos | **38** |
+| 📂 Repos Contributed To | **10** |
+| 🏢 Total Org Repos | **39** |
 <!-- GITHUB_STATS_END -->
 
 ---
@@ -68,7 +68,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.9%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.8%` |
 | **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.3%` |
 | **CSS** | 🟪🟪🟪 | `9.9%` |
 | **TypeScript** | 🟦🟦 | `7.9%` |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **62** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **57** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
+| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **66** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **62** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **39** | 🟪🟪🟪🟦🟦🟦 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **31** | 🟪🟪🟪🟦🟦 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **29** | 🟪🟪🟪🟦🟦 |
+| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **30** | 🟪🟪🟪🟦🟦 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 55 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **139** | ✔️ |
-| `edos-service-java` | 47 | 7 | 15 | 42 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **111** | 🔥 |
-| `consumer-web` | 80 | 11 | 4 | 14 | 🟩🟩🟩🟩 🟩 🟩 🟩 | **109** | 🔥 |
-| `phlebo-app` | 9 | 9 | 0 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ ⬜ | **18** | 💤 |
-| `pulse-cms-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
+| `agilus-pulse-portal` | 0 | 29 | 8 | 5 | ⬜ 🟩🟩🟩🟩 🟩🟩 🟩 | **42** | ⚠️ |
+| `DevOps` | 3 | 0 | 0 | 26 | 🟩 ⬜ ⬜ 🟩🟩🟩🟩 | **29** | ✨ |
+| `gcp-cloudfunctions-source` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
+| `sales-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 17, 2026 12:53 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 17, 2026 06:33 PM IST**
 
 ---
 
