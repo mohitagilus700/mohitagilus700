@@ -55,9 +55,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **222** |
+| 💻 Total Commits (30d) | **201** |
 | 🔁 Pull Requests | **0** |
-| 📂 Repos Contributed To | **9** |
+| 📂 Repos Contributed To | **8** |
 | 🏢 Total Org Repos | **39** |
 <!-- GITHUB_STATS_END -->
 
@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **62** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **30** | 🟪🟪🟪🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **26** | 🟪🟪🟪🟦 |
-| [`.github-private`](https://github.com/agilusdiagnostics/.github-private) | `Python` | **16** | 🟪🟪 |
+| [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **14** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -106,7 +106,7 @@ Building reliable cloud infrastructure for better healthcare
 | `sales-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 20, 2026 12:08 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 20, 2026 07:31 AM IST**
 
 ---
 
