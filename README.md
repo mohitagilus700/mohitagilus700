@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `phlebo-parent` | 61 | 11 | 36 | 8 | 🟩🟩🟩🟩 🟩 🟩🟩🟩 🟩 | **116** | ⚠️ |
 | `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
-| `agilus-pulse-portal` | 19 | 18 | 2 | 3 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩 | **42** | 🔥 |
 | `consumer-service` | 6 | 3 | 10 | 5 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **24** | ⚠️ |
+| `phlebo-app` | 9 | 0 | 1 | 2 | 🟩🟩🟩🟩 ⬜ 🟩 🟩 | **12** | 🔥 |
 | `pulse-cms-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 23, 2026 06:39 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 24, 2026 12:29 AM IST**
 
 ---
 
