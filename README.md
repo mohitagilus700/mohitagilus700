@@ -103,10 +103,10 @@ Building reliable cloud infrastructure for better healthcare
 | `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
 | `agilus-pulse-portal` | 19 | 18 | 2 | 3 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩 | **42** | 🔥 |
 | `consumer-service` | 6 | 3 | 10 | 5 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **24** | ⚠️ |
-| `assorted-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
+| `pulse-cms-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 23, 2026 12:55 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 23, 2026 06:39 PM IST**
 
 ---
 
