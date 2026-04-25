@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **155** |
+| 💻 Total Commits (30d) | **157** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **7** |
 | 🏢 Total Org Repos | **39** |
@@ -85,9 +85,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **48** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **46** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **27** | 🟪🟪🟪🟦🟦🟦 |
+| [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **50** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **46** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
+| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **27** | 🟪🟪🟪🟦🟦 |
 | [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **16** | 🟪🟪🟪 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **14** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -103,10 +103,10 @@ Building reliable cloud infrastructure for better healthcare
 | `gcp-cloudfunctions-source` | 0 | 0 | 14 | 11 | ⬜ ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 | **25** | ⬇️ |
 | `shared-actions` | 2 | 0 | 0 | 16 | 🟩 ⬜ ⬜ 🟩🟩🟩🟩 | **18** | ✨ |
 | `consumer-app` | 2 | 4 | 2 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **10** | ✔️ |
-| `assorted-service` | 0 | 0 | 0 | 3 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **3** | ✨ |
+| `phlebo-app` | 2 | 0 | 2 | 1 | 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 🟩🟩 | **5** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 25, 2026 06:15 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 26, 2026 12:09 AM IST**
 
 ---
 
