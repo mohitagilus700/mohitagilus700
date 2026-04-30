@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
+| `elastic-service` | 10 | 17 | 12 | 2 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **41** | ⚠️ |
 | `consumer-web` | 4 | 15 | 1 | 20 | 🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **40** | 🔥 |
-| `consumer-service` | 3 | 10 | 5 | 20 | 🟩 🟩🟩 🟩 🟩🟩🟩🟩 | **38** | 🔥 |
 | `agilus-pulse-portal` | 18 | 2 | 3 | 6 | 🟩🟩🟩🟩 🟩 🟩 🟩🟩 | **29** | 🔥 |
 | `pulse-cms-service` | 0 | 0 | 0 | 5 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **5** | ✨ |
+| `assorted-service` | 0 | 0 | 0 | 3 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **3** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 30, 2026 07:43 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **April 30, 2026 01:39 PM IST**
 
 ---
 
