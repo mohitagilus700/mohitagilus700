@@ -69,10 +69,10 @@ Building reliable cloud infrastructure for better healthcare
 | Language | Usage | Share |
 |:---------|:------|------:|
 | **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.8%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.3%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.2%` |
 | **CSS** | 🟪🟪🟪 | `9.9%` |
 | **TypeScript** | 🟦🟦 | `7.9%` |
-| **Java** | 🟧🟧 | `7.4%` |
+| **Java** | 🟧🟧 | `7.5%` |
 | **SCSS** | 🟦 | `0.4%` |
 | **HTML** | 🟥 | `0.3%` |
 | **Shell** | 🟩 | `0.1%` |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
-| `elastic-service` | 11 | 25 | 2 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩 🟩 | **40** | ✔️ |
-| `consumer-web` | 4 | 15 | 2 | 19 | 🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 | **40** | 🔥 |
+| `phlebo-parent` | 9 | 41 | 10 | 12 | 🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **72** | ⬆️ |
+| `pulse-cms-service` | 13 | 12 | 15 | 24 | 🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **64** | 🔥 |
 | `agilus-pulse-portal` | 8 | 5 | 2 | 4 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩 | **19** | 🔥 |
+| `user-service` | 0 | 2 | 0 | 2 | ⬜ 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **4** | ✨ |
 | `assorted-service` | 0 | 0 | 0 | 3 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **3** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 01, 2026 07:56 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 01, 2026 01:34 PM IST**
 
 ---
 
