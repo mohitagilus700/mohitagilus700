@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
-| `gcp-cloudfunctions-source` | 0 | 14 | 36 | 1 | ⬜ 🟩🟩 🟩🟩🟩🟩 🟩 | **51** | ⚠️ |
-| `agilus-pulse-portal` | 5 | 6 | 13 | 11 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **35** | ⬇️ |
-| `user-service` | 0 | 2 | 0 | 3 | ⬜ 🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **5** | ✨ |
-| `phlebo-app` | 0 | 3 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **3** | 💤 |
+| `gcp-cloudfunctions-source` | 0 | 14 | 36 | 4 | ⬜ 🟩🟩 🟩🟩🟩🟩 🟩 | **54** | ⚠️ |
+| `agilus-pulse-portal` | 5 | 6 | 14 | 10 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **35** | ⚠️ |
+| `user-service` | 0 | 2 | 2 | 4 | ⬜ 🟩🟩 🟩🟩 🟩🟩🟩🟩 | **8** | 🔥 |
+| `phlebo-app` | 1 | 2 | 0 | 0 | 🟩🟩 🟩🟩🟩🟩 ⬜ ⬜ | **3** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 06, 2026 12:38 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 06, 2026 07:38 AM IST**
 
 ---
 
