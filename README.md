@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `consumer-service` | 14 | 6 | 26 | 50 | 🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **96** | 🔥 |
-| `phlebo-parent` | 41 | 10 | 12 | 13 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩🟩 | **76** | ✔️ |
-| `edos-service-java` | 49 | 9 | 0 | 3 | 🟩🟩🟩🟩 🟩 ⬜ 🟩 | **61** | ✨ |
-| `consumer-web` | 16 | 2 | 26 | 13 | 🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩 | **57** | ⚠️ |
+| `consumer-service` | 13 | 6 | 28 | 57 | 🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **104** | 🔥 |
+| `phlebo-parent` | 29 | 7 | 14 | 10 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩🟩 | **60** | ⚠️ |
+| `edos-service-java` | 46 | 3 | 0 | 10 | 🟩🟩🟩🟩 🟩 ⬜ 🟩 | **59** | ✨ |
+| `consumer-web` | 17 | 5 | 23 | 12 | 🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩 | **57** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 09, 2026 12:37 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 09, 2026 07:41 AM IST**
 
 ---
 
