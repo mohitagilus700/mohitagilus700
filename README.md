@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **180** |
+| 💻 Total Commits (30d) | **181** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **39** |
@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
 | `consumer-service` | 13 | 6 | 28 | 57 | 🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **104** | 🔥 |
-| `phlebo-parent` | 29 | 7 | 14 | 10 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩🟩 | **60** | ⚠️ |
 | `edos-service-java` | 46 | 3 | 0 | 10 | 🟩🟩🟩🟩 🟩 ⬜ 🟩 | **59** | ✨ |
 | `consumer-web` | 17 | 5 | 23 | 12 | 🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩 | **57** | ⚠️ |
+| `assorted-service` | 0 | 3 | 0 | 1 | ⬜ 🟩🟩🟩🟩 ⬜ 🟩🟩 | **4** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 10, 2026 07:42 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 10, 2026 01:29 PM IST**
 
 ---
 
