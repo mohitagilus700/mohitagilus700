@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **201** |
+| 💻 Total Commits (30d) | **200** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **39** |
@@ -87,7 +87,7 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **54** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **30** | 🟪🟪🟪🟦🟦🟦 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **30** | 🟪🟪🟪🟦🟦🟦 |
+| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **29** | 🟪🟪🟪🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **28** | 🟪🟪🟪🟦🟦 |
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **27** | 🟪🟪🟪🟦🟦 |
 <!-- WORKING_ON_END -->
@@ -102,11 +102,11 @@ Building reliable cloud infrastructure for better healthcare
 | `.github-private` | 28 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
 | `consumer-service` | 13 | 6 | 28 | 57 | 🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **104** | 🔥 |
 | `consumer-web` | 17 | 5 | 23 | 12 | 🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩 | **57** | ⚠️ |
-| `shared-actions` | 0 | 16 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **16** | 💤 |
-| `assorted-service` | 0 | 3 | 0 | 1 | ⬜ 🟩🟩🟩🟩 ⬜ 🟩🟩 | **4** | ✨ |
+| `shared-actions` | 0 | 16 | 0 | 17 | ⬜ 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **33** | ✨ |
+| `assorted-service` | 0 | 3 | 0 | 6 | ⬜ 🟩🟩 ⬜ 🟩🟩🟩🟩 | **9** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 11, 2026 12:21 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 11, 2026 08:01 AM IST**
 
 ---
 
