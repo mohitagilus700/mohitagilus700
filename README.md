@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **202** |
+| 💻 Total Commits (30d) | **203** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **39** |
@@ -68,11 +68,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.7%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.2%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `39.0%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.3%` |
 | **CSS** | 🟪🟪🟪 | `9.9%` |
-| **TypeScript** | 🟦🟦 | `7.9%` |
-| **Java** | 🟧🟧 | `7.5%` |
+| **Java** | 🟧🟧 | `7.6%` |
+| **TypeScript** | 🟦🟦 | `7.5%` |
 | **SCSS** | 🟦 | `0.4%` |
 | **HTML** | 🟥 | `0.3%` |
 | **Shell** | 🟩 | `0.1%` |
@@ -86,7 +86,7 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **54** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **30** | 🟪🟪🟪🟦🟦🟦 |
+| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **31** | 🟪🟪🟪🟦🟦🟦 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **29** | 🟪🟪🟪🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **29** | 🟪🟪🟪🟦🟦 |
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **27** | 🟪🟪🟪🟦🟦 |
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `consumer-service` | 13 | 6 | 28 | 59 | 🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **106** | 🔥 |
 | `phlebo-parent` | 29 | 7 | 14 | 10 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩🟩 | **60** | ⚠️ |
 | `consumer-web` | 17 | 5 | 23 | 12 | 🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩 | **57** | ⚠️ |
-| `user-service` | 2 | 0 | 3 | 3 | 🟩🟩🟩 ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 | **8** | ✔️ |
+| `agilus-pulse-portal` | 8 | 7 | 14 | 3 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩 | **32** | ⚠️ |
+| `phlebo-app` | 3 | 0 | 0 | 0 | 🟩🟩🟩🟩 ⬜ ⬜ ⬜ | **3** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 11, 2026 02:58 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 11, 2026 08:04 PM IST**
 
 ---
 
