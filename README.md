@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **225** |
+| 💻 Total Commits (30d) | **228** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **39** |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `consumer-service` | 13 | 21 | 44 | 38 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **116** | ⬇️ |
+| `consumer-service` | 13 | 19 | 44 | 37 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **113** | ⬇️ |
 | `.github-private` | 28 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
+| `agilus-pulse-portal` | 6 | 14 | 24 | 6 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **50** | ⚠️ |
 | `consumer-web` | 1 | 18 | 19 | 7 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **45** | ⚠️ |
-| `agilus-pulse-portal` | 6 | 14 | 14 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **34** | ⚠️ |
 | `edos-service-java` | 20 | 3 | 2 | 8 | 🟩🟩🟩🟩 🟩 🟩 🟩🟩 | **33** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 13, 2026 07:42 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 14, 2026 01:14 AM IST**
 
 ---
 
