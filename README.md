@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **203** |
+| 💻 Total Commits (30d) | **202** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **39** |
@@ -86,7 +86,7 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **54** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **31** | 🟪🟪🟪🟦🟦🟦 |
+| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **30** | 🟪🟪🟪🟦🟦🟦 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **29** | 🟪🟪🟪🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **29** | 🟪🟪🟪🟦🟦 |
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **27** | 🟪🟪🟪🟦🟦 |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `consumer-service` | 13 | 7 | 29 | 64 | 🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **113** | 🔥 |
+| `consumer-service` | 13 | 19 | 44 | 37 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **113** | ⬇️ |
 | `.github-private` | 28 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `consumer-web` | 2 | 7 | 23 | 12 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **44** | ⚠️ |
-| `edos-service-java` | 30 | 3 | 0 | 10 | 🟩🟩🟩🟩 🟩 ⬜ 🟩🟩 | **43** | ✨ |
-| `user-service` | 2 | 0 | 3 | 4 | 🟩🟩 ⬜ 🟩🟩🟩 🟩🟩🟩🟩 | **9** | 🔥 |
+| `consumer-web` | 1 | 18 | 19 | 7 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **45** | ⚠️ |
+| `edos-service-java` | 20 | 3 | 2 | 8 | 🟩🟩🟩🟩 🟩 🟩 🟩🟩 | **33** | 🔥 |
+| `user-service` | 2 | 2 | 4 | 2 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **10** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 13, 2026 01:10 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 13, 2026 08:01 AM IST**
 
 ---
 
