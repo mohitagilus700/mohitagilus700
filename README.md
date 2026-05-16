@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **187** |
+| 💻 Total Commits (30d) | **175** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **39** |
@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **33** | 🟪🟪🟪🟦🟦🟦 |
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **26** | 🟪🟪🟪🟦🟦 |
 | [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **20** | 🟪🟪🟪🟦 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **20** | 🟪🟪🟪🟦 |
+| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **10** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `consumer-service` | 6 | 28 | 50 | 30 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **114** | ⚠️ |
+| `consumer-service` | 6 | 30 | 58 | 23 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **117** | ⚠️ |
 | `.github-private` | 28 | 28 | 27 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `phlebo-parent` | 10 | 21 | 14 | 13 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **58** | ✔️ |
-| `consumer-web` | 2 | 26 | 13 | 5 | 🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **46** | ⚠️ |
-| `user-service` | 0 | 2 | 4 | 2 | ⬜ 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **8** | ⚠️ |
+| `phlebo-parent` | 14 | 16 | 11 | 13 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **54** | ⬆️ |
+| `consumer-web` | 5 | 23 | 12 | 7 | 🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **47** | ⚠️ |
+| `user-service` | 0 | 3 | 3 | 2 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **8** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 16, 2026 12:51 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 16, 2026 07:43 AM IST**
 
 ---
 
