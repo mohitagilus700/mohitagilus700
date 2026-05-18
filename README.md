@@ -55,9 +55,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **180** |
+| 💻 Total Commits (30d) | **165** |
 | 🔁 Pull Requests | **0** |
-| 📂 Repos Contributed To | **15** |
+| 📂 Repos Contributed To | **14** |
 | 🏢 Total Org Repos | **39** |
 <!-- GITHUB_STATS_END -->
 
@@ -85,10 +85,10 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **65** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **33** | 🟪🟪🟪🟦🟦 |
-| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **26** | 🟪🟪🟪🟦 |
-| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **20** | 🟪🟪🟪 |
+| [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **51** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **33** | 🟪🟪🟪🟦🟦🟦 |
+| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **26** | 🟪🟪🟪🟦🟦 |
+| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **20** | 🟪🟪🟪🟦 |
 | [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **10** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `consumer-service` | 6 | 30 | 58 | 23 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **117** | ⚠️ |
+| `consumer-service` | 6 | 30 | 59 | 22 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **117** | ⚠️ |
 | `.github-private` | 28 | 28 | 27 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
+| `gcp-cloudfunctions-source` | 36 | 1 | 3 | 11 | 🟩🟩🟩🟩 🟩 🟩 🟩🟩 | **51** | 🔥 |
 | `consumer-web` | 5 | 23 | 12 | 7 | 🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **47** | ⚠️ |
-| `gcp-cloudfunctions-source` | 36 | 1 | 3 | 3 | 🟩🟩🟩🟩 🟩 🟩 🟩 | **43** | ✔️ |
 | `user-service` | 0 | 3 | 3 | 2 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **8** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 18, 2026 12:28 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 18, 2026 08:09 AM IST**
 
 ---
 
