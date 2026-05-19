@@ -102,11 +102,11 @@ Building reliable cloud infrastructure for better healthcare
 | `consumer-service` | 7 | 31 | 65 | 18 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **121** | ⚠️ |
 | `.github-private` | 28 | 28 | 27 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
 | `phlebo-parent` | 16 | 14 | 15 | 11 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **56** | ⚠️ |
-| `consumer-web` | 7 | 23 | 12 | 6 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **48** | ⚠️ |
-| `edos-service-java` | 3 | 0 | 10 | 2 | 🟩🟩 ⬜ 🟩🟩🟩🟩 🟩 | **15** | ⚠️ |
+| `agilus-pulse-portal` | 13 | 13 | 18 | 11 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **55** | ⚠️ |
+| `user-service` | 0 | 3 | 4 | 1 | ⬜ 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **8** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 19, 2026 08:13 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 20, 2026 01:15 AM IST**
 
 ---
 
