@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **167** |
+| 💻 Total Commits (30d) | **170** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **14** |
 | 🏢 Total Org Repos | **39** |
@@ -88,8 +88,8 @@ Building reliable cloud infrastructure for better healthcare
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **52** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **33** | 🟪🟪🟪🟦🟦🟦 |
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **26** | 🟪🟪🟪🟦🟦 |
-| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **20** | 🟪🟪🟪🟦 |
-| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **11** | 🟪🟪 |
+| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **22** | 🟪🟪🟪🟦 |
+| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **12** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `consumer-service` | 21 | 44 | 43 | 14 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **122** | ⚠️ |
 | `.github-private` | 28 | 28 | 27 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `phlebo-parent` | 20 | 12 | 13 | 11 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **56** | ⬇️ |
-| `agilus-pulse-portal` | 14 | 24 | 6 | 11 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **55** | 🔥 |
+| `agilus-pulse-portal` | 14 | 24 | 6 | 12 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **56** | 🔥 |
+| `consumer-web` | 18 | 19 | 7 | 4 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **48** | ⚠️ |
 | `user-service` | 2 | 4 | 2 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 ⬜ | **8** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 20, 2026 08:08 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 20, 2026 02:26 PM IST**
 
 ---
 
