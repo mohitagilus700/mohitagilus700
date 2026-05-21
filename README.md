@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **170** |
+| 💻 Total Commits (30d) | **171** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **14** |
 | 🏢 Total Org Repos | **39** |
@@ -68,8 +68,8 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.9%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.2%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `39.0%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.3%` |
 | **CSS** | 🟪🟪🟪 | `9.9%` |
 | **Java** | 🟧🟧 | `7.6%` |
 | **TypeScript** | 🟦🟦 | `7.5%` |
@@ -88,7 +88,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **52** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **33** | 🟪🟪🟪🟦🟦🟦 |
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **26** | 🟪🟪🟪🟦🟦 |
-| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **22** | 🟪🟪🟪🟦 |
+| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **23** | 🟪🟪🟪🟦 |
 | [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **12** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `consumer-service` | 33 | 42 | 39 | 19 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **133** | ⚠️ |
 | `.github-private` | 28 | 27 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
 | `agilus-pulse-portal` | 17 | 22 | 14 | 6 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **59** | ⚠️ |
 | `consumer-web` | 24 | 16 | 4 | 6 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩 | **50** | 🔥 |
 | `user-service` | 2 | 4 | 2 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 ⬜ | **8** | ⚠️ |
+| `sentinel-service` | 0 | 1 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **1** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 21, 2026 08:09 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 21, 2026 02:56 PM IST**
 
 ---
 
