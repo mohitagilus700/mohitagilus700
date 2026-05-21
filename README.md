@@ -72,7 +72,7 @@ Building reliable cloud infrastructure for better healthcare
 | **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.3%` |
 | **CSS** | 🟪🟪🟪 | `9.9%` |
 | **Java** | 🟧🟧 | `7.6%` |
-| **TypeScript** | 🟦🟦 | `7.5%` |
+| **TypeScript** | 🟦🟦 | `7.6%` |
 | **SCSS** | 🟦 | `0.4%` |
 | **HTML** | 🟥 | `0.3%` |
 | **Shell** | 🟩 | `0.1%` |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `consumer-service` | 33 | 42 | 39 | 19 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **133** | ⚠️ |
 | `.github-private` | 28 | 27 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `agilus-pulse-portal` | 17 | 22 | 14 | 6 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **59** | ⚠️ |
 | `consumer-web` | 24 | 16 | 4 | 6 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩 | **50** | 🔥 |
 | `user-service` | 2 | 4 | 2 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 ⬜ | **8** | ⚠️ |
 | `sentinel-service` | 0 | 1 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **1** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 21, 2026 02:56 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 21, 2026 08:18 PM IST**
 
 ---
 
