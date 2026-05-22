@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **171** |
+| 💻 Total Commits (30d) | **172** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **14** |
 | 🏢 Total Org Repos | **39** |
@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **33** | 🟪🟪🟪🟦🟦🟦 |
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **26** | 🟪🟪🟪🟦🟦 |
 | [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **23** | 🟪🟪🟪🟦 |
-| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **12** | 🟪🟪 |
+| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **13** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `consumer-service` | 28 | 50 | 37 | 18 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **133** | ⚠️ |
 | `.github-private` | 28 | 27 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
+| `agilus-pulse-portal` | 15 | 21 | 14 | 6 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **56** | ⚠️ |
 | `consumer-web` | 26 | 13 | 5 | 7 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩 | **51** | 🔥 |
 | `user-service` | 2 | 4 | 2 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 ⬜ | **8** | ⚠️ |
-| `sentinel-service` | 0 | 1 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **1** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 22, 2026 08:11 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 22, 2026 02:21 PM IST**
 
 ---
 
