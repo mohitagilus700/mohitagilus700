@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `consumer-service` | 28 | 50 | 37 | 18 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **133** | ⚠️ |
 | `.github-private` | 28 | 27 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `agilus-pulse-portal` | 15 | 21 | 14 | 6 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **56** | ⚠️ |
-| `consumer-web` | 26 | 13 | 5 | 7 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩 | **51** | 🔥 |
+| `phlebo-parent` | 21 | 14 | 13 | 6 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩 | **54** | ⚠️ |
 | `user-service` | 2 | 4 | 2 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 ⬜ | **8** | ⚠️ |
+| `sales-service` | 0 | 1 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **1** | 💤 |
+| `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 22, 2026 02:21 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 22, 2026 07:53 PM IST**
 
 ---
 
