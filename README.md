@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `consumer-service` | 33 | 42 | 39 | 19 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **133** | ⚠️ |
+| `consumer-service` | 28 | 50 | 37 | 18 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **133** | ⚠️ |
 | `.github-private` | 28 | 27 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `consumer-web` | 24 | 16 | 4 | 6 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩 | **50** | 🔥 |
+| `consumer-web` | 26 | 13 | 5 | 7 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩 | **51** | 🔥 |
 | `user-service` | 2 | 4 | 2 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 ⬜ | **8** | ⚠️ |
 | `sentinel-service` | 0 | 1 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **1** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 22, 2026 01:15 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 22, 2026 08:11 AM IST**
 
 ---
 
