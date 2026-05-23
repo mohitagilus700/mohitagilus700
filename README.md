@@ -55,9 +55,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **166** |
+| 💻 Total Commits (30d) | **171** |
 | 🔁 Pull Requests | **0** |
-| 📂 Repos Contributed To | **13** |
+| 📂 Repos Contributed To | **14** |
 | 🏢 Total Org Repos | **39** |
 <!-- GITHUB_STATS_END -->
 
@@ -68,13 +68,13 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `39.8%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `36.0%` |
-| **CSS** | 🟪🟪🟪 | `10.1%` |
-| **Java** | 🟧🟧 | `7.3%` |
-| **TypeScript** | 🟦🟦 | `6.0%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.9%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.2%` |
+| **CSS** | 🟪🟪🟪 | `9.9%` |
+| **Java** | 🟧🟧 | `7.6%` |
+| **TypeScript** | 🟦🟦 | `7.6%` |
 | **SCSS** | 🟦 | `0.4%` |
-| **HTML** | 🟥 | `0.2%` |
+| **HTML** | 🟥 | `0.3%` |
 | **Shell** | 🟩 | `0.1%` |
 <!-- TOP_LANGUAGES_END -->
 
@@ -106,7 +106,7 @@ Building reliable cloud infrastructure for better healthcare
 | `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 23, 2026 06:38 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 24, 2026 12:29 AM IST**
 
 ---
 
