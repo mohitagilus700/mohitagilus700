@@ -55,9 +55,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **170** |
+| 💻 Total Commits (30d) | **166** |
 | 🔁 Pull Requests | **0** |
-| 📂 Repos Contributed To | **14** |
+| 📂 Repos Contributed To | **13** |
 | 🏢 Total Org Repos | **39** |
 <!-- GITHUB_STATS_END -->
 
@@ -68,13 +68,13 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `39.0%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.3%` |
-| **CSS** | 🟪🟪🟪 | `9.9%` |
-| **Java** | 🟧🟧 | `7.6%` |
-| **TypeScript** | 🟦🟦 | `7.6%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `39.8%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `36.0%` |
+| **CSS** | 🟪🟪🟪 | `10.1%` |
+| **Java** | 🟧🟧 | `7.3%` |
+| **TypeScript** | 🟦🟦 | `6.0%` |
 | **SCSS** | 🟦 | `0.4%` |
-| **HTML** | 🟥 | `0.3%` |
+| **HTML** | 🟥 | `0.2%` |
 | **Shell** | 🟩 | `0.1%` |
 <!-- TOP_LANGUAGES_END -->
 
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `consumer-service` | 30 | 58 | 30 | 21 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **139** | ⚠️ |
 | `.github-private` | 28 | 27 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `phlebo-parent` | 16 | 11 | 13 | 6 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **46** | ⚠️ |
+| `phlebo-parent` | 16 | 11 | 13 | 7 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **47** | ⚠️ |
 | `sentinel-service` | 0 | 1 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **1** | 💤 |
-| `sales-service` | 0 | 1 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **1** | 💤 |
 | `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 23, 2026 01:39 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 23, 2026 06:38 PM IST**
 
 ---
 
