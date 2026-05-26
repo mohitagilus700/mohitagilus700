@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **118** |
+| 💻 Total Commits (30d) | **122** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **14** |
 | 🏢 Total Org Repos | **39** |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `consumer-service` | 31 | 65 | 22 | 13 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **131** | ⚠️ |
 | `.github-private` | 28 | 27 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **110** | ✔️ |
+| `consumer-web` | 23 | 12 | 6 | 4 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩 | **45** | ⚠️ |
 | `consumer-app` | 4 | 0 | 2 | 19 | 🟩 ⬜ 🟩 🟩🟩🟩🟩 | **25** | 🔥 |
 | `user-service` | 3 | 4 | 1 | 6 | 🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **14** | 🔥 |
-| `sales-service` | 0 | 1 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **1** | 💤 |
+| `sentinel-service` | 0 | 1 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **1** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 26, 2026 03:09 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 26, 2026 08:21 PM IST**
 
 ---
 
