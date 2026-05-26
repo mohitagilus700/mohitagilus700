@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **142** |
+| 💻 Total Commits (30d) | **117** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **14** |
 | 🏢 Total Org Repos | **39** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **41** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **25** | 🟪🟪🟪🟦🟦🟦 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **22** | 🟪🟪🟪🟦🟦 |
-| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **18** | 🟪🟪🟪🟦 |
-| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **11** | 🟪🟪🟪 |
+| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **25** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **22** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
+| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **18** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **16** | 🟪🟪🟪🟦🟦🟦 |
+| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **11** | 🟪🟪🟪🟦 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `consumer-service` | 30 | 59 | 29 | 9 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **127** | ⚠️ |
+| `consumer-service` | 31 | 65 | 22 | 13 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **131** | ⚠️ |
 | `.github-private` | 28 | 27 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **110** | ✔️ |
-| `user-service` | 3 | 3 | 2 | 5 | 🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **13** | 🔥 |
-| `consumer-app` | 4 | 0 | 0 | 7 | 🟩🟩🟩 ⬜ ⬜ 🟩🟩🟩🟩 | **11** | ✨ |
+| `consumer-app` | 4 | 0 | 2 | 19 | 🟩 ⬜ 🟩 🟩🟩🟩🟩 | **25** | 🔥 |
+| `user-service` | 3 | 4 | 1 | 6 | 🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **14** | 🔥 |
 | `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 26, 2026 12:48 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 26, 2026 08:04 AM IST**
 
 ---
 
