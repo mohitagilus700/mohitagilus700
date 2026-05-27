@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `consumer-service` | 44 | 47 | 15 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **134** | 🔥 |
 | `.github-private` | 28 | 27 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **110** | ✔️ |
-| `phlebo-parent` | 12 | 13 | 11 | 12 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **48** | ✔️ |
-| `consumer-app` | 4 | 0 | 2 | 30 | 🟩 ⬜ 🟩 🟩🟩🟩🟩 | **36** | 🔥 |
-| `sales-service` | 1 | 0 | 0 | 0 | 🟩🟩🟩🟩 ⬜ ⬜ ⬜ | **1** | 💤 |
+| `user-service` | 4 | 2 | 0 | 12 | 🟩🟩 🟩 ⬜ 🟩🟩🟩🟩 | **18** | ✨ |
+| `sentinel-service` | 1 | 0 | 0 | 2 | 🟩🟩 ⬜ ⬜ 🟩🟩🟩🟩 | **3** | ✨ |
+| `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 27, 2026 03:03 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 28, 2026 01:35 AM IST**
 
 ---
 
