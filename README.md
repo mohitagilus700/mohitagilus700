@@ -103,10 +103,10 @@ Building reliable cloud infrastructure for better healthcare
 | `.github-private` | 27 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **110** | ✔️ |
 | `consumer-app` | 3 | 0 | 2 | 31 | 🟩 ⬜ 🟩 🟩🟩🟩🟩 | **36** | 🔥 |
 | `consumer-web` | 16 | 4 | 6 | 4 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩 | **30** | ⚠️ |
-| `sentinel-service` | 1 | 0 | 0 | 2 | 🟩🟩 ⬜ ⬜ 🟩🟩🟩🟩 | **3** | ✨ |
+| `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 28, 2026 09:04 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 29, 2026 01:39 AM IST**
 
 ---
 
