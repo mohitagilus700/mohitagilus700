@@ -102,11 +102,11 @@ Building reliable cloud infrastructure for better healthcare
 | `consumer-service` | 42 | 39 | 19 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **128** | 🔥 |
 | `.github-private` | 27 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **110** | ✔️ |
 | `consumer-app` | 3 | 0 | 2 | 31 | 🟩 ⬜ 🟩 🟩🟩🟩🟩 | **36** | 🔥 |
-| `user-service` | 4 | 2 | 0 | 12 | 🟩🟩 🟩 ⬜ 🟩🟩🟩🟩 | **18** | ✨ |
+| `consumer-web` | 16 | 4 | 6 | 4 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩 | **30** | ⚠️ |
 | `sentinel-service` | 1 | 0 | 0 | 2 | 🟩🟩 ⬜ ⬜ 🟩🟩🟩🟩 | **3** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 28, 2026 08:01 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 28, 2026 03:21 PM IST**
 
 ---
 
