@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **100** |
+| 💻 Total Commits (30d) | **104** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **14** |
 | 🏢 Total Org Repos | **39** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **24** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **25** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **22** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **15** | 🟪🟪🟪🟦🟦🟦 |
 | [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **9** | 🟪🟪🟪🟦 |
-| [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **7** | 🟪🟪🟪 |
+| [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **9** | 🟪🟪🟪🟦 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `consumer-service` | 50 | 37 | 13 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩 | **128** | 🔥 |
-| `.github-private` | 27 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **110** | ✔️ |
-| `consumer-app` | 3 | 0 | 2 | 32 | 🟩 ⬜ 🟩 🟩🟩🟩🟩 | **37** | 🔥 |
 | `consumer-web` | 13 | 5 | 7 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩 | **27** | ⚠️ |
+| `user-service` | 4 | 2 | 5 | 9 | 🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **20** | 🔥 |
+| `sentinel-service` | 1 | 0 | 0 | 2 | 🟩🟩 ⬜ ⬜ 🟩🟩🟩🟩 | **3** | ✨ |
+| `sales-service` | 1 | 0 | 0 | 0 | 🟩🟩🟩🟩 ⬜ ⬜ ⬜ | **1** | 💤 |
 | `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 29, 2026 08:05 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 29, 2026 03:10 PM IST**
 
 ---
 
