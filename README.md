@@ -55,9 +55,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **104** |
+| 💻 Total Commits (30d) | **102** |
 | 🔁 Pull Requests | **0** |
-| 📂 Repos Contributed To | **14** |
+| 📂 Repos Contributed To | **13** |
 | 🏢 Total Org Repos | **39** |
 <!-- GITHUB_STATS_END -->
 
@@ -88,8 +88,8 @@ Building reliable cloud infrastructure for better healthcare
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **25** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **22** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **15** | 🟪🟪🟪🟦🟦🟦 |
-| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **9** | 🟪🟪🟪🟦 |
 | [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **9** | 🟪🟪🟪🟦 |
+| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **8** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `consumer-service` | 50 | 37 | 13 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩 | **128** | 🔥 |
+| `consumer-service` | 58 | 30 | 9 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩 | **125** | 🔥 |
 | `.github-private` | 27 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **110** | ✔️ |
-| `consumer-web` | 13 | 5 | 7 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩 | **27** | ⚠️ |
+| `consumer-web` | 12 | 7 | 5 | 3 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩 | **27** | ⚠️ |
 | `sales-service` | 1 | 0 | 0 | 0 | 🟩🟩🟩🟩 ⬜ ⬜ ⬜ | **1** | 💤 |
 | `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 30, 2026 01:40 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **May 30, 2026 07:59 AM IST**
 
 ---
 
