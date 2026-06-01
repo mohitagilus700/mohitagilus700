@@ -68,10 +68,10 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.9%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.2%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.8%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.1%` |
 | **CSS** | 🟪🟪🟪 | `9.9%` |
-| **Java** | 🟧🟧 | `7.6%` |
+| **Java** | 🟧🟧 | `7.8%` |
 | **TypeScript** | 🟦🟦 | `7.6%` |
 | **SCSS** | 🟦 | `0.4%` |
 | **HTML** | 🟥 | `0.3%` |
@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `consumer-service` | 59 | 29 | 9 | 28 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩 | **125** | 🔥 |
 | `.github-private` | 27 | 28 | 27 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **110** | ✔️ |
-| `consumer-web` | 12 | 7 | 5 | 3 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩 | **27** | ⚠️ |
-| `sales-service` | 1 | 0 | 0 | 0 | 🟩🟩🟩🟩 ⬜ ⬜ ⬜ | **1** | 💤 |
+| `sales-service` | 1 | 2 | 4 | 25 | 🟩 🟩 🟩 🟩🟩🟩🟩 | **32** | 🔥 |
+| `user-service` | 3 | 2 | 5 | 10 | 🟩🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **20** | 🔥 |
 | `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 01, 2026 08:24 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 01, 2026 04:44 PM IST**
 
 ---
 
