@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **106** |
+| 💻 Total Commits (30d) | **112** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **14** |
 | 🏢 Total Org Repos | **39** |
@@ -69,10 +69,10 @@ Building reliable cloud infrastructure for better healthcare
 | Language | Usage | Share |
 |:---------|:------|------:|
 | **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.7%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.1%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.0%` |
 | **CSS** | 🟪🟪🟪 | `9.9%` |
 | **Java** | 🟧🟧 | `8.1%` |
-| **TypeScript** | 🟦🟦 | `7.5%` |
+| **TypeScript** | 🟦🟦 | `7.6%` |
 | **SCSS** | 🟦 | `0.4%` |
 | **HTML** | 🟥 | `0.3%` |
 | **Shell** | 🟩 | `0.1%` |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **25** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **22** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
+| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **27** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **23** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **15** | 🟪🟪🟪🟦🟦🟦 |
-| [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **9** | 🟪🟪🟪🟦 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **9** | 🟪🟪🟪🟦 |
+| [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **9** | 🟪🟪🟪 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **9** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `user-service` | 6 | 25 | 33 | 52 | 🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **116** | 🔥 |
-| `.github-private` | 27 | 28 | 27 | 31 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **113** | ⬆️ |
+| `consumer-service` | 47 | 15 | 28 | 8 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩 | **98** | ⚠️ |
+| `phlebo-parent` | 22 | 18 | 12 | 2 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **54** | ⚠️ |
 | `elastic-service` | 38 | 5 | 2 | 6 | 🟩🟩🟩🟩 🟩 🟩 🟩 | **51** | 🔥 |
-| `sales-service` | 1 | 2 | 12 | 24 | 🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **39** | 🔥 |
-| `phlebo-parent` | 13 | 11 | 12 | 2 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **38** | ⚠️ |
+| `agilus-pulse-portal` | 6 | 12 | 3 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩 🟩 | **23** | ⚠️ |
+| `edos-service-java` | 9 | 1 | 0 | 0 | 🟩🟩🟩🟩 🟩 ⬜ ⬜ | **10** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 03, 2026 08:56 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 03, 2026 04:16 PM IST**
 
 ---
 
