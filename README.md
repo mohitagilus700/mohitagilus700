@@ -70,7 +70,7 @@ Building reliable cloud infrastructure for better healthcare
 |:---------|:------|------:|
 | **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.7%` |
 | **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.0%` |
-| **CSS** | 🟪🟪🟪 | `9.9%` |
+| **CSS** | 🟪🟪🟪 | `9.8%` |
 | **Java** | 🟧🟧 | `8.1%` |
 | **TypeScript** | 🟦🟦 | `7.6%` |
 | **SCSS** | 🟦 | `0.4%` |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `.github-private` | 27 | 28 | 27 | 31 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **113** | ⬆️ |
 | `consumer-service` | 47 | 15 | 28 | 8 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩 | **98** | ⚠️ |
 | `phlebo-parent` | 22 | 18 | 12 | 2 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **54** | ⚠️ |
-| `elastic-service` | 38 | 5 | 2 | 6 | 🟩🟩🟩🟩 🟩 🟩 🟩 | **51** | 🔥 |
-| `agilus-pulse-portal` | 6 | 12 | 3 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩 🟩 | **23** | ⚠️ |
-| `edos-service-java` | 9 | 1 | 0 | 0 | 🟩🟩🟩🟩 🟩 ⬜ ⬜ | **10** | 💤 |
+| `elastic-service` | 38 | 5 | 2 | 7 | 🟩🟩🟩🟩 🟩 🟩 🟩 | **52** | 🔥 |
+| `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 03, 2026 04:16 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 03, 2026 09:52 PM IST**
 
 ---
 
