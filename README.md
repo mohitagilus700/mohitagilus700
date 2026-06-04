@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **112** |
+| 💻 Total Commits (30d) | **110** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **14** |
 | 🏢 Total Org Repos | **39** |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 27 | 28 | 27 | 31 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **113** | ⬆️ |
-| `consumer-service` | 47 | 15 | 28 | 8 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩 | **98** | ⚠️ |
-| `phlebo-parent` | 22 | 18 | 12 | 2 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **54** | ⚠️ |
-| `elastic-service` | 38 | 5 | 2 | 7 | 🟩🟩🟩🟩 🟩 🟩 🟩 | **52** | 🔥 |
+| `.github-private` | 28 | 28 | 27 | 31 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **114** | ⬆️ |
+| `consumer-service` | 39 | 19 | 28 | 6 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩 | **92** | ⚠️ |
+| `phlebo-parent` | 26 | 9 | 12 | 7 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **54** | ⚠️ |
+| `elastic-service` | 22 | 5 | 2 | 10 | 🟩🟩🟩🟩 🟩 🟩 🟩🟩 | **39** | 🔥 |
 | `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 04, 2026 02:19 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 04, 2026 08:25 AM IST**
 
 ---
 
