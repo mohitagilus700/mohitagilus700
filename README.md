@@ -55,9 +55,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **110** |
+| 💻 Total Commits (30d) | **84** |
 | 🔁 Pull Requests | **0** |
-| 📂 Repos Contributed To | **14** |
+| 📂 Repos Contributed To | **11** |
 | 🏢 Total Org Repos | **39** |
 <!-- GITHUB_STATS_END -->
 
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **27** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **23** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
-| [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **15** | 🟪🟪🟪🟦🟦🟦 |
-| [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **9** | 🟪🟪🟪 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **9** | 🟪🟪🟪 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **23** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **16** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **12** | 🟪🟪🟪🟦🟦 |
+| [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **8** | 🟪🟪🟪 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **8** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 27 | 31 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **114** | ⬆️ |
-| `consumer-service` | 39 | 19 | 28 | 6 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩 | **92** | ⚠️ |
-| `phlebo-parent` | 26 | 9 | 13 | 10 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **58** | ⬇️ |
-| `consumer-app` | 0 | 2 | 31 | 1 | ⬜ 🟩 🟩🟩🟩🟩 🟩 | **34** | ⚠️ |
+| `consumer-service` | 37 | 13 | 28 | 7 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩 | **85** | ⚠️ |
+| `phlebo-parent` | 22 | 15 | 7 | 11 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩 | **55** | 🔥 |
+| `consumer-app` | 0 | 2 | 32 | 0 | ⬜ 🟩 🟩🟩🟩🟩 ⬜ | **34** | ⚠️ |
 | `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 05, 2026 01:26 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 05, 2026 08:13 AM IST**
 
 ---
 
