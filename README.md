@@ -68,7 +68,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.8%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.7%` |
 | **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.1%` |
 | **CSS** | 🟪🟪🟪 | `9.9%` |
 | **Java** | 🟧🟧 | `8.0%` |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `user-service` | 7 | 38 | 20 | 51 | 🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **116** | 🔥 |
 | `.github-private` | 28 | 28 | 27 | 31 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **114** | ⬆️ |
-| `phlebo-parent` | 22 | 15 | 7 | 11 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩 | **55** | 🔥 |
-| `sales-service` | 2 | 2 | 22 | 22 | 🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **48** | ✔️ |
-| `agilus-pulse-portal` | 14 | 6 | 0 | 5 | 🟩🟩🟩🟩 🟩🟩 ⬜ 🟩🟩 | **25** | ✨ |
-| `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
+| `consumer-service` | 37 | 13 | 28 | 7 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩 | **85** | ⚠️ |
+| `phlebo-parent` | 22 | 15 | 7 | 12 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩 | **56** | 🔥 |
+| `phlebo-app` | 0 | 0 | 0 | 8 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **8** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 05, 2026 03:04 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 05, 2026 08:01 PM IST**
 
 ---
 
