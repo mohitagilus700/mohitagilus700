@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **86** |
+| 💻 Total Commits (30d) | **85** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **11** |
 | 🏢 Total Org Repos | **39** |
@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **16** | 🟪🟪🟪🟦🟦🟦🟦 |
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **15** | 🟪🟪🟪🟦🟦🟦🟦 |
 | [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **8** | 🟪🟪🟪 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **8** | 🟪🟪🟪 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **7** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 27 | 28 | 31 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **114** | ⬆️ |
-| `consumer-service` | 29 | 9 | 28 | 7 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩 | **73** | ⚠️ |
-| `phlebo-parent` | 20 | 20 | 1 | 19 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 | **60** | 🔥 |
-| `agilus-pulse-portal` | 16 | 4 | 2 | 5 | 🟩🟩🟩🟩 🟩 🟩 🟩🟩 | **27** | 🔥 |
-| `consumer-web` | 7 | 5 | 3 | 1 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩 | **16** | ⚠️ |
+| `consumer-service` | 22 | 13 | 24 | 6 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **65** | ⚠️ |
+| `phlebo-parent` | 16 | 15 | 1 | 24 | 🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **56** | 🔥 |
+| `agilus-pulse-portal` | 11 | 4 | 2 | 5 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩 | **22** | 🔥 |
+| `consumer-web` | 6 | 4 | 3 | 1 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩 | **14** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 09, 2026 01:35 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 09, 2026 08:00 AM IST**
 
 ---
 
