@@ -103,10 +103,10 @@ Building reliable cloud infrastructure for better healthcare
 | `.github-private` | 28 | 27 | 28 | 31 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **114** | ⬆️ |
 | `consumer-service` | 22 | 13 | 24 | 6 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **65** | ⚠️ |
 | `phlebo-parent` | 16 | 15 | 1 | 27 | 🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **59** | 🔥 |
-| `phlebo-app` | 0 | 0 | 1 | 16 | ⬜ ⬜ 🟩 🟩🟩🟩🟩 | **17** | 🔥 |
+| `agilus-pulse-portal` | 11 | 4 | 2 | 5 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩 | **22** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 09, 2026 02:58 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 09, 2026 08:02 PM IST**
 
 ---
 
