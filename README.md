@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **61** |
+| 💻 Total Commits (30d) | **59** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **11** |
 | 🏢 Total Org Repos | **39** |
@@ -86,7 +86,7 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **18** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **11** | 🟪🟪🟪🟦🟦🟦 |
+| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **9** | 🟪🟪🟪🟦🟦 |
 | [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **8** | 🟪🟪🟪🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **6** | 🟪🟪🟪 |
 | [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **4** | 🟪🟪 |
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 27 | 31 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **114** | ✔️ |
-| `user-service` | 29 | 31 | 51 | 0 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **111** | ⚠️ |
-| `phlebo-parent` | 9 | 14 | 12 | 22 | 🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **57** | 🔥 |
-| `consumer-service` | 19 | 28 | 6 | 4 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩 | **57** | ⚠️ |
-| `sales-service` | 1 | 23 | 22 | 0 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **46** | ⚠️ |
+| `user-service` | 38 | 20 | 51 | 0 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 ⬜ | **109** | ⚠️ |
+| `phlebo-parent` | 15 | 8 | 16 | 21 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **60** | 🔥 |
+| `consumer-service` | 13 | 28 | 7 | 3 | 🟩🟩 🟩🟩🟩🟩 🟩 🟩 | **51** | ⚠️ |
+| `elastic-service` | 1 | 2 | 10 | 0 | 🟩 🟩 🟩🟩🟩🟩 ⬜ | **13** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 12, 2026 01:42 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 12, 2026 08:20 AM IST**
 
 ---
 
