@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **51** |
+| 💻 Total Commits (30d) | **48** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **11** |
 | 🏢 Total Org Repos | **39** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **18** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **8** | 🟪🟪🟪🟦 |
+| [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **15** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **8** | 🟪🟪🟪🟦🟦 |
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **5** | 🟪🟪🟪 |
-| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **4** | 🟪🟪 |
-| [`sentinel-service`](https://github.com/agilusdiagnostics/sentinel-service) | `Java` | **4** | 🟪🟪 |
+| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **4** | 🟪🟪🟪 |
+| [`sentinel-service`](https://github.com/agilusdiagnostics/sentinel-service) | `Java` | **4** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -106,7 +106,7 @@ Building reliable cloud infrastructure for better healthcare
 | `consumer-web` | 5 | 3 | 1 | 0 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 ⬜ | **9** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 15, 2026 12:44 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 15, 2026 08:29 AM IST**
 
 ---
 
