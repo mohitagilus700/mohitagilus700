@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 27 | 31 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **114** | ✔️ |
-| `consumer-service` | 28 | 8 | 7 | 5 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩 | **48** | ⚠️ |
-| `phlebo-app` | 0 | 1 | 16 | 7 | ⬜ 🟩 🟩🟩🟩🟩 🟩🟩 | **24** | ⚠️ |
+| `phlebo-parent` | 14 | 4 | 39 | 12 | 🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩 | **69** | ⚠️ |
+| `sales-service` | 12 | 24 | 9 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 ⬜ | **45** | ⚠️ |
+| `consumer-app` | 30 | 2 | 0 | 0 | 🟩🟩🟩🟩 🟩 ⬜ ⬜ | **32** | 💤 |
 | `elastic-service` | 2 | 7 | 3 | 6 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **18** | 🔥 |
-| `consumer-web` | 5 | 2 | 1 | 1 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩 | **9** | ✔️ |
+| `agilus-pulse-portal` | 3 | 2 | 5 | 5 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **15** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 17, 2026 08:26 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 17, 2026 03:59 PM IST**
 
 ---
 
