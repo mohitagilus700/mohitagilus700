@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **38** |
+| 💻 Total Commits (30d) | **35** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **11** |
 | 🏢 Total Org Repos | **39** |
@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **6** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **5** | 🟪🟪🟪🟦🟦🟦 |
 | [`sentinel-service`](https://github.com/agilusdiagnostics/sentinel-service) | `Java` | **4** | 🟪🟪🟪🟦🟦 |
-| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **3** | 🟪🟪🟪🟦 |
+| [`.github-private`](https://github.com/agilusdiagnostics/.github-private) | `Python` | **2** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 27 | 31 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **114** | ✔️ |
-| `user-service` | 31 | 51 | 0 | 0 | 🟩🟩🟩 🟩🟩🟩🟩 ⬜ ⬜ | **82** | 💤 |
-| `elastic-service` | 2 | 10 | 0 | 6 | 🟩 🟩🟩🟩🟩 ⬜ 🟩🟩🟩 | **18** | ✨ |
-| `agilus-pulse-portal` | 0 | 5 | 2 | 5 | ⬜ 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **12** | 🔥 |
-| `sentinel-service` | 2 | 2 | 0 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ ⬜ | **4** | 💤 |
+| `user-service` | 20 | 51 | 0 | 0 | 🟩🟩 🟩🟩🟩🟩 ⬜ ⬜ | **71** | 💤 |
+| `elastic-service` | 2 | 10 | 1 | 5 | 🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **18** | 🔥 |
+| `agilus-pulse-portal` | 0 | 5 | 4 | 3 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **12** | ⬇️ |
+| `sentinel-service` | 2 | 2 | 0 | 1 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩 | **5** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 19, 2026 01:44 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 19, 2026 09:07 AM IST**
 
 ---
 
