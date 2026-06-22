@@ -86,8 +86,8 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **6** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **5** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **5** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **5** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`sentinel-service`](https://github.com/agilusdiagnostics/sentinel-service) | `Java` | **4** | 🟪🟪🟪🟦🟦🟦🟦 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **2** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `phlebo-parent` | 1 | 20 | 32 | 30 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **83** | ✔️ |
+| `user-service` | 18 | 49 | 0 | 0 | 🟩🟩 🟩🟩🟩🟩 ⬜ ⬜ | **67** | 💤 |
 | `sales-service` | 25 | 17 | 0 | 1 | 🟩🟩🟩🟩 🟩🟩🟩 ⬜ 🟩 | **43** | ✨ |
 | `phlebo-app` | 1 | 16 | 7 | 5 | 🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **29** | ⚠️ |
 | `agilus-pulse-portal` | 2 | 5 | 5 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **12** | ⚠️ |
-| `edos-service-java` | 0 | 1 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **1** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 22, 2026 05:09 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 22, 2026 10:11 PM IST**
 
 ---
 
