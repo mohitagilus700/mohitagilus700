@@ -68,7 +68,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.8%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.7%` |
 | **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.1%` |
 | **CSS** | 🟪🟪🟪 | `9.9%` |
 | **Java** | 🟧🟧 | `8.0%` |
@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **5** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **5** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`sentinel-service`](https://github.com/agilusdiagnostics/sentinel-service) | `Java` | **4** | 🟪🟪🟪🟦🟦🟦🟦 |
-| [`.github-private`](https://github.com/agilusdiagnostics/.github-private) | `Python` | **2** | 🟪🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **2** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 31 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **115** | ✔️ |
-| `phlebo-parent` | 1 | 20 | 32 | 22 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **75** | ⚠️ |
+| `phlebo-parent` | 1 | 20 | 32 | 30 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **83** | ✔️ |
+| `sales-service` | 25 | 17 | 0 | 1 | 🟩🟩🟩🟩 🟩🟩🟩 ⬜ 🟩 | **43** | ✨ |
+| `phlebo-app` | 1 | 16 | 7 | 5 | 🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **29** | ⚠️ |
 | `agilus-pulse-portal` | 2 | 5 | 5 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **12** | ⚠️ |
-| `consumer-web` | 3 | 1 | 0 | 4 | 🟩🟩🟩 🟩 ⬜ 🟩🟩🟩🟩 | **8** | ✨ |
-| `gcp-cloudfunctions-source` | 0 | 3 | 4 | 0 | ⬜ 🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **7** | ⚠️ |
+| `edos-service-java` | 0 | 1 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **1** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 22, 2026 08:57 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 22, 2026 05:09 PM IST**
 
 ---
 
