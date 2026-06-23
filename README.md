@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **31** |
+| 💻 Total Commits (30d) | **30** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **10** |
 | 🏢 Total Org Repos | **39** |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 31 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **115** | ✔️ |
-| `phlebo-parent` | 1 | 20 | 32 | 30 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **83** | ✔️ |
-| `user-service` | 18 | 49 | 0 | 0 | 🟩🟩 🟩🟩🟩🟩 ⬜ ⬜ | **67** | 💤 |
-| `sales-service` | 25 | 17 | 0 | 1 | 🟩🟩🟩🟩 🟩🟩🟩 ⬜ 🟩 | **43** | ✨ |
+| `.github-private` | 28 | 31 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **114** | ✔️ |
+| `phlebo-parent` | 1 | 34 | 28 | 24 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **87** | ⬇️ |
+| `user-service` | 20 | 44 | 0 | 0 | 🟩🟩 🟩🟩🟩🟩 ⬜ ⬜ | **64** | 💤 |
+| `sales-service` | 26 | 11 | 0 | 2 | 🟩🟩🟩🟩 🟩🟩 ⬜ 🟩 | **39** | ✨ |
 | `agilus-pulse-portal` | 2 | 5 | 5 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **12** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 23, 2026 02:06 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 23, 2026 08:05 AM IST**
 
 ---
 
