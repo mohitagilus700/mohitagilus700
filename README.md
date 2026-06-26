@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **29** |
+| 💻 Total Commits (30d) | **25** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **10** |
 | 🏢 Total Org Repos | **39** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **6** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`gcp-cloudfunctions-source`](https://github.com/agilusdiagnostics/gcp-cloudfunctions-source) | `—` | **6** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **5** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`sentinel-service`](https://github.com/agilusdiagnostics/sentinel-service) | `Java` | **3** | 🟪🟪🟪🟦🟦 |
+| [`user-service`](https://github.com/agilusdiagnostics/user-service) | `Java` | **3** | 🟪🟪🟪🟦🟦 |
 | [`.github-private`](https://github.com/agilusdiagnostics/.github-private) | `Python` | **2** | 🟪🟪🟪 |
+| [`sentinel-service`](https://github.com/agilusdiagnostics/sentinel-service) | `Java` | **2** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 31 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **114** | ✔️ |
-| `phlebo-parent` | 12 | 35 | 20 | 20 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **87** | ✔️ |
-| `elastic-service` | 10 | 0 | 6 | 0 | 🟩🟩🟩🟩 ⬜ 🟩🟩🟩 ⬜ | **16** | ⚠️ |
-| `agilus-pulse-portal` | 5 | 2 | 5 | 0 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 ⬜ | **12** | ⚠️ |
-| `sentinel-service` | 2 | 0 | 0 | 1 | 🟩🟩🟩🟩 ⬜ ⬜ 🟩🟩 | **3** | ✨ |
+| `phlebo-parent` | 16 | 35 | 27 | 12 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **90** | ⚠️ |
+| `elastic-service` | 10 | 1 | 5 | 0 | 🟩🟩🟩🟩 🟩 🟩🟩 ⬜ | **16** | ⚠️ |
+| `agilus-pulse-portal` | 5 | 4 | 3 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 ⬜ | **12** | ⚠️ |
+| `sentinel-service` | 2 | 0 | 1 | 1 | 🟩🟩🟩🟩 ⬜ 🟩🟩 🟩🟩 | **4** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 26, 2026 01:18 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 26, 2026 08:10 AM IST**
 
 ---
 
