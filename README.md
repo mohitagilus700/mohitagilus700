@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `phlebo-parent` | 20 | 34 | 44 | 39 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **137** | ⬇️ |
-| `.github-private` | 31 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **114** | ✔️ |
-| `phlebo-app` | 16 | 7 | 11 | 19 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **53** | 🔥 |
+| `phlebo-parent` | 34 | 30 | 43 | 37 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **144** | ⬇️ |
+| `.github-private` | 31 | 28 | 27 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **114** | ✔️ |
+| `phlebo-app` | 16 | 7 | 21 | 9 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **53** | ⚠️ |
 | `elastic-service` | 9 | 1 | 5 | 5 | 🟩🟩🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩 | **20** | ✔️ |
-| `consumer-web` | 1 | 0 | 4 | 3 | 🟩 ⬜ 🟩🟩🟩🟩 🟩🟩🟩 | **8** | ⬇️ |
+| `consumer-web` | 1 | 1 | 3 | 3 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **8** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 30, 2026 01:16 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **June 30, 2026 08:10 AM IST**
 
 ---
 
