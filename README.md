@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **69** |
+| 💻 Total Commits (30d) | **71** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **39** |
@@ -88,7 +88,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **18** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **17** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **16** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
-| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **4** | 🟪🟪 |
+| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **5** | 🟪🟪🟪 |
 | [`.github-private`](https://github.com/agilusdiagnostics/.github-private) | `Python` | **2** | 🟪 |
 <!-- WORKING_ON_END -->
 
@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 27 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
 | `phlebo-app` | 17 | 7 | 23 | 0 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 ⬜ | **47** | ⚠️ |
-| `elastic-service` | 0 | 16 | 7 | 9 | ⬜ 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **32** | 🔥 |
-| `gcp-cloudrun-sources` | 3 | 4 | 0 | 23 | 🟩 🟩 ⬜ 🟩🟩🟩🟩 | **30** | ✨ |
-| `agilus-pulse-portal` | 2 | 17 | 3 | 5 | 🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **27** | 🔥 |
+| `consumer-service` | 4 | 8 | 3 | 8 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **23** | 🔥 |
+| `consumer-app` | 6 | 5 | 0 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ ⬜ | **11** | 💤 |
+| `sales-service` | 0 | 0 | 2 | 1 | ⬜ ⬜ 🟩🟩🟩🟩 🟩🟩 | **3** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 02, 2026 08:06 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 02, 2026 02:14 PM IST**
 
 ---
 
