@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **79** |
+| 💻 Total Commits (30d) | **143** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **11** |
 | 🏢 Total Org Repos | **39** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **19** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **17** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
-| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **16** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **11** | 🟪🟪🟪🟦🟦🟦 |
-| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **6** | 🟪🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **43** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **35** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **28** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **16** | 🟪🟪🟪🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **11** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `phlebo-parent` | 21 | 49 | 34 | 22 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **126** | ⚠️ |
 | `.github-private` | 28 | 27 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `elastic-service` | 16 | 7 | 9 | 0 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 ⬜ | **32** | ⚠️ |
+| `consumer-service` | 8 | 3 | 8 | 10 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **29** | ⬆️ |
+| `consumer-web` | 3 | 4 | 1 | 9 | 🟩🟩 🟩🟩 🟩 🟩🟩🟩🟩 | **17** | 🔥 |
 | `sales-service` | 0 | 2 | 1 | 0 | ⬜ 🟩🟩🟩🟩 🟩🟩 ⬜ | **3** | ⚠️ |
 | `user-service` | 0 | 2 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **2** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 09, 2026 07:42 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 09, 2026 02:55 PM IST**
 
 ---
 
