@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **147** |
+| 💻 Total Commits (30d) | **148** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **11** |
 | 🏢 Total Org Repos | **39** |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `phlebo-parent` | 41 | 52 | 41 | 32 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **166** | ⬇️ |
 | `.github-private` | 28 | 27 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
 | `agilus-pulse-portal` | 18 | 27 | 9 | 19 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **73** | 🔥 |
 | `phlebo-app` | 8 | 22 | 3 | 6 | 🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **39** | 🔥 |
 | `elastic-service` | 18 | 4 | 8 | 0 | 🟩🟩🟩🟩 🟩 🟩🟩 ⬜ | **30** | ⚠️ |
-| `consumer-web` | 4 | 3 | 5 | 9 | 🟩🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **21** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 10, 2026 07:42 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 10, 2026 02:52 PM IST**
 
 ---
 
