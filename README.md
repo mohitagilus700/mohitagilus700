@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **148** |
+| 💻 Total Commits (30d) | **150** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **11** |
 | 🏢 Total Org Repos | **39** |
@@ -68,11 +68,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.7%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `35.0%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `38.5%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `34.8%` |
 | **CSS** | 🟪🟪🟪 | `9.8%` |
 | **Java** | 🟧🟧 | `8.1%` |
-| **TypeScript** | 🟦🟦 | `7.6%` |
+| **TypeScript** | 🟦🟦 | `8.0%` |
 | **SCSS** | 🟦 | `0.4%` |
 | **HTML** | 🟥 | `0.3%` |
 | **Shell** | 🟩 | `0.1%` |
@@ -87,7 +87,7 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|:--------:|:----------------:|:---------|
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **43** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **36** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **29** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **31** | 🟪🟪🟪🟦🟦🟦🟦 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **16** | 🟪🟪🟪🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **11** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `phlebo-parent` | 41 | 52 | 41 | 32 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **166** | ⬇️ |
 | `.github-private` | 28 | 27 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `agilus-pulse-portal` | 18 | 27 | 9 | 19 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **73** | 🔥 |
-| `phlebo-app` | 8 | 22 | 3 | 6 | 🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **39** | 🔥 |
-| `elastic-service` | 18 | 4 | 8 | 0 | 🟩🟩🟩🟩 🟩 🟩🟩 ⬜ | **30** | ⚠️ |
+| `gcp-cloudrun-sources` | 0 | 0 | 23 | 15 | ⬜ ⬜ 🟩🟩🟩🟩 🟩🟩🟩 | **38** | ⚠️ |
+| `user-service` | 0 | 2 | 0 | 2 | ⬜ 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **4** | ✨ |
+| `pulse-cms-service` | 0 | 2 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **2** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 10, 2026 02:52 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 10, 2026 07:35 PM IST**
 
 ---
 
