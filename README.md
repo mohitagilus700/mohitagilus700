@@ -103,10 +103,10 @@ Building reliable cloud infrastructure for better healthcare
 | `.github-private` | 27 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
 | `phlebo-app` | 30 | 29 | 19 | 14 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **92** | ⚠️ |
 | `elastic-service` | 11 | 26 | 17 | 27 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **81** | 🔥 |
-| `consumer-service` | 7 | 8 | 7 | 11 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **33** | 🔥 |
+| `edos-service-java` | 19 | 2 | 7 | 0 | 🟩🟩🟩🟩 🟩 🟩🟩 ⬜ | **28** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 15, 2026 06:49 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 16, 2026 12:29 AM IST**
 
 ---
 
