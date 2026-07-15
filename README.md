@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **147** |
+| 💻 Total Commits (30d) | **146** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **11** |
 | 🏢 Total Org Repos | **39** |
@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **36** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **28** | 🟪🟪🟪🟦🟦🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **16** | 🟪🟪🟪🟦 |
-| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **11** | 🟪🟪🟪 |
+| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **10** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `phlebo-parent` | 48 | 65 | 31 | 51 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **195** | 🔥 |
+| `phlebo-parent` | 54 | 58 | 35 | 47 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **194** | 🔥 |
 | `.github-private` | 27 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `agilus-pulse-portal` | 27 | 37 | 19 | 24 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **107** | 🔥 |
-| `user-service` | 15 | 34 | 6 | 19 | 🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **74** | 🔥 |
-| `consumer-web` | 3 | 3 | 9 | 6 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **21** | ⚠️ |
+| `agilus-pulse-portal` | 34 | 31 | 18 | 22 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **105** | ⬆️ |
+| `user-service` | 22 | 25 | 6 | 21 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 | **74** | 🔥 |
+| `consumer-web` | 5 | 1 | 10 | 5 | 🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩 | **21** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 15, 2026 12:37 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 15, 2026 07:15 AM IST**
 
 ---
 
