@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **164** |
+| 💻 Total Commits (30d) | **172** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **12** |
 | 🏢 Total Org Repos | **40** |
@@ -87,7 +87,7 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|:--------:|:----------------:|:---------|
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **44** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **41** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **29** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **37** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **16** | 🟪🟪🟪🟦 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **10** | 🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `phlebo-parent` | 66 | 53 | 38 | 50 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **207** | 🔥 |
 | `.github-private` | 27 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
 | `agilus-pulse-portal` | 34 | 29 | 17 | 22 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **102** | 🔥 |
 | `gcp-cloudrun-sources` | 0 | 23 | 4 | 15 | ⬜ 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **42** | 🔥 |
 | `consumer-web` | 4 | 1 | 9 | 5 | 🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩 | **19** | ⚠️ |
-| `sentinel-service` | 1 | 1 | 3 | 0 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 ⬜ | **5** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 16, 2026 01:29 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 16, 2026 06:56 PM IST**
 
 ---
 
