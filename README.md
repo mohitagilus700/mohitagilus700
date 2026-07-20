@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **151** |
+| 💻 Total Commits (30d) | **154** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **12** |
 | 🏢 Total Org Repos | **40** |
@@ -88,7 +88,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **37** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **35** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **35** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **17** | 🟪🟪🟪🟦🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **20** | 🟪🟪🟪🟦🟦 |
 | [`agilus-wordpress-web`](https://github.com/agilusdiagnostics/agilus-wordpress-web) | `PHP` | **10** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `phlebo-parent` | 65 | 40 | 49 | 52 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **206** | ✔️ |
 | `.github-private` | 27 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
 | `agilus-pulse-portal` | 45 | 13 | 25 | 16 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩🟩 | **99** | ⚠️ |
-| `phlebo-app` | 43 | 14 | 21 | 8 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩 | **86** | ⚠️ |
-| `gcp-cloudrun-sources` | 0 | 23 | 17 | 15 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **55** | ⬇️ |
 | `consumer-web` | 3 | 8 | 7 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **20** | ⚠️ |
+| `sales-service` | 1 | 1 | 1 | 3 | 🟩🟩 🟩🟩 🟩🟩 🟩🟩🟩🟩 | **6** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 20, 2026 02:15 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 20, 2026 07:21 PM IST**
 
 ---
 
