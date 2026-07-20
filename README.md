@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **153** |
+| 💻 Total Commits (30d) | **149** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **12** |
 | 🏢 Total Org Repos | **40** |
@@ -85,9 +85,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **38** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **37** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **36** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **35** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
+| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **35** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **16** | 🟪🟪🟪🟦 |
 | [`agilus-wordpress-web`](https://github.com/agilusdiagnostics/agilus-wordpress-web) | `PHP` | **10** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -106,7 +106,7 @@ Building reliable cloud infrastructure for better healthcare
 | `consumer-web` | 3 | 8 | 7 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **20** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 20, 2026 12:25 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 20, 2026 07:44 AM IST**
 
 ---
 
