@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
-| `agilus-pulse-portal` | 37 | 19 | 24 | 11 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩 | **91** | ⚠️ |
-| `consumer-service` | 8 | 4 | 14 | 1 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩 | **27** | ⚠️ |
-| `edos-service-java` | 15 | 5 | 2 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩 | **24** | ✔️ |
+| `agilus-pulse-portal` | 31 | 18 | 26 | 6 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **81** | ⚠️ |
+| `consumer-service` | 8 | 7 | 11 | 3 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **29** | ⚠️ |
+| `edos-service-java` | 2 | 7 | 0 | 2 | 🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩 | **11** | ✨ |
 | `sales-service` | 0 | 1 | 2 | 2 | ⬜ 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **5** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 22, 2026 12:37 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 22, 2026 07:26 AM IST**
 
 ---
 
