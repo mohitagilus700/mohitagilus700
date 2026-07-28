@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
 | `agilus-pulse-portal` | 21 | 27 | 12 | 17 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **77** | 🔥 |
-| `gcp-cloudrun-sources` | 22 | 14 | 17 | 0 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **53** | ⚠️ |
+| `consumer-web` | 9 | 6 | 4 | 5 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩 | **24** | ⬆️ |
 | `consumer-service` | 4 | 14 | 1 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩 🟩 | **21** | 🔥 |
 | `edos-service-java` | 5 | 2 | 2 | 0 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 ⬜ | **9** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 28, 2026 01:50 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 28, 2026 07:16 PM IST**
 
 ---
 
