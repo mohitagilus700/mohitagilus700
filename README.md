@@ -88,8 +88,8 @@ Building reliable cloud infrastructure for better healthcare
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **38** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **22** | 🟪🟪🟪🟦🟦🟦 |
 | [`agilus-wordpress-web`](https://github.com/agilusdiagnostics/agilus-wordpress-web) | `PHP` | **15** | 🟪🟪🟪🟦 |
-| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **13** | 🟪🟪🟪 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **13** | 🟪🟪🟪 |
+| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **13** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `phlebo-parent` | 36 | 52 | 46 | 22 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **156** | ⚠️ |
 | `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
 | `agilus-pulse-portal` | 20 | 29 | 8 | 16 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **73** | 🔥 |
-| `consumer-web` | 10 | 5 | 4 | 5 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **24** | ⬆️ |
-| `consumer-service` | 7 | 11 | 3 | 0 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 ⬜ | **21** | ⚠️ |
-| `edos-service-java` | 7 | 0 | 2 | 0 | 🟩🟩🟩🟩 ⬜ 🟩🟩 ⬜ | **9** | ⚠️ |
+| `consumer-app` | 25 | 1 | 2 | 3 | 🟩🟩🟩🟩 🟩 🟩 🟩 | **31** | 🔥 |
+| `sales-service` | 1 | 2 | 2 | 7 | 🟩 🟩🟩 🟩🟩 🟩🟩🟩🟩 | **12** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 29, 2026 07:24 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 29, 2026 01:56 PM IST**
 
 ---
 
