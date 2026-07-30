@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **105** |
+| 💻 Total Commits (30d) | **106** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **10** |
 | 🏢 Total Org Repos | **40** |
@@ -71,7 +71,7 @@ Building reliable cloud infrastructure for better healthcare
 | **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.7%` |
 | **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `38.3%` |
 | **CSS** | 🟪🟪 | `9.1%` |
-| **Java** | 🟧 | `4.2%` |
+| **Java** | 🟧 | `4.3%` |
 | **TypeScript** | 🟦 | `4.1%` |
 | **SCSS** | 🟦 | `1.3%` |
 | **HTML** | 🟥 | `0.3%` |
@@ -88,7 +88,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **34** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **22** | 🟪🟪🟪🟦🟦🟦 |
 | [`agilus-wordpress-web`](https://github.com/agilusdiagnostics/agilus-wordpress-web) | `PHP` | **16** | 🟪🟪🟪🟦🟦 |
-| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **14** | 🟪🟪🟪🟦 |
+| [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **15** | 🟪🟪🟪🟦 |
 | [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **8** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
-| `agilus-pulse-portal` | 19 | 25 | 12 | 17 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **73** | 🔥 |
-| `consumer-web` | 9 | 5 | 5 | 6 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **25** | ⬆️ |
+| `agilus-pulse-portal` | 19 | 25 | 18 | 30 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **92** | 🔥 |
+| `phlebo-app` | 11 | 19 | 5 | 17 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **52** | 🔥 |
 | `consumer-service` | 10 | 9 | 2 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 ⬜ | **21** | ⚠️ |
 | `sales-service` | 0 | 3 | 4 | 4 | ⬜ 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **11** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 30, 2026 01:41 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **July 30, 2026 07:12 PM IST**
 
 ---
 
