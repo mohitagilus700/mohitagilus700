@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **138** |
+| 💻 Total Commits (30d) | **133** |
 | 🔁 Pull Requests | **0** |
 | 📂 Repos Contributed To | **7** |
 | 🏢 Total Org Repos | **40** |
@@ -87,8 +87,8 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|:--------:|:----------------:|:---------|
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **56** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **23** | 🟪🟪🟪🟦 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **20** | 🟪🟪🟪🟦 |
 | [`agilus-wordpress-web`](https://github.com/agilusdiagnostics/agilus-wordpress-web) | `PHP` | **18** | 🟪🟪🟪 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **15** | 🟪🟪🟪 |
 | [`agilus-pulse-portal`](https://github.com/agilusdiagnostics/agilus-pulse-portal) | `TypeScript` | **12** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
-| `agilus-pulse-portal` | 25 | 18 | 31 | 27 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **101** | ⬇️ |
-| `user-service` | 12 | 0 | 1 | 13 | 🟩🟩🟩🟩 ⬜ 🟩 🟩🟩🟩🟩 | **26** | 🔥 |
-| `consumer-web` | 5 | 5 | 6 | 3 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **19** | ⚠️ |
-| `consumer-service` | 9 | 2 | 0 | 5 | 🟩🟩🟩🟩 🟩 ⬜ 🟩🟩🟩 | **16** | ✨ |
+| `.github-private` | 28 | 28 | 28 | 27 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
+| `agilus-pulse-portal` | 24 | 24 | 36 | 12 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **96** | ⚠️ |
+| `user-service` | 9 | 0 | 4 | 10 | 🟩🟩🟩🟩 ⬜ 🟩🟩 🟩🟩🟩🟩 | **23** | 🔥 |
+| `consumer-web` | 3 | 3 | 6 | 7 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **19** | ⬆️ |
+| `consumer-service` | 6 | 2 | 4 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩🟩 | **14** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 07, 2026 05:22 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 07, 2026 07:44 AM IST**
 
 ---
 
