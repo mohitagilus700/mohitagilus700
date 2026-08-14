@@ -111,8 +111,6 @@ def api(url):
                     time.sleep(delay)
                     continue
                 raise ApiError(f"{exc} for {url} after {API_ATTEMPTS} attempts") from exc
-            # A plain 403 with quota left is "you may not see this" -- an answer.
-            #
             # Read the response BODY, not just the status line. GitHub explains 4xx
             # failures in the body -- a 422 in particular carries a `message` plus an
             # `errors` array naming the offending qualifier -- and discarding it made
@@ -125,6 +123,14 @@ def api(url):
                     detail = f" | {parsed.get('message', '')} {parsed.get('errors', '')}".rstrip()
             except (OSError, ValueError, AttributeError):
                 pass
+
+            # 403 (not throttled) and 422 mean "not permitted" / "cannot be resolved",
+            # which is UNKNOWN, not "nothing". Raising keeps that distinction: returning
+            # None here is how a permission gap became a confident "0 Pull Requests" on
+            # the profile for every run before 2026-08-14. No retry -- a permission
+            # denial is not going to change within one run.
+            if exc.code in (403, 422):
+                raise ApiError(f"{exc} for {url}{detail}") from exc
             print(f"  WARNING: {exc} for {url}{detail}", file=sys.stderr)
             return None
         except (OSError, HTTPException) as exc:
@@ -156,7 +162,7 @@ def api_optional(url):
         return None
 
 
-def api_paginate(url, max_pages=10):
+def api_paginate(url, max_pages=100):
     """Collect every page, letting ApiError propagate.
 
     DELIBERATELY NOT TOLERANT. The previous version could not tell "no more pages" from
@@ -165,18 +171,45 @@ def api_paginate(url, max_pages=10):
     org had a handful of repos. Failing the workflow is the better outcome: a profile
     README that occasionally does not update is harmless, one that quietly understates
     the work is not.
+
+    max_pages was 10 -- a silent 1,000-item ceiling. agilusdiagnostics/consumer-web
+    already has 396 PRs and user-service 207, so a busy repo crossing 1,000 would have
+    truncated with no indication at all. Now 100 (10,000 items), and exhausting it is
+    reported rather than assumed to be the end of the data. The cap still exists so a
+    pagination bug cannot loop forever.
     """
     results = []
     for page in range(1, max_pages + 1):
         sep = "&" if "?" in url else "?"
         data = api(f"{url}{sep}per_page=100&page={page}")
-        # None (404) or [] (empty page) both mean there is nothing further.
+        # None (404/409) or [] (empty page) both mean there is nothing further.
         if not data:
             break
         results.extend(data)
         if len(data) < 100:
             break
+    else:
+        # for/else: the loop ran out of pages rather than breaking, so page max_pages
+        # was full and there is very likely more. Never silently.
+        print(
+            f"  WARNING: {url} hit the {max_pages}-page cap "
+            f"({len(results):,} items); the total is a LOWER BOUND",
+            file=sys.stderr,
+        )
     return results
+
+
+def api_paginate_optional(url):
+    """api_paginate for data where "unknown" must stay distinguishable from "none".
+
+    Returns None if the pages could not be read -- which is NOT the same as [], and
+    conflating the two is exactly how a 403 turned into a confident zero.
+    """
+    try:
+        return api_paginate(url)
+    except ApiError as exc:
+        print(f"  WARNING: {exc}", file=sys.stderr)
+        return None
 
 
 # ---------------------------------------------------------------------------
@@ -213,42 +246,79 @@ def fetch_participation(repo_name):
     return []
 
 
-def fetch_user_pr_count():
-    """Total PRs the user opened across the org, or None if it cannot be determined.
+def fetch_user_prs_in_repo(repo_name):
+    """The user's PR count in one repo, or None if it could not be read.
 
-    RETURNS None, NOT 0, WHEN UNAVAILABLE -- that distinction is the point. A zero here
-    is indistinguishable from "no PRs" and renders a confident, wrong number; None
-    renders as a dash, which is honest.
+    Needs `issues: read` -- GitHub's REST API treats every pull request as an issue, so
+    /issues returns both and the PRs are the entries carrying a `pull_request` key
+    (verified against agilusdiagnostics/consumer-web).
 
-    NEITHER AVAILABLE ENDPOINT WORKS UNDER THE CURRENT APP PERMISSIONS. Measured
-    2026-08-14:
+    `creator=` filters SERVER-side, which is why this beats the dedicated /pulls
+    endpoint: /pulls has no creator parameter, so it would download every PR and discard
+    most. Measured 2026-08-14 -- consumer-web has 396 PRs of which 31 are the user's, so
+    /pulls means 4 full pages where this means one small one.
 
-      * /search/issues?q=...+org:{ORG}  -> 422 Unprocessable Entity (run 31779938138).
-        The query itself is valid: it returns 84 with a user PAT, with and without
-        advanced_search. An installation token cannot resolve an `org:`-scoped search.
-      * /repos/{ORG}/{repo}/issues      -> 403 "Resource not accessible by integration"
-        for every one of the 40 repos (run 31780186852). GitHub returns PRs from the
-        issues endpoint, but reading it needs `issues: read`, which this App lacks.
-
-    TO GET A REAL NUMBER, grant the README bot App `issues: read` (and ideally
-    `pull_requests: read`) in its App settings, then prefer the repo-scoped endpoint --
-    it avoids the 422 entirely:
-
-        items = api_paginate(f".../repos/{ORG}/{repo}/issues?creator={USER}&state=all")
-        prs   = sum(1 for i in items if "pull_request" in i)
-
-    The App currently holds `contents: read` and `metadata: read`, which is why commits,
-    languages and participation all work while anything issue-shaped does not. The
-    search call is kept as the single cheapest probe: one request that costs nothing
-    when it fails, instead of 40 that each log a 403.
+    None, not 0, on failure: see fetch_user_pr_count.
     """
-    data = api_optional(
-        f"https://api.github.com/search/issues"
-        f"?q=author:{USER}+type:pr+org:{ORG}&per_page=1"
+    items = api_paginate_optional(
+        f"https://api.github.com/repos/{ORG}/{repo_name}/issues"
+        f"?creator={USER}&state=all&filter=all"
     )
-    if data and "total_count" in data:
-        return data["total_count"]
-    return None
+    if items is None:
+        return None
+    return sum(1 for item in items if "pull_request" in item)
+
+
+def fetch_user_pr_count(repo_names):
+    """Total PRs the user opened across the org. None if it cannot be determined at all.
+
+    CHEAPEST PATH FIRST, RELIABLE PATH SECOND.
+
+    The org-wide search is ONE request against ~40, so it is always worth attempting --
+    but it has failed here before with 422 "The listed users and repositories cannot be
+    searched either because the resources do not exist or you do not have permission to
+    view them" (run 31780436676), while the query itself is valid (84 via a user PAT).
+    That was traced to the App lacking `issues: read`; whether granting it also fixes
+    the org-scoped search, or only the repo-scoped endpoint, is not something we can
+    know without running it. So: try the cheap one, fall back to the certain one.
+
+    RETURNS None, NOT 0, WHEN NOTHING IS READABLE -- that distinction is the whole
+    point. A zero is indistinguishable from "no PRs" and rendered a confident, wrong
+    "0 Pull Requests" on the profile for every run before 2026-08-14. None renders as a
+    dash, which is honest. A PARTIAL read returns the sum and says so: understating by
+    one repo is worth reporting, but discarding 39 good counts is not.
+    """
+    try:
+        data = api(
+            f"https://api.github.com/search/issues"
+            f"?q=author:{USER}+type:pr+org:{ORG}&per_page=1"
+        )
+        if data and "total_count" in data:
+            print("  (via org-wide search: 1 request)")
+            return data["total_count"]
+    except ApiError as exc:
+        print(f"  search unavailable, falling back to per-repo: {exc}", file=sys.stderr)
+
+    total = 0
+    unreadable = 0
+    for name in repo_names:
+        count = fetch_user_prs_in_repo(name)
+        if count is None:
+            unreadable += 1
+        else:
+            total += count
+
+    if unreadable == len(repo_names):
+        return None
+    if unreadable:
+        print(
+            f"  WARNING: {unreadable}/{len(repo_names)} repos unreadable -- "
+            f"PR count {total} is a LOWER BOUND",
+            file=sys.stderr,
+        )
+    else:
+        print(f"  (via per-repo: {len(repo_names)} requests)")
+    return total
 
 
 # ---------------------------------------------------------------------------
@@ -485,9 +555,8 @@ def main():
 
     weekly_data.sort(key=lambda x: sum(x[1][-4:]), reverse=True)
 
-    # One cheap probe. Currently expected to fail -- see fetch_user_pr_count.
     print("Fetching PR count...")
-    total_prs = fetch_user_pr_count()
+    total_prs = fetch_user_pr_count([r["name"] for r in repos])
     print(f"  PRs: {total_prs if total_prs is not None else 'unavailable (App permissions)'}")
 
     # 3. Generate sections
