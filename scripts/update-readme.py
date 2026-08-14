@@ -83,7 +83,14 @@ def api(url):
         # HTTPError first: it subclasses OSError, so the broad clause below would
         # otherwise swallow every HTTP status.
         except HTTPError as exc:
-            if exc.code == 404:
+            # Both of these are ANSWERS, so they return quietly rather than warn:
+            #   404 -- the resource does not exist, or the token cannot see it.
+            #   409 -- on /commits, GitHub reports an EMPTY repository (no commits yet)
+            #          as a Conflict. Seen for agilusdiagnostics/UtilityScripts and
+            #          /agilus-legacy-code in run 31779771818, where logging them as
+            #          WARNINGs made a healthy run look broken.
+            # Zero commits is the right reading of both; neither is worth a retry.
+            if exc.code in (404, 409):
                 return None
             # GitHub uses 403 for BOTH rate limiting and permission denial, and they
             # need opposite handling -- retry the first, accept the second. The headers
