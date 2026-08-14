@@ -213,29 +213,42 @@ def fetch_participation(repo_name):
     return []
 
 
-def fetch_user_prs_in_repo(repo_name):
-    """Count the user's PRs in one repo, via the repo-scoped issues endpoint.
+def fetch_user_pr_count():
+    """Total PRs the user opened across the org, or None if it cannot be determined.
 
-    WHY NOT THE SEARCH API. `/search/issues?q=...+org:{ORG}` returned
-    422 Unprocessable Entity under the GitHub App installation token (run
-    31779938138), so PR count silently rendered as 0. The query itself is fine --
-    verified 2026-08-14 returning 84 with a user PAT, with and without
-    advanced_search -- so this is a limitation of the INSTALLATION token, which cannot
-    resolve an `org:`-scoped search across repositories it enumerates individually.
+    RETURNS None, NOT 0, WHEN UNAVAILABLE -- that distinction is the point. A zero here
+    is indistinguishable from "no PRs" and renders a confident, wrong number; None
+    renders as a dash, which is honest.
 
-    This endpoint is repo-scoped, which the installation token demonstrably can do (the
-    same token reads commits for these repos). GitHub's REST API treats every pull
-    request as an issue, so `/issues` returns both and the PRs are the entries carrying
-    a `pull_request` key -- verified against agilusdiagnostics/consumer-web.
+    NEITHER AVAILABLE ENDPOINT WORKS UNDER THE CURRENT APP PERMISSIONS. Measured
+    2026-08-14:
 
-    Costs one extra paginated call per repo. Acceptable: the loop already makes three,
-    and a correct number beats a cheap zero.
+      * /search/issues?q=...+org:{ORG}  -> 422 Unprocessable Entity (run 31779938138).
+        The query itself is valid: it returns 84 with a user PAT, with and without
+        advanced_search. An installation token cannot resolve an `org:`-scoped search.
+      * /repos/{ORG}/{repo}/issues      -> 403 "Resource not accessible by integration"
+        for every one of the 40 repos (run 31780186852). GitHub returns PRs from the
+        issues endpoint, but reading it needs `issues: read`, which this App lacks.
+
+    TO GET A REAL NUMBER, grant the README bot App `issues: read` (and ideally
+    `pull_requests: read`) in its App settings, then prefer the repo-scoped endpoint --
+    it avoids the 422 entirely:
+
+        items = api_paginate(f".../repos/{ORG}/{repo}/issues?creator={USER}&state=all")
+        prs   = sum(1 for i in items if "pull_request" in i)
+
+    The App currently holds `contents: read` and `metadata: read`, which is why commits,
+    languages and participation all work while anything issue-shaped does not. The
+    search call is kept as the single cheapest probe: one request that costs nothing
+    when it fails, instead of 40 that each log a 403.
     """
-    items = api_paginate(
-        f"https://api.github.com/repos/{ORG}/{repo_name}/issues"
-        f"?creator={USER}&state=all&filter=all"
+    data = api_optional(
+        f"https://api.github.com/search/issues"
+        f"?q=author:{USER}+type:pr+org:{ORG}&per_page=1"
     )
-    return sum(1 for item in items if "pull_request" in item)
+    if data and "total_count" in data:
+        return data["total_count"]
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -297,7 +310,12 @@ def md_github_stats(total_commits, total_prs, repos_contributed, total_repos):
         "| Stat | Count |",
         "|:-----|------:|",
         f"| \U0001f4bb Total Commits (30d) | **{total_commits:,}** |",
-        f"| \U0001f501 Pull Requests | **{total_prs:,}** |",
+        # A dash, not 0, when the count could not be fetched. Rendering an unavailable
+        # value as zero states something false with full confidence -- and it did, for
+        # every run before 2026-08-14. See fetch_user_pr_count.
+        f"| \U0001f501 Pull Requests | **{total_prs:,}** |"
+        if total_prs is not None
+        else "| \U0001f501 Pull Requests | — |",
         f"| \U0001f4c2 Repos Contributed To | **{repos_contributed}** |",
         f"| \U0001f3e2 Total Org Repos | **{total_repos}** |",
     ]
@@ -435,7 +453,6 @@ def main():
     lang_totals = {}
     repo_data = []
     total_commits = 0
-    total_prs = 0
     repos_contributed = 0
     weekly_data = []
 
@@ -448,9 +465,6 @@ def main():
         total_commits += my_commits
         if my_commits > 0:
             repos_contributed += 1
-
-        # My PRs (repo-scoped; the org-wide search API 422s under the App token)
-        total_prs += fetch_user_prs_in_repo(name)
 
         # Languages
         langs = fetch_repo_languages(name)
@@ -470,7 +484,11 @@ def main():
         })
 
     weekly_data.sort(key=lambda x: sum(x[1][-4:]), reverse=True)
-    print(f"  {total_prs} PRs across {len(repos)} repos.")
+
+    # One cheap probe. Currently expected to fail -- see fetch_user_pr_count.
+    print("Fetching PR count...")
+    total_prs = fetch_user_pr_count()
+    print(f"  PRs: {total_prs if total_prs is not None else 'unavailable (App permissions)'}")
 
     # 3. Generate sections
     sections = {
