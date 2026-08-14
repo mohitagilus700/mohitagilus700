@@ -112,7 +112,20 @@ def api(url):
                     continue
                 raise ApiError(f"{exc} for {url} after {API_ATTEMPTS} attempts") from exc
             # A plain 403 with quota left is "you may not see this" -- an answer.
-            print(f"  WARNING: {exc} for {url}", file=sys.stderr)
+            #
+            # Read the response BODY, not just the status line. GitHub explains 4xx
+            # failures in the body -- a 422 in particular carries a `message` plus an
+            # `errors` array naming the offending qualifier -- and discarding it made
+            # run 31779938138's search failure undiagnosable from the logs alone.
+            detail = ""
+            try:
+                raw = exc.read()
+                if raw:
+                    parsed = json.loads(raw)
+                    detail = f" | {parsed.get('message', '')} {parsed.get('errors', '')}".rstrip()
+            except (OSError, ValueError, AttributeError):
+                pass
+            print(f"  WARNING: {exc} for {url}{detail}", file=sys.stderr)
             return None
         except (OSError, HTTPException) as exc:
             # RemoteDisconnected, connection resets, DNS failures, timeouts.
@@ -200,20 +213,29 @@ def fetch_participation(repo_name):
     return []
 
 
-def fetch_user_pr_count():
-    """Count user's PRs across the org using the search API (no pull_requests permission needed).
+def fetch_user_prs_in_repo(repo_name):
+    """Count the user's PRs in one repo, via the repo-scoped issues endpoint.
 
-    Optional, and the search API is the endpoint most likely to need it: its rate limit
-    is far tighter than the core API (30 requests/minute authenticated), so it is the
-    first thing to be throttled during a burst.
+    WHY NOT THE SEARCH API. `/search/issues?q=...+org:{ORG}` returned
+    422 Unprocessable Entity under the GitHub App installation token (run
+    31779938138), so PR count silently rendered as 0. The query itself is fine --
+    verified 2026-08-14 returning 84 with a user PAT, with and without
+    advanced_search -- so this is a limitation of the INSTALLATION token, which cannot
+    resolve an `org:`-scoped search across repositories it enumerates individually.
+
+    This endpoint is repo-scoped, which the installation token demonstrably can do (the
+    same token reads commits for these repos). GitHub's REST API treats every pull
+    request as an issue, so `/issues` returns both and the PRs are the entries carrying
+    a `pull_request` key -- verified against agilusdiagnostics/consumer-web.
+
+    Costs one extra paginated call per repo. Acceptable: the loop already makes three,
+    and a correct number beats a cheap zero.
     """
-    data = api_optional(
-        f"https://api.github.com/search/issues"
-        f"?q=author:{USER}+type:pr+org:{ORG}&per_page=1"
+    items = api_paginate(
+        f"https://api.github.com/repos/{ORG}/{repo_name}/issues"
+        f"?creator={USER}&state=all&filter=all"
     )
-    if data and "total_count" in data:
-        return data["total_count"]
-    return 0
+    return sum(1 for item in items if "pull_request" in item)
 
 
 # ---------------------------------------------------------------------------
@@ -413,6 +435,7 @@ def main():
     lang_totals = {}
     repo_data = []
     total_commits = 0
+    total_prs = 0
     repos_contributed = 0
     weekly_data = []
 
@@ -425,6 +448,9 @@ def main():
         total_commits += my_commits
         if my_commits > 0:
             repos_contributed += 1
+
+        # My PRs (repo-scoped; the org-wide search API 422s under the App token)
+        total_prs += fetch_user_prs_in_repo(name)
 
         # Languages
         langs = fetch_repo_languages(name)
@@ -444,10 +470,7 @@ def main():
         })
 
     weekly_data.sort(key=lambda x: sum(x[1][-4:]), reverse=True)
-
-    # PRs via search API (single call instead of per-repo)
-    print("Fetching PR count...")
-    total_prs = fetch_user_pr_count()
+    print(f"  {total_prs} PRs across {len(repos)} repos.")
 
     # 3. Generate sections
     sections = {
