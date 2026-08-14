@@ -299,12 +299,26 @@ def fetch_user_pr_count(repo_names):
     except ApiError as exc:
         print(f"  search unavailable, falling back to per-repo: {exc}", file=sys.stderr)
 
+    # FAIL FAST ON A SYSTEMIC PERMISSION GAP. A missing `issues: read` is not per-repo
+    # bad luck -- it fails identically for all 40, and run 31781472447 logged forty
+    # near-identical 403s to establish one fact. If the first few all fail with nothing
+    # succeeding, stop: the answer will not change on repo 40.
+    PERMISSION_PROBE = 3
     total = 0
     unreadable = 0
-    for name in repo_names:
+    for position, name in enumerate(repo_names, 1):
         count = fetch_user_prs_in_repo(name)
         if count is None:
             unreadable += 1
+            if unreadable >= PERMISSION_PROBE and total == 0:
+                print(
+                    f"  giving up after {position} repos: the first {unreadable} were all "
+                    "unreadable, which means a missing permission rather than a per-repo "
+                    "problem. Grant the App `issues: read` AND accept the updated "
+                    "permissions on the org installation.",
+                    file=sys.stderr,
+                )
+                return None
         else:
             total += count
 
