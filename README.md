@@ -55,9 +55,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **114** |
+| 💻 Total Commits (30d) | **115** |
 | 🔁 Pull Requests | **2** |
-| 📂 Repos Contributed To | **9** |
+| 📂 Repos Contributed To | **10** |
 | 🏢 Total Org Repos | **41** |
 <!-- GITHUB_STATS_END -->
 
@@ -102,11 +102,11 @@ Building reliable cloud infrastructure for better healthcare
 | `phlebo-parent` | 31 | 37 | 38 | 18 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **124** | ⚠️ |
 | `.github-private` | 28 | 28 | 27 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
 | `agilus-pulse-portal` | 31 | 27 | 12 | 7 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **77** | ⚠️ |
-| `user-service` | 1 | 13 | 3 | 6 | 🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **23** | 🔥 |
 | `consumer-web` | 6 | 3 | 6 | 7 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **22** | ⬆️ |
+| `assorted-service` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 20, 2026 06:02 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 20, 2026 11:57 PM IST**
 
 ---
 
