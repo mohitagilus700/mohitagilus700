@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **113** |
+| 💻 Total Commits (30d) | **114** |
 | 🔁 Pull Requests | **2** |
 | 📂 Repos Contributed To | **9** |
 | 🏢 Total Org Repos | **41** |
@@ -69,7 +69,7 @@ Building reliable cloud infrastructure for better healthcare
 | Language | Usage | Share |
 |:---------|:------|------:|
 | **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.8%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `38.2%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `38.1%` |
 | **CSS** | 🟪🟪 | `9.0%` |
 | **Java** | 🟧 | `4.3%` |
 | **TypeScript** | 🟦 | `4.1%` |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `phlebo-parent` | 31 | 37 | 38 | 18 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **124** | ⚠️ |
+| `.github-private` | 28 | 28 | 27 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
 | `agilus-pulse-portal` | 31 | 27 | 12 | 7 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **77** | ⚠️ |
-| `edos-service-java` | 18 | 17 | 18 | 20 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **73** | ⬆️ |
 | `user-service` | 1 | 13 | 3 | 6 | 🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **23** | 🔥 |
 | `consumer-web` | 6 | 3 | 6 | 7 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **22** | ⬆️ |
-| `consumer-service` | 0 | 5 | 4 | 7 | ⬜ 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **16** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 20, 2026 12:02 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 20, 2026 06:02 PM IST**
 
 ---
 
