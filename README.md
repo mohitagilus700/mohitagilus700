@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **116** |
+| 💻 Total Commits (30d) | **117** |
 | 🔁 Pull Requests | **3** |
 | 📂 Repos Contributed To | **11** |
 | 🏢 Total Org Repos | **41** |
@@ -87,7 +87,7 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **47** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **30** | 🟪🟪🟪🟦🟦🟦 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **11** | 🟪🟪 |
+| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **12** | 🟪🟪🟪 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `—` | **7** | 🟪 |
 | [`pulse-cms-service`](https://github.com/agilusdiagnostics/pulse-cms-service) | `Java` | **6** | 🟪 |
 <!-- WORKING_ON_END -->
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 27 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `phlebo-parent` | 37 | 38 | 18 | 12 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **105** | ⚠️ |
+| `agilus-pulse-portal` | 27 | 12 | 7 | 3 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩 | **49** | ⚠️ |
+| `user-service` | 13 | 3 | 6 | 4 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩🟩 | **26** | ⚠️ |
 | `consumer-web` | 3 | 6 | 7 | 4 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **20** | ⚠️ |
-| `pulse-cms-service` | 0 | 0 | 0 | 6 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **6** | ✨ |
-| `consumer-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
+| `DevOps` | 0 | 6 | 5 | 0 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **11** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 27, 2026 11:59 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 28, 2026 03:02 AM IST**
 
 ---
 
