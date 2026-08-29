@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **111** |
+| 💻 Total Commits (30d) | **110** |
 | 🔁 Pull Requests | **3** |
 | 📂 Repos Contributed To | **12** |
 | 🏢 Total Org Repos | **41** |
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 27 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `phlebo-parent` | 40 | 34 | 18 | 11 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **103** | ⚠️ |
-| `DevOps` | 0 | 6 | 5 | 1 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **12** | ⚠️ |
+| `phlebo-parent` | 40 | 37 | 17 | 9 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **103** | ⚠️ |
+| `DevOps` | 0 | 6 | 5 | 7 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **18** | 🔥 |
 | `sales-service` | 3 | 0 | 1 | 1 | 🟩🟩🟩🟩 ⬜ 🟩🟩 🟩🟩 | **5** | ✔️ |
 | `sentinel-service` | 0 | 2 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **2** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 29, 2026 03:07 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 29, 2026 10:31 AM IST**
 
 ---
 
