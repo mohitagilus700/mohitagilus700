@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **138** |
+| 💻 Total Commits (30d) | **137** |
 | 🔁 Pull Requests | **3** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **41** |
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 27 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `phlebo-parent` | 38 | 37 | 17 | 9 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **101** | ⚠️ |
-| `user-service` | 12 | 7 | 4 | 5 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩 | **28** | ⬆️ |
-| `sales-service` | 3 | 0 | 1 | 1 | 🟩🟩🟩🟩 ⬜ 🟩🟩 🟩🟩 | **5** | ✔️ |
-| `sentinel-service` | 0 | 2 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **2** | 💤 |
+| `phlebo-parent` | 38 | 37 | 17 | 10 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **102** | ⚠️ |
+| `user-service` | 11 | 7 | 4 | 7 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩 | **29** | 🔥 |
+| `sales-service` | 3 | 0 | 1 | 2 | 🟩🟩🟩🟩 ⬜ 🟩🟩 🟩🟩🟩 | **6** | 🔥 |
+| `sentinel-service` | 0 | 2 | 0 | 1 | ⬜ 🟩🟩🟩🟩 ⬜ 🟩🟩 | **3** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 31, 2026 01:51 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 31, 2026 08:14 AM IST**
 
 ---
 
