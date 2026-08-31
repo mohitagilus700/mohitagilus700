@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **148** |
+| 💻 Total Commits (30d) | **149** |
 | 🔁 Pull Requests | **5** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **41** |
@@ -85,7 +85,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **48** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **49** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `HCL` | **29** | 🟪🟪🟪🟦🟦🟦 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **23** | 🟪🟪🟪🟦🟦 |
 | [`pulse-cms-service`](https://github.com/agilusdiagnostics/pulse-cms-service) | `Java` | **11** | 🟪🟪 |
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 27 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `phlebo-parent` | 38 | 37 | 17 | 10 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **102** | ⚠️ |
 | `edos-service-java` | 26 | 18 | 18 | 11 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩 | **73** | ⚠️ |
 | `gcp-cloudrun-sources` | 2 | 39 | 14 | 2 | 🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **57** | ⚠️ |
-| `agilus-pulse-portal` | 19 | 1 | 7 | 4 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩 | **31** | ⚠️ |
+| `elastic-service` | 9 | 11 | 17 | 4 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **41** | ⚠️ |
+| `consumer-web` | 7 | 0 | 10 | 2 | 🟩🟩🟩 ⬜ 🟩🟩🟩🟩 🟩 | **19** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **August 31, 2026 05:49 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 01, 2026 03:44 AM IST**
 
 ---
 
