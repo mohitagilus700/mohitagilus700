@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 27 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
-| `edos-service-java` | 26 | 18 | 18 | 11 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩 | **73** | ⚠️ |
-| `gcp-cloudrun-sources` | 2 | 39 | 14 | 2 | 🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **57** | ⚠️ |
-| `elastic-service` | 9 | 11 | 17 | 4 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **41** | ⚠️ |
-| `consumer-web` | 7 | 0 | 10 | 2 | 🟩🟩🟩 ⬜ 🟩🟩🟩🟩 🟩 | **19** | ⚠️ |
+| `edos-service-java` | 17 | 18 | 18 | 14 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **67** | ⬇️ |
+| `gcp-cloudrun-sources` | 0 | 39 | 16 | 2 | ⬜ 🟩🟩🟩🟩 🟩🟩 🟩 | **57** | ⚠️ |
+| `elastic-service` | 11 | 8 | 16 | 5 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **40** | ⚠️ |
+| `consumer-web` | 6 | 0 | 11 | 3 | 🟩🟩🟩 ⬜ 🟩🟩🟩🟩 🟩🟩 | **20** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 01, 2026 03:44 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 01, 2026 08:26 AM IST**
 
 ---
 
