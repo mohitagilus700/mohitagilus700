@@ -103,10 +103,10 @@ Building reliable cloud infrastructure for better healthcare
 | `phlebo-parent` | 39 | 29 | 12 | 16 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩 | **96** | 🔥 |
 | `agilus-pulse-portal` | 13 | 9 | 13 | 14 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **49** | ✔️ |
 | `consumer-service` | 4 | 7 | 1 | 3 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **15** | 🔥 |
-| `pulse-cms-service` | 0 | 0 | 6 | 5 | ⬜ ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 | **11** | ⬇️ |
+| `consumer-app` | 0 | 0 | 0 | 7 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **7** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 02, 2026 09:14 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 03, 2026 01:51 AM IST**
 
 ---
 
