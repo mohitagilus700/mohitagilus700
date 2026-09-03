@@ -55,9 +55,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **147** |
+| 💻 Total Commits (30d) | **148** |
 | 🔁 Pull Requests | **8** |
-| 📂 Repos Contributed To | **15** |
+| 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **41** |
 <!-- GITHUB_STATS_END -->
 
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `.github-private` | 27 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **111** | ✔️ |
 | `phlebo-parent` | 38 | 18 | 15 | 29 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩🟩🟩 | **100** | 🔥 |
-| `edos-service-java` | 18 | 20 | 8 | 16 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **62** | 🔥 |
 | `agilus-pulse-portal` | 12 | 14 | 13 | 9 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **48** | ⚠️ |
-| `elastic-service` | 10 | 17 | 3 | 14 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 | **44** | 🔥 |
 | `consumer-web` | 6 | 7 | 4 | 3 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **20** | ⬇️ |
+| `consumer-app` | 0 | 0 | 1 | 14 | ⬜ ⬜ 🟩 🟩🟩🟩🟩 | **15** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 03, 2026 03:59 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 03, 2026 09:04 PM IST**
 
 ---
 
