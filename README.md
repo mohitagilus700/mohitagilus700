@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **164** |
+| 💻 Total Commits (30d) | **168** |
 | 🔁 Pull Requests | **8** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **41** |
@@ -68,7 +68,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `43.0%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.9%` |
 | **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `38.0%` |
 | **CSS** | 🟪🟪 | `8.9%` |
 | **Java** | 🟧 | `4.2%` |
@@ -85,8 +85,8 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **68** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **32** | 🟪🟪🟪🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **72** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **32** | 🟪🟪🟪🟦 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **14** | 🟪🟪 |
 | [`pulse-cms-service`](https://github.com/agilusdiagnostics/pulse-cms-service) | `Java` | **11** | 🟪🟪 |
 | [`agilus-wordpress-web`](https://github.com/agilusdiagnostics/agilus-wordpress-web) | `PHP` | **6** | 🟪 |
@@ -106,7 +106,7 @@ Building reliable cloud infrastructure for better healthcare
 | `consumer-service` | 5 | 3 | 2 | 5 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **15** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 08, 2026 09:16 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 09, 2026 02:03 AM IST**
 
 ---
 
