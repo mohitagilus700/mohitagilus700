@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **159** |
+| 💻 Total Commits (30d) | **164** |
 | 🔁 Pull Requests | **8** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **41** |
@@ -85,8 +85,8 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **64** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **31** | 🟪🟪🟪🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `—` | **68** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **32** | 🟪🟪🟪🟦🟦 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **14** | 🟪🟪 |
 | [`pulse-cms-service`](https://github.com/agilusdiagnostics/pulse-cms-service) | `Java` | **11** | 🟪🟪 |
 | [`agilus-wordpress-web`](https://github.com/agilusdiagnostics/agilus-wordpress-web) | `PHP` | **6** | 🟪 |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `phlebo-parent` | 39 | 16 | 17 | 19 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **91** | ⬆️ |
-| `gcp-cloudrun-sources` | 39 | 16 | 2 | 21 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩🟩 | **78** | 🔥 |
+| `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
+| `phlebo-parent` | 39 | 17 | 17 | 19 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **92** | ⬆️ |
+| `gcp-cloudrun-sources` | 39 | 16 | 2 | 22 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩🟩 | **79** | 🔥 |
 | `edos-service-java` | 18 | 18 | 14 | 5 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **55** | ⚠️ |
-| `agilus-pulse-portal` | 1 | 22 | 8 | 8 | 🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **39** | ✔️ |
-| `pulse-cms-service` | 0 | 4 | 7 | 0 | ⬜ 🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **11** | ⚠️ |
+| `consumer-service` | 5 | 3 | 2 | 5 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **15** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 08, 2026 03:52 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 08, 2026 09:16 PM IST**
 
 ---
 
