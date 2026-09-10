@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **174** |
+| 💻 Total Commits (30d) | **183** |
 | 🔁 Pull Requests | **8** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **41** |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
-| `edos-service-java` | 29 | 10 | 31 | 22 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **92** | ⚠️ |
 | `phlebo-parent` | 18 | 16 | 29 | 8 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **71** | ⚠️ |
 | `consumer-service` | 7 | 1 | 4 | 6 | 🟩🟩🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **18** | 🔥 |
-| `agilus-wordpress-web` | 0 | 1 | 4 | 5 | ⬜ 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **10** | ⬆️ |
+| `consumer-web` | 7 | 4 | 3 | 2 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩 | **16** | ⚠️ |
+| `sentinel-service` | 0 | 0 | 2 | 0 | ⬜ ⬜ 🟩🟩🟩🟩 ⬜ | **2** | ⚠️ |
+| `assorted-service` | 0 | 2 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **2** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 10, 2026 07:56 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 10, 2026 03:51 PM IST**
 
 ---
 
