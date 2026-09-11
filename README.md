@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **178** |
+| 💻 Total Commits (30d) | **193** |
 | 🔁 Pull Requests | **8** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **41** |
@@ -86,10 +86,10 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **70** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **26** | 🟪🟪🟪🟦 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **15** | 🟪🟪 |
-| [`pulse-cms-service`](https://github.com/agilusdiagnostics/pulse-cms-service) | `Java` | **11** | 🟪🟪 |
-| [`agilus-wordpress-web`](https://github.com/agilusdiagnostics/agilus-wordpress-web) | `PHP` | **10** | 🟪 |
+| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **28** | 🟪🟪🟪🟦 |
+| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **17** | 🟪🟪 |
+| [`pulse-cms-service`](https://github.com/agilusdiagnostics/pulse-cms-service) | `Java` | **13** | 🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **10** | 🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
-| `phlebo-parent` | 21 | 12 | 27 | 28 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **88** | ✔️ |
-| `consumer-service` | 7 | 0 | 4 | 10 | 🟩🟩🟩 ⬜ 🟩🟩 🟩🟩🟩🟩 | **21** | 🔥 |
+| `agilus-pulse-portal` | 23 | 10 | 18 | 18 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **69** | ✔️ |
+| `user-service` | 14 | 5 | 10 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩 | **31** | ⚠️ |
+| `DevOps` | 5 | 1 | 17 | 3 | 🟩🟩 🟩 🟩🟩🟩🟩 🟩 | **26** | ⚠️ |
 | `consumer-web` | 10 | 2 | 2 | 3 | 🟩🟩🟩🟩 🟩 🟩 🟩🟩 | **17** | 🔥 |
 | `sentinel-service` | 0 | 0 | 2 | 2 | ⬜ ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 | **4** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 11, 2026 07:51 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 11, 2026 03:51 PM IST**
 
 ---
 
