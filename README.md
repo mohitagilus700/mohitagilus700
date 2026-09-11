@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **193** |
+| 💻 Total Commits (30d) | **208** |
 | 🔁 Pull Requests | **8** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **41** |
@@ -68,7 +68,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.9%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.8%` |
 | **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.9%` |
 | **CSS** | 🟪🟪 | `8.9%` |
 | **Java** | 🟧 | `4.3%` |
@@ -86,10 +86,10 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **70** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **28** | 🟪🟪🟪🟦 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **17** | 🟪🟪 |
-| [`pulse-cms-service`](https://github.com/agilusdiagnostics/pulse-cms-service) | `Java` | **13** | 🟪🟪 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **10** | 🟪 |
+| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **32** | 🟪🟪🟪🟦🟦 |
+| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **19** | 🟪🟪🟪 |
+| [`pulse-cms-service`](https://github.com/agilusdiagnostics/pulse-cms-service) | `Java` | **14** | 🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **11** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `agilus-pulse-portal` | 23 | 10 | 18 | 18 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **69** | ✔️ |
+| `phlebo-parent` | 21 | 12 | 27 | 28 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **88** | ✔️ |
+| `pulse-cms-service` | 20 | 11 | 15 | 7 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩 | **53** | ⚠️ |
 | `user-service` | 14 | 5 | 10 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩 | **31** | ⚠️ |
-| `DevOps` | 5 | 1 | 17 | 3 | 🟩🟩 🟩 🟩🟩🟩🟩 🟩 | **26** | ⚠️ |
-| `consumer-web` | 10 | 2 | 2 | 3 | 🟩🟩🟩🟩 🟩 🟩 🟩🟩 | **17** | 🔥 |
+| `sales-service` | 1 | 1 | 2 | 1 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **5** | ⚠️ |
 | `sentinel-service` | 0 | 0 | 2 | 2 | ⬜ ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 | **4** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 11, 2026 03:51 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 11, 2026 09:08 PM IST**
 
 ---
 
