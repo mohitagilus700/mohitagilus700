@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **251** |
+| 💻 Total Commits (30d) | **243** |
 | 🔁 Pull Requests | **8** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **41** |
@@ -85,8 +85,8 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **67** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **35** | 🟪🟪🟪🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **64** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **30** | 🟪🟪🟪🟦🟦 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **24** | 🟪🟪🟪🟦 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **20** | 🟪🟪🟪 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **17** | 🟪🟪🟪 |
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
-| `user-service` | 14 | 7 | 8 | 4 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩🟩 | **33** | ⚠️ |
-| `DevOps` | 0 | 18 | 2 | 9 | ⬜ 🟩🟩🟩🟩 🟩 🟩🟩 | **29** | 🔥 |
-| `sentinel-service` | 0 | 1 | 1 | 5 | ⬜ 🟩 🟩 🟩🟩🟩🟩 | **7** | 🔥 |
-| `sales-service` | 1 | 2 | 1 | 3 | 🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **7** | 🔥 |
+| `user-service` | 14 | 8 | 7 | 5 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩 | **34** | ⚠️ |
+| `DevOps` | 0 | 18 | 2 | 10 | ⬜ 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **30** | 🔥 |
+| `sentinel-service` | 0 | 2 | 0 | 6 | ⬜ 🟩🟩 ⬜ 🟩🟩🟩🟩 | **8** | ✨ |
+| `sales-service` | 1 | 3 | 0 | 4 | 🟩 🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **8** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 15, 2026 02:45 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 15, 2026 08:17 AM IST**
 
 ---
 
