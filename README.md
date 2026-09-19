@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **252** |
+| 💻 Total Commits (30d) | **249** |
 | 🔁 Pull Requests | **8** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **41** |
@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **30** | 🟪🟪🟪🟦 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **24** | 🟪🟪🟪 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **20** | 🟪🟪🟪 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **17** | 🟪🟪 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **16** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
-| `phlebo-parent` | 12 | 27 | 28 | 14 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **81** | ⚠️ |
-| `agilus-pulse-portal` | 10 | 18 | 18 | 9 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **55** | ⚠️ |
-| `consumer-service` | 0 | 4 | 10 | 9 | ⬜ 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **23** | ✔️ |
-| `consumer-web` | 2 | 2 | 3 | 9 | 🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **16** | 🔥 |
+| `phlebo-parent` | 10 | 27 | 31 | 14 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **82** | ⚠️ |
+| `agilus-pulse-portal` | 7 | 17 | 19 | 9 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **52** | ⚠️ |
+| `consumer-service` | 0 | 6 | 14 | 3 | ⬜ 🟩🟩 🟩🟩🟩🟩 🟩 | **23** | ⚠️ |
+| `consumer-web` | 2 | 2 | 6 | 9 | 🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **19** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 19, 2026 01:44 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 19, 2026 08:02 AM IST**
 
 ---
 
