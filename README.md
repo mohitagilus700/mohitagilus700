@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **277** |
+| 💻 Total Commits (30d) | **281** |
 | 🔁 Pull Requests | **8** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **41** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **72** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **73** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **30** | 🟪🟪🟪🟦 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **23** | 🟪🟪🟪 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **20** | 🟪🟪🟪 |
-| [`pulse-cms-service`](https://github.com/agilusdiagnostics/pulse-cms-service) | `Java` | **19** | 🟪🟪🟪 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **19** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
-| `pulse-cms-service` | 14 | 11 | 10 | 5 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **40** | ⚠️ |
-| `user-service` | 5 | 10 | 4 | 5 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **24** | ⬆️ |
-| `sentinel-service` | 0 | 2 | 5 | 6 | ⬜ 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **13** | ⬆️ |
-| `sales-service` | 1 | 2 | 3 | 7 | 🟩 🟩🟩 🟩🟩 🟩🟩🟩🟩 | **13** | 🔥 |
+| `gcp-cloudrun-sources` | 2 | 10 | 45 | 30 | 🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩 | **87** | ⚠️ |
+| `agilus-pulse-portal` | 6 | 17 | 19 | 9 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **51** | ⚠️ |
+| `shared-actions` | 1 | 0 | 14 | 8 | 🟩 ⬜ 🟩🟩🟩🟩 🟩🟩🟩 | **23** | ⚠️ |
+| `consumer-web` | 2 | 2 | 6 | 9 | 🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **19** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 20, 2026 08:13 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 20, 2026 03:53 PM IST**
 
 ---
 
