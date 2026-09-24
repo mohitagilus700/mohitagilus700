@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **305** |
+| 💻 Total Commits (30d) | **298** |
 | 🔁 Pull Requests | **8** |
 | 📂 Repos Contributed To | **17** |
 | 🏢 Total Org Repos | **42** |
@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **48** | 🟪🟪🟪🟦🟦🟦 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **23** | 🟪🟪🟪 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **21** | 🟪🟪🟪 |
-| [`pulse-cms-service`](https://github.com/agilusdiagnostics/pulse-cms-service) | `Java` | **18** | 🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **18** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `agilus-pulse-portal` | 16 | 19 | 10 | 6 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **51** | ⚠️ |
-| `elastic-service` | 9 | 11 | 15 | 7 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **42** | ⚠️ |
-| `pulse-cms-service` | 12 | 11 | 6 | 4 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **33** | ⚠️ |
-| `DevOps` | 18 | 3 | 9 | 0 | 🟩🟩🟩🟩 🟩 🟩🟩 ⬜ | **30** | ⚠️ |
-| `consumer-app` | 7 | 12 | 0 | 0 | 🟩🟩🟩 🟩🟩🟩🟩 ⬜ ⬜ | **19** | 💤 |
+| `DevOps` | 18 | 3 | 9 | 18 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **48** | 🔥 |
+| `agilus-pulse-portal` | 14 | 22 | 4 | 6 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **46** | 🔥 |
+| `elastic-service` | 15 | 13 | 8 | 6 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **42** | ⬇️ |
+| `pulse-cms-service` | 14 | 9 | 4 | 4 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩 | **31** | ✔️ |
+| `consumer-app` | 14 | 4 | 0 | 1 | 🟩🟩🟩🟩 🟩🟩 ⬜ 🟩 | **19** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 24, 2026 02:25 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 24, 2026 08:02 AM IST**
 
 ---
 
