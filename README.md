@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **298** |
+| 💻 Total Commits (30d) | **300** |
 | 🔁 Pull Requests | **8** |
 | 📂 Repos Contributed To | **17** |
 | 🏢 Total Org Repos | **42** |
@@ -87,8 +87,8 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **81** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **48** | 🟪🟪🟪🟦🟦🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **23** | 🟪🟪🟪 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **22** | 🟪🟪🟪 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **21** | 🟪🟪🟪 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **18** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `phlebo-parent` | 27 | 28 | 14 | 14 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **83** | ✔️ |
-| `elastic-service` | 19 | 11 | 7 | 5 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩 | **42** | ⚠️ |
+| `agilus-pulse-portal` | 18 | 18 | 9 | 5 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **50** | ⚠️ |
 | `pulse-cms-service` | 15 | 7 | 4 | 4 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **30** | ✔️ |
+| `shared-actions` | 0 | 3 | 19 | 6 | ⬜ 🟩 🟩🟩🟩🟩 🟩🟩 | **28** | ⚠️ |
 | `consumer-web` | 2 | 3 | 9 | 5 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **19** | ⚠️ |
-| `assorted-service` | 5 | 6 | 4 | 3 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **18** | ⬇️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 25, 2026 04:25 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 25, 2026 09:45 PM IST**
 
 ---
 
