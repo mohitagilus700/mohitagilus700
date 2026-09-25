@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **300** |
+| 💻 Total Commits (30d) | **298** |
 | 🔁 Pull Requests | **8** |
 | 📂 Repos Contributed To | **17** |
 | 🏢 Total Org Repos | **42** |
@@ -87,7 +87,7 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **81** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **48** | 🟪🟪🟪🟦🟦🟦 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **23** | 🟪🟪🟪 |
+| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **22** | 🟪🟪🟪 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **21** | 🟪🟪🟪 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **18** | 🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-cloudrun-sources` | 10 | 32 | 36 | 15 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **93** | ⚠️ |
-| `phlebo-parent` | 29 | 10 | 32 | 12 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **83** | ⚠️ |
-| `edos-service-java` | 31 | 22 | 12 | 7 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩 | **72** | ⚠️ |
-| `agilus-pulse-portal` | 14 | 22 | 4 | 6 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **46** | 🔥 |
-| `consumer-service` | 4 | 6 | 13 | 5 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **28** | ⚠️ |
+| `gcp-cloudrun-sources` | 10 | 32 | 43 | 10 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **95** | ⚠️ |
+| `phlebo-parent` | 27 | 28 | 14 | 14 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **83** | ✔️ |
+| `edos-service-java` | 29 | 22 | 10 | 8 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **69** | ⬇️ |
+| `agilus-pulse-portal` | 18 | 18 | 9 | 5 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **50** | ⚠️ |
+| `consumer-service` | 4 | 10 | 9 | 9 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **32** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 25, 2026 02:29 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 25, 2026 08:19 AM IST**
 
 ---
 
