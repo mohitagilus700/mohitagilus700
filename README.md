@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `gcp-cloudrun-sources` | 10 | 45 | 30 | 14 | 🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **99** | ⚠️ |
+| `phlebo-parent` | 27 | 32 | 18 | 7 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **84** | ⚠️ |
 | `agilus-pulse-portal` | 17 | 19 | 9 | 4 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **49** | ⚠️ |
 | `DevOps` | 4 | 9 | 1 | 22 | 🟩 🟩🟩 🟩 🟩🟩🟩🟩 | **36** | 🔥 |
 | `shared-actions` | 0 | 14 | 8 | 13 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **35** | 🔥 |
-| `consumer-web` | 2 | 6 | 9 | 3 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **20** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 27, 2026 09:38 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 28, 2026 02:10 AM IST**
 
 ---
 
