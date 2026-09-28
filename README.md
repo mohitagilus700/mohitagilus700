@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **56** | 🟪🟪🟪🟦🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **35** | 🟪🟪🟪🟦 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **19** | 🟪🟪 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **17** | 🟪🟪 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **17** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `phlebo-parent` | 26 | 32 | 18 | 7 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **83** | ⚠️ |
-| `elastic-service` | 15 | 14 | 9 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 ⬜ | **38** | ⚠️ |
 | `pulse-cms-service` | 11 | 10 | 5 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 ⬜ | **26** | ⚠️ |
 | `user-service` | 8 | 4 | 5 | 0 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 ⬜ | **17** | ⚠️ |
+| `assorted-service` | 1 | 9 | 4 | 0 | 🟩 🟩🟩🟩🟩 🟩🟩 ⬜ | **14** | ⚠️ |
 | `sentinel-service` | 1 | 5 | 6 | 0 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **12** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 28, 2026 06:02 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 29, 2026 04:19 AM IST**
 
 ---
 
