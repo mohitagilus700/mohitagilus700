@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **316** |
+| 💻 Total Commits (30d) | **326** |
 | 🔁 Pull Requests | **9** |
 | 📂 Repos Contributed To | **17** |
 | 🏢 Total Org Repos | **42** |
@@ -88,8 +88,8 @@ Building reliable cloud infrastructure for better healthcare
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **90** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **53** | 🟪🟪🟪🟦🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **35** | 🟪🟪🟪🟦 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **19** | 🟪🟪 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **15** | 🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **21** | 🟪🟪 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **16** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `phlebo-parent` | 19 | 33 | 17 | 8 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **77** | ⚠️ |
-| `DevOps` | 2 | 10 | 0 | 35 | 🟩 🟩🟩 ⬜ 🟩🟩🟩🟩 | **47** | ✨ |
+| `edos-service-java` | 9 | 26 | 8 | 4 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **47** | ⚠️ |
 | `elastic-service` | 13 | 14 | 8 | 1 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **36** | ⚠️ |
 | `pulse-cms-service` | 8 | 9 | 4 | 1 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **22** | ⚠️ |
 | `user-service` | 7 | 5 | 4 | 1 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩 | **17** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 29, 2026 05:24 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 29, 2026 10:54 PM IST**
 
 ---
 
