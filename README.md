@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **308** |
+| 💻 Total Commits (30d) | **316** |
 | 🔁 Pull Requests | **9** |
 | 📂 Repos Contributed To | **17** |
 | 🏢 Total Org Repos | **42** |
@@ -86,7 +86,7 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **90** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **47** | 🟪🟪🟪🟦🟦 |
+| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **53** | 🟪🟪🟪🟦🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **35** | 🟪🟪🟪🟦 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **19** | 🟪🟪 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **15** | 🟪🟪 |
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `phlebo-parent` | 19 | 33 | 17 | 8 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **77** | ⚠️ |
+| `DevOps` | 2 | 10 | 0 | 35 | 🟩 🟩🟩 ⬜ 🟩🟩🟩🟩 | **47** | ✨ |
+| `elastic-service` | 13 | 14 | 8 | 1 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **36** | ⚠️ |
 | `pulse-cms-service` | 8 | 9 | 4 | 1 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **22** | ⚠️ |
-| `assorted-service` | 0 | 10 | 3 | 5 | ⬜ 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **18** | 🔥 |
 | `user-service` | 7 | 5 | 4 | 1 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩 | **17** | ⚠️ |
-| `sentinel-service` | 0 | 6 | 5 | 1 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **12** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 29, 2026 09:05 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 29, 2026 05:24 PM IST**
 
 ---
 
