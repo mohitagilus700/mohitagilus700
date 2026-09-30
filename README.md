@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **326** |
+| 💻 Total Commits (30d) | **319** |
 | 🔁 Pull Requests | **9** |
 | 📂 Repos Contributed To | **17** |
 | 🏢 Total Org Repos | **42** |
@@ -88,7 +88,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **90** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **53** | 🟪🟪🟪🟦🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **35** | 🟪🟪🟪🟦 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **21** | 🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **20** | 🟪🟪 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **16** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `phlebo-parent` | 19 | 33 | 17 | 8 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **77** | ⚠️ |
-| `edos-service-java` | 9 | 26 | 8 | 4 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **47** | ⚠️ |
-| `elastic-service` | 13 | 14 | 8 | 1 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **36** | ⚠️ |
-| `pulse-cms-service` | 8 | 9 | 4 | 1 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **22** | ⚠️ |
-| `user-service` | 7 | 5 | 4 | 1 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩 | **17** | ⚠️ |
+| `phlebo-parent` | 16 | 32 | 14 | 12 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **74** | ⬇️ |
+| `agilus-pulse-portal` | 19 | 10 | 6 | 5 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩 | **40** | ⬇️ |
+| `elastic-service` | 11 | 15 | 7 | 2 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **35** | ⚠️ |
+| `pulse-cms-service` | 11 | 6 | 4 | 2 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩 | **23** | ⚠️ |
+| `user-service` | 2 | 6 | 3 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **13** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 30, 2026 03:14 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **September 30, 2026 08:50 AM IST**
 
 ---
 
