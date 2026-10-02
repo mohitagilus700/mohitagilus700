@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **336** |
+| 💻 Total Commits (30d) | **333** |
 | 🔁 Pull Requests | **10** |
 | 📂 Repos Contributed To | **17** |
 | 🏢 Total Org Repos | **42** |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-cloudrun-sources` | 32 | 36 | 15 | 17 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **100** | ⬆️ |
-| `.github-private` | 28 | 28 | 19 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 ⬜ | **75** | ⚠️ |
-| `DevOps` | 3 | 9 | 18 | 23 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **53** | 🔥 |
-| `agilus-pulse-portal` | 22 | 4 | 6 | 6 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩🟩 | **38** | ✔️ |
-| `consumer-web` | 2 | 8 | 7 | 2 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **19** | ⚠️ |
+| `gcp-cloudrun-sources` | 32 | 43 | 10 | 27 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **112** | 🔥 |
+| `.github-private` | 28 | 28 | 15 | 4 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **75** | ⚠️ |
+| `DevOps` | 3 | 9 | 18 | 28 | 🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **58** | 🔥 |
+| `agilus-pulse-portal` | 18 | 9 | 5 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩 | **34** | ⚠️ |
+| `consumer-web` | 3 | 9 | 5 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **19** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 02, 2026 03:42 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 02, 2026 08:57 AM IST**
 
 ---
 
