@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
+| `gcp-cloudrun-sources` | 32 | 43 | 10 | 27 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **112** | 🔥 |
+| `.github-private` | 28 | 28 | 15 | 4 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **75** | ⚠️ |
 | `phlebo-parent` | 28 | 14 | 14 | 12 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **68** | ⬇️ |
-| `assorted-service` | 6 | 4 | 3 | 7 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **20** | 🔥 |
 | `pulse-cms-service` | 7 | 4 | 4 | 3 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩 | **18** | ⬇️ |
-| `sentinel-service` | 2 | 6 | 3 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **13** | ⚠️ |
 | `sales-service` | 1 | 4 | 5 | 2 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **12** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 02, 2026 10:41 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 03, 2026 03:10 AM IST**
 
 ---
 
