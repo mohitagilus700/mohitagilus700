@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **333** |
+| 💻 Total Commits (30d) | **347** |
 | 🔁 Pull Requests | **10** |
 | 📂 Repos Contributed To | **17** |
 | 🏢 Total Org Repos | **42** |
@@ -86,10 +86,10 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **106** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **58** | 🟪🟪🟪🟦🟦 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **42** | 🟪🟪🟪🟦 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **18** | 🟪🟪 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **15** | 🟪 |
+| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **62** | 🟪🟪🟪🟦🟦🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **43** | 🟪🟪🟪🟦 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **19** | 🟪🟪 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **16** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-cloudrun-sources` | 32 | 43 | 10 | 27 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **112** | 🔥 |
 | `.github-private` | 28 | 28 | 15 | 4 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **75** | ⚠️ |
 | `DevOps` | 3 | 9 | 18 | 28 | 🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **58** | 🔥 |
 | `agilus-pulse-portal` | 18 | 9 | 5 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩 | **34** | ⚠️ |
 | `consumer-web` | 3 | 9 | 5 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **19** | ⚠️ |
+| `user-service` | 2 | 4 | 3 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **11** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 02, 2026 08:57 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 02, 2026 05:10 PM IST**
 
 ---
 
