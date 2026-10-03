@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **363** |
+| 💻 Total Commits (30d) | **362** |
 | 🔁 Pull Requests | **10** |
 | 📂 Repos Contributed To | **17** |
 | 🏢 Total Org Repos | **42** |
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-cloudrun-sources` | 32 | 43 | 10 | 27 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **112** | 🔥 |
-| `.github-private` | 28 | 28 | 15 | 4 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **75** | ⚠️ |
-| `phlebo-parent` | 28 | 14 | 14 | 12 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **68** | ⬇️ |
-| `pulse-cms-service` | 7 | 4 | 4 | 3 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩 | **18** | ⬇️ |
-| `sales-service` | 1 | 4 | 5 | 2 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **12** | ⚠️ |
+| `gcp-cloudrun-sources` | 32 | 43 | 11 | 29 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **115** | 🔥 |
+| `.github-private` | 28 | 28 | 11 | 8 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **75** | ⚠️ |
+| `phlebo-parent` | 31 | 14 | 12 | 13 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **70** | ✔️ |
+| `pulse-cms-service` | 10 | 1 | 4 | 5 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩🟩 | **20** | ⬆️ |
+| `sales-service` | 3 | 2 | 5 | 4 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **14** | ⬇️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 03, 2026 03:10 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 03, 2026 08:41 AM IST**
 
 ---
 
