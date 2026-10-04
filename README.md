@@ -55,9 +55,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **371** |
+| 💻 Total Commits (30d) | **370** |
 | 🔁 Pull Requests | **10** |
-| 📂 Repos Contributed To | **17** |
+| 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
 <!-- GITHUB_STATS_END -->
 
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 28 | 11 | 8 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **75** | ⚠️ |
+| `.github-private` | 28 | 28 | 7 | 12 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **75** | 🔥 |
 | `agilus-pulse-portal` | 19 | 9 | 4 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩 | **34** | ⚠️ |
-| `consumer-service` | 14 | 3 | 9 | 5 | 🟩🟩🟩🟩 🟩 🟩🟩🟩 🟩🟩 | **31** | ⚠️ |
-| `consumer-web` | 6 | 9 | 3 | 1 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **19** | ⚠️ |
-| `user-service` | 4 | 2 | 3 | 4 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **13** | 🔥 |
+| `assorted-service` | 9 | 4 | 0 | 10 | 🟩🟩🟩🟩 🟩🟩 ⬜ 🟩🟩🟩🟩 | **23** | ✨ |
+| `sentinel-service` | 5 | 6 | 0 | 5 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **16** | ✨ |
+| `sales-service` | 3 | 7 | 0 | 5 | 🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩🟩 | **15** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 04, 2026 01:55 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 04, 2026 09:09 AM IST**
 
 ---
 
