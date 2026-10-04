@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **370** |
+| 💻 Total Commits (30d) | **380** |
 | 🔁 Pull Requests | **10** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
@@ -86,10 +86,10 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **109** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`DevOps`](https://github.com/agilusdiagnostics/DevOps) | `Shell` | **63** | 🟪🟪🟪🟦🟦🟦 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **64** | 🟪🟪🟪🟦🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **46** | 🟪🟪🟪🟦 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **21** | 🟪🟪 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **18** | 🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **22** | 🟪🟪 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **19** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 28 | 7 | 12 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **75** | 🔥 |
+| `phlebo-parent` | 32 | 18 | 7 | 14 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩 | **71** | 🔥 |
 | `agilus-pulse-portal` | 19 | 9 | 4 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩 | **34** | ⚠️ |
 | `assorted-service` | 9 | 4 | 0 | 10 | 🟩🟩🟩🟩 🟩🟩 ⬜ 🟩🟩🟩🟩 | **23** | ✨ |
 | `sentinel-service` | 5 | 6 | 0 | 5 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **16** | ✨ |
 | `sales-service` | 3 | 7 | 0 | 5 | 🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩🟩 | **15** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 04, 2026 09:09 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 04, 2026 05:07 PM IST**
 
 ---
 
