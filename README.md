@@ -55,8 +55,8 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **380** |
-| 🔁 Pull Requests | **10** |
+| 💻 Total Commits (30d) | **386** |
+| 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
 <!-- GITHUB_STATS_END -->
@@ -68,10 +68,10 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.6%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.5%` |
 | **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.7%` |
 | **CSS** | 🟪🟪 | `8.9%` |
-| **Java** | 🟧 | `4.4%` |
+| **Java** | 🟧 | `4.5%` |
 | **TypeScript** | 🟦 | `4.3%` |
 | **SCSS** | 🟦 | `1.2%` |
 | **Shell** | 🟩 | `0.5%` |
@@ -85,9 +85,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **111** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **63** | 🟪🟪🟪🟦🟦🟦 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **46** | 🟪🟪🟪🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **113** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **65** | 🟪🟪🟪🟦🟦🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **48** | 🟪🟪🟪🟦 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **22** | 🟪🟪 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **19** | 🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-cloudrun-sources` | 54 | 22 | 13 | 26 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩 | **115** | 🔥 |
 | `.github-private` | 28 | 28 | 3 | 16 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **75** | 🔥 |
 | `phlebo-parent` | 32 | 18 | 7 | 15 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩 | **72** | 🔥 |
 | `agilus-pulse-portal` | 19 | 9 | 4 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩 | **34** | ⚠️ |
+| `consumer-service` | 14 | 8 | 4 | 7 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩 | **33** | 🔥 |
 | `consumer-web` | 6 | 9 | 3 | 1 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **19** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 05, 2026 08:53 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 05, 2026 06:43 PM IST**
 
 ---
 
