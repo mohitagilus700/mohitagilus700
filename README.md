@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **398** |
+| 💻 Total Commits (30d) | **437** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
@@ -69,7 +69,7 @@ Building reliable cloud infrastructure for better healthcare
 | Language | Usage | Share |
 |:---------|:------|------:|
 | **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.5%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.7%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.6%` |
 | **CSS** | 🟪🟪 | `8.9%` |
 | **Java** | 🟧 | `4.5%` |
 | **TypeScript** | 🟦 | `4.3%` |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **113** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **66** | 🟪🟪🟪🟦🟦🟦 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **52** | 🟪🟪🟪🟦🟦 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **23** | 🟪🟪 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **19** | 🟪🟪 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **116** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **74** | 🟪🟪🟪🟦🟦🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **53** | 🟪🟪🟪🟦🟦 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **26** | 🟪🟪 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **22** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-platform-ops` | 10 | 0 | 35 | 19 | 🟩🟩 ⬜ 🟩🟩🟩🟩 🟩🟩🟩 | **64** | ⚠️ |
-| `shared-actions` | 22 | 4 | 17 | 19 | 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **62** | ⬆️ |
-| `agilus-pulse-portal` | 15 | 9 | 4 | 2 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩 | **30** | ⚠️ |
-| `consumer-web` | 6 | 9 | 3 | 1 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **19** | ⚠️ |
-| `sales-service` | 4 | 6 | 1 | 5 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 | **16** | 🔥 |
+| `.github-private` | 28 | 27 | 0 | 20 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩🟩 | **75** | ✨ |
+| `phlebo-parent` | 33 | 17 | 8 | 15 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩 | **73** | 🔥 |
+| `consumer-service` | 14 | 7 | 5 | 6 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **32** | ⬆️ |
+| `sentinel-service` | 6 | 5 | 1 | 5 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 | **17** | 🔥 |
+| `phlebo-app` | 4 | 0 | 0 | 0 | 🟩🟩🟩🟩 ⬜ ⬜ ⬜ | **4** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 06, 2026 09:40 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 06, 2026 06:02 PM IST**
 
 ---
 
