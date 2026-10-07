@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 27 | 0 | 20 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩🟩 | **75** | ✨ |
-| `edos-service-java` | 26 | 8 | 4 | 6 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩 | **44** | 🔥 |
-| `pulse-cms-service` | 9 | 4 | 1 | 6 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩🟩 | **20** | 🔥 |
-| `sentinel-service` | 6 | 5 | 1 | 5 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 | **17** | 🔥 |
-| `sales-service` | 4 | 6 | 1 | 5 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 | **16** | 🔥 |
+| `.github-private` | 28 | 23 | 0 | 24 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **75** | ✨ |
+| `edos-service-java` | 17 | 9 | 3 | 10 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩 | **39** | 🔥 |
+| `sentinel-service` | 6 | 5 | 2 | 10 | 🟩🟩🟩 🟩🟩 🟩 🟩🟩🟩🟩 | **23** | 🔥 |
+| `pulse-cms-service` | 6 | 4 | 2 | 10 | 🟩🟩🟩 🟩🟩 🟩 🟩🟩🟩🟩 | **22** | 🔥 |
+| `sales-service` | 5 | 5 | 2 | 9 | 🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **21** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 07, 2026 03:35 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 07, 2026 09:07 AM IST**
 
 ---
 
