@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **453** |
+| 💻 Total Commits (30d) | **462** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
@@ -68,14 +68,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.5%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.4%` |
 | **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.6%` |
-| **CSS** | 🟪🟪 | `8.9%` |
+| **CSS** | 🟪🟪 | `8.8%` |
 | **Java** | 🟧 | `4.5%` |
 | **TypeScript** | 🟦 | `4.3%` |
 | **SCSS** | 🟦 | `1.2%` |
 | **Shell** | 🟩 | `0.6%` |
-| **Python** | 🟦 | `0.4%` |
+| **Python** | 🟦 | `0.5%` |
 <!-- TOP_LANGUAGES_END -->
 
 ---
@@ -86,8 +86,8 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **116** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **77** | 🟪🟪🟪🟦🟦🟦🟦 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **57** | 🟪🟪🟪🟦🟦 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **79** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **61** | 🟪🟪🟪🟦🟦 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **27** | 🟪🟪 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **23** | 🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 23 | 0 | 24 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **75** | ✨ |
-| `edos-service-java` | 17 | 9 | 3 | 10 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩 | **39** | 🔥 |
+| `elastic-service` | 15 | 7 | 2 | 10 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩🟩 | **34** | 🔥 |
 | `sentinel-service` | 6 | 5 | 2 | 10 | 🟩🟩🟩 🟩🟩 🟩 🟩🟩🟩🟩 | **23** | 🔥 |
-| `pulse-cms-service` | 6 | 4 | 2 | 10 | 🟩🟩🟩 🟩🟩 🟩 🟩🟩🟩🟩 | **22** | 🔥 |
-| `sales-service` | 5 | 5 | 2 | 9 | 🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **21** | 🔥 |
+| `consumer-web` | 6 | 11 | 2 | 1 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩 | **20** | ⚠️ |
+| `user-service` | 6 | 3 | 2 | 9 | 🟩🟩🟩 🟩🟩 🟩 🟩🟩🟩🟩 | **20** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 07, 2026 09:07 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 07, 2026 05:55 PM IST**
 
 ---
 
