@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **473** |
+| 💻 Total Commits (30d) | **513** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
@@ -69,13 +69,13 @@ Building reliable cloud infrastructure for better healthcare
 | Language | Usage | Share |
 |:---------|:------|------:|
 | **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.4%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.6%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.5%` |
 | **CSS** | 🟪🟪 | `8.8%` |
 | **Java** | 🟧 | `4.5%` |
 | **TypeScript** | 🟦 | `4.3%` |
 | **SCSS** | 🟦 | `1.2%` |
-| **Shell** | 🟩 | `0.6%` |
-| **Python** | 🟦 | `0.5%` |
+| **Shell** | 🟩 | `0.8%` |
+| **Python** | 🟦 | `0.4%` |
 <!-- TOP_LANGUAGES_END -->
 
 ---
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **107** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **109** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **96** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **64** | 🟪🟪🟪🟦🟦🟦 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **27** | 🟪🟪🟪 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **23** | 🟪🟪 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **75** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **30** | 🟪🟪🟪 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **26** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-cloudrun-sources` | 36 | 15 | 17 | 25 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩🟩 | **93** | 🔥 |
-| `gcp-platform-ops` | 9 | 18 | 23 | 36 | 🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **86** | 🔥 |
-| `shared-actions` | 19 | 6 | 16 | 39 | 🟩🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **80** | 🔥 |
+| `phlebo-parent` | 32 | 12 | 16 | 21 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩🟩 | **81** | 🔥 |
 | `.github-private` | 28 | 19 | 0 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **75** | ✨ |
-| `sentinel-service` | 6 | 5 | 2 | 13 | 🟩🟩 🟩🟩 🟩 🟩🟩🟩🟩 | **26** | 🔥 |
+| `consumer-web` | 8 | 7 | 2 | 4 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **21** | 🔥 |
+| `agilus-pulse-portal` | 4 | 6 | 6 | 5 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **21** | ⬇️ |
+| `pulse-cms-service` | 4 | 4 | 3 | 9 | 🟩🟩 🟩🟩 🟩🟩 🟩🟩🟩🟩 | **20** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 08, 2026 09:21 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 08, 2026 06:04 PM IST**
 
 ---
 
