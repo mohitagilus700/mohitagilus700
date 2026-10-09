@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **513** |
+| 💻 Total Commits (30d) | **498** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **109** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **96** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **75** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **95** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **95** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **75** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **30** | 🟪🟪🟪 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **26** | 🟪🟪 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **26** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 19 | 0 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **75** | ✨ |
-| `user-service` | 6 | 3 | 2 | 12 | 🟩🟩 🟩 🟩 🟩🟩🟩🟩 | **23** | 🔥 |
-| `consumer-web` | 8 | 7 | 2 | 4 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **21** | 🔥 |
-| `agilus-pulse-portal` | 4 | 6 | 6 | 5 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **21** | ⬇️ |
-| `pulse-cms-service` | 4 | 4 | 3 | 9 | 🟩🟩 🟩🟩 🟩🟩 🟩🟩🟩🟩 | **20** | 🔥 |
+| `.github-private` | 28 | 15 | 4 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **75** | 🔥 |
+| `user-service` | 4 | 3 | 2 | 16 | 🟩 🟩 🟩 🟩🟩🟩🟩 | **25** | 🔥 |
+| `pulse-cms-service` | 4 | 4 | 3 | 14 | 🟩🟩 🟩🟩 🟩 🟩🟩🟩🟩 | **25** | 🔥 |
+| `agilus-pulse-portal` | 9 | 5 | 2 | 7 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **23** | 🔥 |
+| `consumer-web` | 9 | 5 | 2 | 6 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩 | **22** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 09, 2026 04:13 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 09, 2026 09:27 AM IST**
 
 ---
 
