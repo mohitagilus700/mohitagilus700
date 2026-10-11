@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **539** |
+| 💻 Total Commits (30d) | **528** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **42** |
@@ -88,8 +88,8 @@ Building reliable cloud infrastructure for better healthcare
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **116** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **101** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **89** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **29** | 🟪🟪 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **27** | 🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **26** | 🟪🟪 |
+| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **25** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-cloudrun-sources` | 43 | 11 | 29 | 20 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩🟩 | **103** | ⚠️ |
-| `shared-actions` | 19 | 10 | 26 | 45 | 🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **100** | 🔥 |
-| `gcp-platform-ops` | 3 | 18 | 33 | 36 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **90** | ✔️ |
-| `.github-private` | 28 | 11 | 8 | 28 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩🟩🟩 | **75** | 🔥 |
+| `gcp-platform-ops` | 1 | 22 | 29 | 56 | 🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **108** | 🔥 |
+| `shared-actions` | 8 | 13 | 23 | 58 | 🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **102** | 🔥 |
+| `gcp-cloudrun-sources` | 30 | 14 | 26 | 23 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **93** | ⬇️ |
+| `.github-private` | 28 | 7 | 12 | 28 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **75** | 🔥 |
 | `agilus-pulse-portal` | 9 | 4 | 2 | 7 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩🟩🟩 | **22** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 11, 2026 02:28 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 11, 2026 08:45 AM IST**
 
 ---
 
