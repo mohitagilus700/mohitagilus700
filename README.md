@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **574** |
+| 💻 Total Commits (30d) | **619** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
@@ -68,11 +68,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.4%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.3%` |
 | **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.5%` |
 | **CSS** | 🟪🟪 | `8.8%` |
 | **Java** | 🟧 | `4.5%` |
-| **TypeScript** | 🟦 | `4.3%` |
+| **TypeScript** | 🟦 | `4.4%` |
 | **SCSS** | 🟦 | `1.2%` |
 | **Shell** | 🟩 | `0.8%` |
 | **Python** | 🟦 | `0.5%` |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **124** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **97** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **89** | 🟪🟪🟪🟦🟦🟦🟦 |
-| [`sales-service`](https://github.com/agilusdiagnostics/sales-service) | `Java` | **29** | 🟪🟪 |
-| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **29** | 🟪🟪 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **131** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **101** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **93** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **32** | 🟪🟪 |
+| [`sales-service`](https://github.com/agilusdiagnostics/sales-service) | `Java` | **32** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 23 | 0 | 24 | 28 | 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 | **75** | ⬆️ |
-| `consumer-service` | 6 | 6 | 10 | 25 | 🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **47** | 🔥 |
 | `edos-service-java` | 9 | 3 | 10 | 14 | 🟩🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **36** | 🔥 |
-| `sales-service` | 5 | 2 | 9 | 16 | 🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **32** | 🔥 |
-| `sentinel-service` | 5 | 2 | 10 | 15 | 🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **32** | 🔥 |
+| `elastic-service` | 7 | 2 | 10 | 13 | 🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **32** | 🔥 |
+| `pulse-cms-service` | 4 | 2 | 10 | 16 | 🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **32** | 🔥 |
+| `agilus-pulse-portal` | 6 | 5 | 4 | 7 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **22** | 🔥 |
+| `consumer-web` | 11 | 2 | 1 | 5 | 🟩🟩🟩🟩 🟩 🟩 🟩🟩 | **19** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 14, 2026 08:28 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 14, 2026 04:28 PM IST**
 
 ---
 
