@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **620** |
+| 💻 Total Commits (30d) | **637** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **131** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **101** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **94** | 🟪🟪🟪🟦🟦🟦🟦 |
-| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **32** | 🟪🟪 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **32** | 🟪🟪 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **132** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **105** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **95** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **34** | 🟪🟪🟪 |
+| [`sales-service`](https://github.com/agilusdiagnostics/sales-service) | `Java` | **33** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-cloudrun-sources` | 15 | 17 | 25 | 29 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **86** | ⬆️ |
-| `.github-private` | 19 | 0 | 28 | 28 | 🟩🟩🟩 ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 | **75** | ✔️ |
-| `edos-service-java` | 7 | 4 | 10 | 16 | 🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **37** | 🔥 |
+| `phlebo-parent` | 12 | 16 | 21 | 22 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **71** | ✔️ |
+| `sales-service` | 5 | 2 | 12 | 17 | 🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **36** | 🔥 |
 | `elastic-service` | 6 | 3 | 9 | 16 | 🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **34** | 🔥 |
-| `agilus-pulse-portal` | 6 | 6 | 5 | 8 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **25** | 🔥 |
+| `consumer-web` | 7 | 2 | 4 | 3 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩🟩 | **16** | ⬇️ |
+| `consumer-app` | 1 | 0 | 0 | 1 | 🟩🟩🟩🟩 ⬜ ⬜ 🟩🟩🟩🟩 | **2** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 15, 2026 08:08 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 15, 2026 04:09 PM IST**
 
 ---
 
