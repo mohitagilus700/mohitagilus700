@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **625** |
+| 💻 Total Commits (30d) | **627** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
@@ -69,9 +69,9 @@ Building reliable cloud infrastructure for better healthcare
 | Language | Usage | Share |
 |:---------|:------|------:|
 | **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.3%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.5%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.4%` |
 | **CSS** | 🟪🟪 | `8.8%` |
-| **Java** | 🟧 | `4.5%` |
+| **Java** | 🟧 | `4.6%` |
 | **TypeScript** | 🟦 | `4.4%` |
 | **SCSS** | 🟦 | `1.2%` |
 | **Shell** | 🟩 | `0.8%` |
@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **105** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **84** | 🟪🟪🟪🟦🟦🟦 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **34** | 🟪🟪🟪 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **33** | 🟪🟪 |
+| [`sales-service`](https://github.com/agilusdiagnostics/sales-service) | `Java` | **33** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 15 | 4 | 28 | 28 | 🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **75** | ✔️ |
-| `phlebo-parent` | 14 | 12 | 26 | 20 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **72** | ⬇️ |
-| `pulse-cms-service` | 4 | 3 | 14 | 16 | 🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **37** | ⬆️ |
+| `sales-service` | 5 | 2 | 15 | 15 | 🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **37** | ✔️ |
+| `elastic-service` | 5 | 3 | 12 | 15 | 🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **35** | ⬆️ |
 | `agilus-pulse-portal` | 5 | 2 | 7 | 6 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **20** | ⬇️ |
-| `consumer-web` | 5 | 2 | 6 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **15** | ⚠️ |
+| `consumer-app` | 1 | 0 | 1 | 1 | 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 | **3** | ✔️ |
+| `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 16, 2026 08:03 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 16, 2026 03:55 PM IST**
 
 ---
 
