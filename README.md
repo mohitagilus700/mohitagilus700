@@ -89,7 +89,7 @@ Building reliable cloud infrastructure for better healthcare
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **105** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **84** | 🟪🟪🟪🟦🟦🟦 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **34** | 🟪🟪🟪 |
-| [`sales-service`](https://github.com/agilusdiagnostics/sales-service) | `Java` | **33** | 🟪🟪 |
+| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **33** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-cloudrun-sources` | 11 | 29 | 20 | 21 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **81** | ✔️ |
 | `.github-private` | 11 | 8 | 28 | 28 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **75** | ✔️ |
-| `agilus-pulse-portal` | 4 | 2 | 7 | 11 | 🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **24** | 🔥 |
-| `consumer-web` | 3 | 1 | 6 | 3 | 🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩 | **13** | ⚠️ |
-| `consumer-app` | 1 | 0 | 1 | 1 | 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 | **3** | ✔️ |
+| `edos-service-java` | 8 | 5 | 13 | 14 | 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **40** | ✔️ |
+| `pulse-cms-service` | 4 | 5 | 13 | 17 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **39** | 🔥 |
+| `elastic-service` | 5 | 5 | 11 | 17 | 🟩🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **38** | 🔥 |
+| `user-service` | 3 | 4 | 15 | 13 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **35** | ⬇️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 17, 2026 03:27 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 17, 2026 08:15 PM IST**
 
 ---
 
