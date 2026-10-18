@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **619** |
+| 💻 Total Commits (30d) | **632** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
@@ -85,10 +85,10 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **132** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **105** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **77** | 🟪🟪🟪🟦🟦🟦 |
-| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **34** | 🟪🟪🟪 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **140** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **106** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **81** | 🟪🟪🟪🟦🟦🟦 |
+| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **34** | 🟪🟪 |
 | [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **33** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-platform-ops` | 22 | 29 | 56 | 25 | 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **132** | ⚠️ |
 | `gcp-cloudrun-sources` | 14 | 26 | 23 | 18 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **81** | ⬇️ |
-| `.github-private` | 7 | 12 | 28 | 28 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **75** | ✔️ |
+| `edos-service-java` | 5 | 6 | 12 | 14 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **37** | ⬆️ |
 | `pulse-cms-service` | 0 | 6 | 12 | 17 | ⬜ 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **35** | 🔥 |
+| `elastic-service` | 0 | 6 | 10 | 17 | ⬜ 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **33** | 🔥 |
 | `user-service` | 0 | 5 | 14 | 13 | ⬜ 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **32** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 18, 2026 03:40 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 18, 2026 08:40 PM IST**
 
 ---
 
