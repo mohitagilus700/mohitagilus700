@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **627** |
+| 💻 Total Commits (30d) | **619** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
@@ -87,7 +87,7 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **132** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **105** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **84** | 🟪🟪🟪🟦🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **77** | 🟪🟪🟪🟦🟦🟦 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **34** | 🟪🟪🟪 |
 | [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **33** | 🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-platform-ops` | 18 | 33 | 36 | 45 | 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **132** | ⬆️ |
-| `gcp-cloudrun-sources` | 11 | 29 | 20 | 21 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **81** | ✔️ |
-| `.github-private` | 11 | 8 | 28 | 28 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **75** | ✔️ |
-| `pulse-cms-service` | 4 | 5 | 13 | 17 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **39** | 🔥 |
-| `user-service` | 3 | 4 | 15 | 13 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **35** | ⬇️ |
+| `gcp-platform-ops` | 22 | 29 | 56 | 25 | 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **132** | ⚠️ |
+| `gcp-cloudrun-sources` | 14 | 26 | 23 | 18 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **81** | ⬇️ |
+| `.github-private` | 7 | 12 | 28 | 28 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **75** | ✔️ |
+| `pulse-cms-service` | 0 | 6 | 12 | 17 | ⬜ 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **35** | 🔥 |
+| `user-service` | 0 | 5 | 14 | 13 | ⬜ 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **32** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 18, 2026 01:25 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 18, 2026 07:56 AM IST**
 
 ---
 
