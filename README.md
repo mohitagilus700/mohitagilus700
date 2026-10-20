@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **602** |
+| 💻 Total Commits (30d) | **604** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **42** |
@@ -86,7 +86,7 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **142** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **109** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **111** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **82** | 🟪🟪🟪🟦🟦🟦 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **30** | 🟪🟪 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **29** | 🟪🟪 |
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 0 | 20 | 28 | 28 | ⬜ 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **76** | ✔️ |
-| `phlebo-parent` | 8 | 15 | 23 | 19 | 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **65** | ⬇️ |
 | `consumer-service` | 5 | 6 | 21 | 15 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **47** | ⚠️ |
-| `edos-service-java` | 4 | 6 | 11 | 14 | 🟩🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **35** | 🔥 |
 | `pulse-cms-service` | 1 | 6 | 11 | 17 | 🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **35** | 🔥 |
+| `elastic-service` | 1 | 6 | 9 | 17 | 🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **33** | 🔥 |
+| `sentinel-service` | 1 | 5 | 13 | 12 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **31** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 20, 2026 08:22 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 20, 2026 04:15 PM IST**
 
 ---
 
