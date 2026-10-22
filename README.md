@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **615** |
+| 💻 Total Commits (30d) | **617** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **42** |
@@ -85,7 +85,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **151** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **153** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **116** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **80** | 🟪🟪🟪🟦🟦 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **30** | 🟪🟪 |
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 0 | 28 | 28 | 28 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **84** | ✔️ |
-| `consumer-service` | 7 | 14 | 23 | 3 | 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **47** | ⚠️ |
+| `pulse-cms-service` | 3 | 9 | 20 | 3 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩 | **35** | ⚠️ |
 | `elastic-service` | 3 | 9 | 16 | 5 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **33** | ⚠️ |
-| `edos-service-java` | 4 | 10 | 16 | 3 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **33** | ⚠️ |
+| `consumer-web` | 2 | 4 | 3 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **11** | ⚠️ |
 | `phlebo-app` | 0 | 0 | 0 | 0 | ⬜⬜⬜⬜ | **0** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 22, 2026 04:26 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 22, 2026 09:54 PM IST**
 
 ---
 
