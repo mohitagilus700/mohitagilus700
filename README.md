@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **620** |
+| 💻 Total Commits (30d) | **621** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **42** |
@@ -87,7 +87,7 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **153** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **116** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **83** | 🟪🟪🟪🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **84** | 🟪🟪🟪🟦🟦 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **30** | 🟪🟪 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **29** | 🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 4 | 28 | 28 | 28 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **88** | ✔️ |
-| `gcp-cloudrun-sources` | 27 | 19 | 24 | 8 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **78** | ⚠️ |
+| `consumer-service` | 3 | 24 | 15 | 2 | 🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **44** | ⚠️ |
 | `pulse-cms-service` | 3 | 14 | 16 | 2 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **35** | ⚠️ |
 | `elastic-service` | 3 | 12 | 15 | 3 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **33** | ⚠️ |
-| `edos-service-java` | 3 | 14 | 13 | 2 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **32** | ⚠️ |
+| `consumer-app` | 0 | 1 | 1 | 0 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **2** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 23, 2026 04:18 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 23, 2026 09:42 PM IST**
 
 ---
 
