@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **621** |
+| 💻 Total Commits (30d) | **606** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **42** |
@@ -85,9 +85,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **153** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **139** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **116** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **84** | 🟪🟪🟪🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **83** | 🟪🟪🟪🟦🟦🟦 |
 | [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **30** | 🟪🟪 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **29** | 🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 4 | 28 | 28 | 28 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **88** | ✔️ |
-| `consumer-service` | 3 | 24 | 15 | 2 | 🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **44** | ⚠️ |
-| `pulse-cms-service` | 3 | 14 | 16 | 2 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **35** | ⚠️ |
-| `elastic-service` | 3 | 12 | 15 | 3 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **33** | ⚠️ |
-| `consumer-app` | 0 | 1 | 1 | 0 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **2** | ⚠️ |
+| `gcp-platform-ops` | 33 | 36 | 45 | 24 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **138** | ⚠️ |
+| `.github-private` | 8 | 28 | 28 | 28 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **92** | ✔️ |
+| `consumer-service` | 5 | 23 | 15 | 2 | 🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **45** | ⚠️ |
+| `elastic-service` | 5 | 11 | 17 | 1 | 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **34** | ⚠️ |
+| `consumer-app` | 0 | 1 | 1 | 1 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **3** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 24, 2026 02:21 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 24, 2026 08:16 AM IST**
 
 ---
 
