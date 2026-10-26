@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **592** |
+| 💻 Total Commits (30d) | **606** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **42** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **136** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **139** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **109** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **79** | 🟪🟪🟪🟦🟦🟦 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **30** | 🟪🟪 |
-| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **29** | 🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **31** | 🟪🟪 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **31** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `gcp-platform-ops` | 29 | 56 | 32 | 18 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **135** | ⚠️ |
 | `.github-private` | 16 | 28 | 28 | 28 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **100** | ✔️ |
-| `gcp-cloudrun-sources` | 26 | 23 | 22 | 12 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **83** | ⚠️ |
-| `agilus-pulse-portal` | 2 | 7 | 11 | 4 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **24** | ⚠️ |
-| `consumer-app` | 0 | 1 | 1 | 1 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **3** | ✔️ |
+| `phlebo-parent` | 15 | 24 | 19 | 1 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **59** | ⚠️ |
+| `elastic-service` | 7 | 9 | 17 | 1 | 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **34** | ⚠️ |
+| `consumer-web` | 1 | 6 | 3 | 1 | 🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **11** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 26, 2026 08:05 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 26, 2026 05:30 PM IST**
 
 ---
 
