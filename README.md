@@ -102,11 +102,11 @@ Building reliable cloud infrastructure for better healthcare
 | `gcp-platform-ops` | 29 | 56 | 32 | 18 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **135** | ⚠️ |
 | `.github-private` | 16 | 28 | 28 | 28 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **100** | ✔️ |
 | `phlebo-parent` | 15 | 24 | 19 | 1 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **59** | ⚠️ |
-| `elastic-service` | 7 | 9 | 17 | 1 | 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **34** | ⚠️ |
+| `sales-service` | 6 | 12 | 17 | 1 | 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **36** | ⚠️ |
 | `consumer-web` | 1 | 6 | 3 | 1 | 🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **11** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 26, 2026 05:30 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 27, 2026 12:04 AM IST**
 
 ---
 
