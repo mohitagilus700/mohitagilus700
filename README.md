@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **606** |
+| 💻 Total Commits (30d) | **615** |
 | 🔁 Pull Requests | **11** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **42** |
@@ -88,8 +88,8 @@ Building reliable cloud infrastructure for better healthcare
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **139** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **109** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **79** | 🟪🟪🟪🟦🟦🟦 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **31** | 🟪🟪 |
-| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **31** | 🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **32** | 🟪🟪 |
+| [`assorted-service`](https://github.com/agilusdiagnostics/assorted-service) | `Java` | **32** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-platform-ops` | 29 | 56 | 32 | 18 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **135** | ⚠️ |
-| `.github-private` | 16 | 28 | 28 | 28 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **100** | ✔️ |
-| `phlebo-parent` | 15 | 24 | 19 | 1 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **59** | ⚠️ |
-| `sales-service` | 6 | 12 | 17 | 1 | 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **36** | ⚠️ |
-| `consumer-web` | 1 | 6 | 3 | 1 | 🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **11** | ⚠️ |
+| `.github-private` | 20 | 28 | 28 | 28 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **104** | ✔️ |
+| `phlebo-parent` | 15 | 23 | 19 | 9 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **66** | ⚠️ |
+| `pulse-cms-service` | 6 | 11 | 17 | 5 | 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **39** | ⚠️ |
+| `elastic-service` | 6 | 9 | 17 | 2 | 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **34** | ⚠️ |
+| `edos-service-java` | 6 | 11 | 14 | 2 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 | **33** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 27, 2026 12:04 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 27, 2026 08:40 AM IST**
 
 ---
 
