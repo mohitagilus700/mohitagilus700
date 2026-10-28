@@ -103,10 +103,10 @@ Building reliable cloud infrastructure for better healthcare
 | `phlebo-parent` | 16 | 25 | 10 | 12 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **63** | ⬆️ |
 | `consumer-service` | 10 | 25 | 6 | 7 | 🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **48** | ⬆️ |
 | `pulse-cms-service` | 10 | 16 | 7 | 9 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **42** | 🔥 |
-| `consumer-web` | 1 | 5 | 3 | 5 | 🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **14** | 🔥 |
+| `sales-service` | 9 | 16 | 8 | 5 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **38** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 28, 2026 05:25 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 28, 2026 11:14 PM IST**
 
 ---
 
