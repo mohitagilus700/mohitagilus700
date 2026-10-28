@@ -55,8 +55,8 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **624** |
-| 🔁 Pull Requests | **11** |
+| 💻 Total Commits (30d) | **635** |
+| 🔁 Pull Requests | **12** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **42** |
 <!-- GITHUB_STATS_END -->
@@ -86,10 +86,10 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **136** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **105** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **106** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **77** | 🟪🟪🟪🟦🟦🟦 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **34** | 🟪🟪 |
-| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **34** | 🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **35** | 🟪🟪🟪 |
+| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **35** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 24 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **108** | ✔️ |
 | `phlebo-parent` | 16 | 25 | 10 | 12 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **63** | ⬆️ |
-| `sales-service` | 9 | 16 | 8 | 5 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **38** | ⚠️ |
-| `agilus-pulse-portal` | 4 | 7 | 8 | 4 | 🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **23** | ⚠️ |
+| `consumer-service` | 10 | 25 | 6 | 7 | 🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **48** | ⬆️ |
+| `pulse-cms-service` | 10 | 16 | 7 | 9 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **42** | 🔥 |
 | `consumer-web` | 1 | 5 | 3 | 5 | 🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **14** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 28, 2026 08:53 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 28, 2026 05:25 PM IST**
 
 ---
 
