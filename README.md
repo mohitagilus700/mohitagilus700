@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **608** |
+| 💻 Total Commits (30d) | **611** |
 | 🔁 Pull Requests | **12** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **42** |
@@ -88,8 +88,8 @@ Building reliable cloud infrastructure for better healthcare
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **128** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **102** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **74** | 🟪🟪🟪🟦🟦🟦 |
+| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **35** | 🟪🟪🟪 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **34** | 🟪🟪🟪 |
-| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **34** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-platform-ops` | 36 | 54 | 16 | 21 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **127** | 🔥 |
 | `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
 | `phlebo-parent` | 21 | 22 | 5 | 14 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **62** | 🔥 |
-| `pulse-cms-service` | 9 | 20 | 3 | 10 | 🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **42** | 🔥 |
-| `sales-service` | 12 | 17 | 4 | 8 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **41** | 🔥 |
+| `consumer-service` | 14 | 23 | 3 | 8 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **48** | 🔥 |
+| `edos-service-java` | 10 | 16 | 3 | 7 | 🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩 | **36** | 🔥 |
+| `consumer-web` | 4 | 3 | 2 | 5 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **14** | 🔥 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 29, 2026 09:16 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 29, 2026 05:33 PM IST**
 
 ---
 
