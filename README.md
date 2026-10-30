@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **600** |
+| 💻 Total Commits (30d) | **601** |
 | 🔁 Pull Requests | **12** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **42** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **127** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **128** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **102** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **74** | 🟪🟪🟪🟦🟦🟦 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **34** | 🟪🟪🟪 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **32** | 🟪🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **32** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -103,10 +103,10 @@ Building reliable cloud infrastructure for better healthcare
 | `phlebo-parent` | 26 | 20 | 2 | 14 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **62** | 🔥 |
 | `consumer-service` | 24 | 15 | 2 | 9 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩 | **50** | 🔥 |
 | `agilus-pulse-portal` | 7 | 6 | 6 | 7 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **26** | ⬆️ |
-| `consumer-web` | 6 | 2 | 1 | 9 | 🟩🟩🟩 🟩 🟩 🟩🟩🟩🟩 | **18** | 🔥 |
+| `consumer-app` | 1 | 1 | 0 | 1 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **3** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 30, 2026 09:20 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 30, 2026 05:26 PM IST**
 
 ---
 
