@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **601** |
+| 💻 Total Commits (30d) | **592** |
 | 🔁 Pull Requests | **12** |
 | 📂 Repos Contributed To | **15** |
 | 🏢 Total Org Repos | **42** |
@@ -86,8 +86,8 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **128** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **102** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **74** | 🟪🟪🟪🟦🟦🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **99** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **68** | 🟪🟪🟪🟦🟦 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **34** | 🟪🟪🟪 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **32** | 🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 28 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **112** | ✔️ |
-| `phlebo-parent` | 26 | 20 | 2 | 14 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **62** | 🔥 |
-| `consumer-service` | 24 | 15 | 2 | 9 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩 | **50** | 🔥 |
-| `agilus-pulse-portal` | 7 | 6 | 6 | 7 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **26** | ⬆️ |
-| `consumer-app` | 1 | 1 | 0 | 1 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **3** | ✨ |
+| `phlebo-parent` | 26 | 19 | 1 | 15 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩 | **61** | 🔥 |
+| `consumer-service` | 23 | 15 | 2 | 10 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩 | **50** | 🔥 |
+| `agilus-pulse-portal` | 7 | 11 | 4 | 5 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **27** | ⬆️ |
+| `consumer-app` | 1 | 1 | 1 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **3** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 31, 2026 03:21 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **October 31, 2026 09:03 AM IST**
 
 ---
 
