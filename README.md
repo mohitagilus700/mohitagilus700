@@ -55,10 +55,10 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **536** |
+| 💻 Total Commits (30d) | **537** |
 | 🔁 Pull Requests | **12** |
-| 📂 Repos Contributed To | **15** |
-| 🏢 Total Org Repos | **43** |
+| 📂 Repos Contributed To | **16** |
+| 🏢 Total Org Repos | **44** |
 <!-- GITHUB_STATS_END -->
 
 ---
@@ -85,10 +85,10 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **120** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **96** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **118** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **98** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **57** | 🟪🟪🟪🟦🟦 |
-| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **30** | 🟪🟪 |
+| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **30** | 🟪🟪🟪 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **28** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
@@ -101,12 +101,12 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 24 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **108** | ⬇️ |
 | `phlebo-parent` | 25 | 10 | 12 | 6 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩 | **53** | ⚠️ |
-| `sales-service` | 16 | 8 | 5 | 6 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **35** | ⬆️ |
-| `consumer-web` | 5 | 3 | 5 | 9 | 🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **22** | 🔥 |
-| `phlebo-live-tracking` | 0 | 0 | 0 | 1 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **1** | ✨ |
+| `consumer-service` | 25 | 6 | 7 | 5 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩 | **43** | ⚠️ |
+| `user-service` | 17 | 4 | 4 | 1 | 🟩🟩🟩🟩 🟩 🟩 🟩 | **26** | ⚠️ |
+| `phlebo-app` | 0 | 0 | 1 | 0 | ⬜ ⬜ 🟩🟩🟩🟩 ⬜ | **1** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 04, 2026 09:44 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 04, 2026 07:04 PM IST**
 
 ---
 
