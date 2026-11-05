@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **537** |
+| 💻 Total Commits (30d) | **504** |
 | 🔁 Pull Requests | **12** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **44** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **118** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **98** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **115** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **94** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **57** | 🟪🟪🟪🟦🟦 |
-| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **30** | 🟪🟪🟪 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **28** | 🟪🟪 |
+| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **27** | 🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **25** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 28 | 28 | 24 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **108** | ⬇️ |
-| `phlebo-parent` | 25 | 10 | 12 | 6 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩 | **53** | ⚠️ |
-| `consumer-service` | 25 | 6 | 7 | 5 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩 | **43** | ⚠️ |
-| `user-service` | 17 | 4 | 4 | 1 | 🟩🟩🟩🟩 🟩 🟩 🟩 | **26** | ⚠️ |
+| `.github-private` | 28 | 28 | 28 | 23 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **107** | ⬇️ |
+| `phlebo-parent` | 22 | 5 | 14 | 8 | 🟩🟩🟩🟩 🟩 🟩🟩🟩 🟩🟩 | **49** | ⚠️ |
+| `consumer-service` | 23 | 3 | 8 | 7 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩🟩 | **41** | ⬇️ |
+| `user-service` | 17 | 1 | 5 | 1 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩 | **24** | ⚠️ |
 | `phlebo-app` | 0 | 0 | 1 | 0 | ⬜ ⬜ 🟩🟩🟩🟩 ⬜ | **1** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 05, 2026 04:32 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 05, 2026 10:03 AM IST**
 
 ---
 
