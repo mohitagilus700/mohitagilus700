@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 28 | 28 | 23 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **107** | ⬇️ |
-| `gcp-cloudrun-sources` | 29 | 9 | 9 | 11 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **58** | ⬆️ |
-| `edos-service-java` | 16 | 3 | 7 | 4 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩 | **30** | ⚠️ |
-| `agilus-pulse-portal` | 8 | 6 | 6 | 3 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩 | **23** | ⚠️ |
-| `consumer-web` | 3 | 2 | 5 | 10 | 🟩🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **20** | 🔥 |
+| `.github-private` | 28 | 28 | 28 | 22 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **106** | ⬇️ |
+| `gcp-cloudrun-sources` | 24 | 8 | 10 | 12 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **54** | ⬆️ |
+| `edos-service-java` | 13 | 2 | 10 | 1 | 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩 | **26** | ⚠️ |
+| `agilus-pulse-portal` | 6 | 6 | 7 | 4 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **23** | ⚠️ |
+| `consumer-web` | 2 | 1 | 9 | 6 | 🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩 | **18** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 06, 2026 04:36 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 06, 2026 10:01 AM IST**
 
 ---
 
