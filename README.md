@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 21 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **105** | ⬇️ |
+| `gcp-cloudrun-sources` | 21 | 14 | 3 | 12 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩 | **50** | 🔥 |
 | `phlebo-parent` | 19 | 1 | 15 | 7 | 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩 | **42** | ⚠️ |
 | `consumer-service` | 15 | 2 | 10 | 3 | 🟩🟩🟩🟩 🟩 🟩🟩🟩 🟩 | **30** | ⚠️ |
-| `pulse-cms-service` | 17 | 4 | 6 | 2 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩 | **29** | ⚠️ |
 | `edos-service-java` | 14 | 1 | 9 | 1 | 🟩🟩🟩🟩 🟩 🟩🟩🟩 🟩 | **25** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 07, 2026 05:42 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 08, 2026 02:46 AM IST**
 
 ---
 
