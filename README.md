@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **399** |
+| 💻 Total Commits (30d) | **382** |
 | 🔁 Pull Requests | **12** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **44** |
@@ -86,10 +86,10 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **87** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **70** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **51** | 🟪🟪🟪🟦🟦🟦 |
-| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **22** | 🟪🟪🟪 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **20** | 🟪🟪 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **65** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **48** | 🟪🟪🟪🟦🟦🟦 |
+| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **21** | 🟪🟪 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **19** | 🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 28 | 20 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **104** | ⚠️ |
+| `shared-actions` | 38 | 20 | 1 | 13 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩 | **72** | 🔥 |
+| `gcp-platform-ops` | 25 | 25 | 12 | 4 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **66** | ⚠️ |
 | `gcp-cloudrun-sources` | 18 | 14 | 3 | 13 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩 🟩🟩🟩 | **48** | 🔥 |
 | `phlebo-parent` | 19 | 1 | 15 | 7 | 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩 | **42** | ⚠️ |
-| `consumer-service` | 15 | 2 | 10 | 3 | 🟩🟩🟩🟩 🟩 🟩🟩🟩 🟩 | **30** | ⚠️ |
-| `edos-service-java` | 14 | 1 | 9 | 1 | 🟩🟩🟩🟩 🟩 🟩🟩🟩 🟩 | **25** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 08, 2026 09:13 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 08, 2026 06:03 PM IST**
 
 ---
 
