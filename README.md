@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **349** |
+| 💻 Total Commits (30d) | **353** |
 | 🔁 Pull Requests | **12** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **44** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **67** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **54** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **46** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **68** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **55** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **48** | 🟪🟪🟪🟦🟦🟦🟦 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **21** | 🟪🟪🟪 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **19** | 🟪🟪🟪 |
+| [`sales-service`](https://github.com/agilusdiagnostics/sales-service) | `Java` | **19** | 🟪🟪🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 28 | 25 | 20 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **101** | ⬇️ |
-| `gcp-platform-ops` | 29 | 19 | 11 | 2 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩 | **61** | ⚠️ |
-| `pulse-cms-service` | 17 | 5 | 5 | 2 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩 | **29** | ⚠️ |
-| `sales-service` | 17 | 2 | 8 | 2 | 🟩🟩🟩🟩 🟩 🟩🟩 🟩 | **29** | ⚠️ |
-| `edos-service-java` | 14 | 2 | 8 | 1 | 🟩🟩🟩🟩 🟩 🟩🟩🟩 🟩 | **25** | ⚠️ |
+| `gcp-platform-ops` | 18 | 22 | 8 | 3 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩 | **51** | ⚠️ |
+| `shared-actions` | 21 | 9 | 8 | 8 | 🟩🟩🟩🟩 🟩🟩 🟩🟩 🟩🟩 | **46** | ✔️ |
+| `elastic-service` | 8 | 7 | 7 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **22** | ⚠️ |
+| `consumer-service` | 6 | 7 | 5 | 3 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **21** | ⚠️ |
+| `sales-service` | 8 | 5 | 6 | 1 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩 | **20** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 11, 2026 04:12 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 11, 2026 09:30 AM IST**
 
 ---
 
