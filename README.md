@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **247** |
+| 💻 Total Commits (30d) | **250** |
 | 🔁 Pull Requests | **12** |
 | 📂 Repos Contributed To | **16** |
 | 🏢 Total Org Repos | **44** |
@@ -86,8 +86,8 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **60** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **44** | 🟪🟪🟪🟦🟦🟦🟦 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **40** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **46** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **41** | 🟪🟪🟪🟦🟦🟦🟦 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **12** | 🟪🟪 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **11** | 🟪🟪 |
 <!-- WORKING_ON_END -->
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 28 | 23 | 20 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **99** | ⬇️ |
-| `elastic-service` | 5 | 11 | 3 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 ⬜ | **19** | ⚠️ |
-| `consumer-web` | 2 | 5 | 10 | 1 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩 | **18** | ⚠️ |
-| `agilus-pulse-portal` | 6 | 6 | 3 | 2 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **17** | ⚠️ |
-| `pulse-cms-service` | 3 | 10 | 2 | 0 | 🟩🟩 🟩🟩🟩🟩 🟩 ⬜ | **15** | ⚠️ |
+| `.github-private` | 28 | 28 | 22 | 20 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **98** | ✔️ |
+| `shared-actions` | 17 | 4 | 11 | 14 | 🟩🟩🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **46** | 🔥 |
+| `gcp-cloudrun-sources` | 8 | 10 | 12 | 8 | 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **38** | ⚠️ |
+| `agilus-pulse-portal` | 6 | 7 | 4 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 ⬜ | **17** | ⚠️ |
+| `consumer-web` | 1 | 9 | 6 | 1 | 🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩 | **17** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 13, 2026 04:32 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 13, 2026 09:57 AM IST**
 
 ---
 
