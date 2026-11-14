@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **209** |
+| 💻 Total Commits (30d) | **194** |
 | 🔁 Pull Requests | **12** |
 | 📂 Repos Contributed To | **18** |
 | 🏢 Total Org Repos | **44** |
@@ -86,10 +86,10 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **53** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **43** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **35** | 🟪🟪🟪🟦🟦🟦🟦 |
-| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **9** | 🟪🟪 |
-| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **9** | 🟪🟪 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **40** | 🟪🟪🟪🟦🟦🟦🟦🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **34** | 🟪🟪🟪🟦🟦🟦 |
+| [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **8** | 🟪🟪 |
+| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **7** | 🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 28 | 21 | 20 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **97** | ✔️ |
+| `gcp-platform-ops` | 24 | 13 | 3 | 12 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩 | **52** | 🔥 |
+| `shared-actions` | 20 | 1 | 11 | 17 | 🟩🟩🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **49** | 🔥 |
 | `phlebo-parent` | 1 | 15 | 7 | 10 | 🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **33** | 🔥 |
-| `consumer-web` | 1 | 9 | 5 | 4 | 🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 | **19** | ⬇️ |
-| `tracking-web` | 0 | 0 | 2 | 1 | ⬜ ⬜ 🟩🟩🟩🟩 🟩🟩 | **3** | ⚠️ |
-| `phlebo-app` | 0 | 1 | 1 | 0 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **2** | ⚠️ |
+| `agilus-pulse-portal` | 4 | 5 | 3 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 ⬜ | **12** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 14, 2026 09:53 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 14, 2026 06:17 PM IST**
 
 ---
 
