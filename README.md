@@ -55,10 +55,10 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **205** |
-| 🔁 Pull Requests | **12** |
+| 💻 Total Commits (30d) | **210** |
+| 🔁 Pull Requests | **13** |
 | 📂 Repos Contributed To | **18** |
-| 🏢 Total Org Repos | **44** |
+| 🏢 Total Org Repos | **45** |
 <!-- GITHUB_STATS_END -->
 
 ---
@@ -68,10 +68,10 @@ Building reliable cloud infrastructure for better healthcare
 <!-- TOP_LANGUAGES_START -->
 | Language | Usage | Share |
 |:---------|:------|------:|
-| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.0%` |
+| **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `41.9%` |
 | **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.1%` |
 | **CSS** | 🟪🟪 | `8.7%` |
-| **Java** | 🟧 | `4.7%` |
+| **Java** | 🟧 | `4.8%` |
 | **TypeScript** | 🟦 | `4.4%` |
 | **SCSS** | 🟦 | `1.2%` |
 | **Shell** | 🟩 | `0.9%` |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **59** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **42** | 🟪🟪🟪🟦🟦🟦🟦 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **39** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **62** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **43** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **40** | 🟪🟪🟪🟦🟦🟦 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **8** | 🟪 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **7** | 🟪 |
+| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **7** | 🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 27 | 20 | 20 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **95** | ✔️ |
-| `gcp-platform-ops` | 18 | 12 | 4 | 17 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **51** | 🔥 |
-| `gcp-cloudrun-sources` | 12 | 3 | 12 | 10 | 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **37** | ⬇️ |
-| `phlebo-parent` | 1 | 15 | 7 | 10 | 🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **33** | 🔥 |
+| `consumer-service` | 2 | 10 | 3 | 18 | 🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **33** | 🔥 |
+| `elastic-service` | 1 | 13 | 0 | 1 | 🟩 🟩🟩🟩🟩 ⬜ 🟩 | **15** | ✨ |
 | `edos-service-java` | 1 | 9 | 1 | 0 | 🟩 🟩🟩🟩🟩 🟩 ⬜ | **11** | ⚠️ |
+| `sentinel-service` | 0 | 5 | 1 | 1 | ⬜ 🟩🟩🟩🟩 🟩 🟩 | **7** | ✔️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 16, 2026 09:37 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 16, 2026 07:56 PM IST**
 
 ---
 
