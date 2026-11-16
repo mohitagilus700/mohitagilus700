@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **203** |
+| 💻 Total Commits (30d) | **205** |
 | 🔁 Pull Requests | **12** |
 | 📂 Repos Contributed To | **18** |
 | 🏢 Total Org Repos | **44** |
@@ -69,8 +69,8 @@ Building reliable cloud infrastructure for better healthcare
 | Language | Usage | Share |
 |:---------|:------|------:|
 | **PHP** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | `42.0%` |
-| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.2%` |
-| **CSS** | 🟪🟪 | `8.8%` |
+| **JavaScript** | 🟨🟨🟨🟨🟨🟨🟨🟨🟨 | `37.1%` |
+| **CSS** | 🟪🟪 | `8.7%` |
 | **Java** | 🟧 | `4.7%` |
 | **TypeScript** | 🟦 | `4.4%` |
 | **SCSS** | 🟦 | `1.2%` |
@@ -87,7 +87,7 @@ Building reliable cloud infrastructure for better healthcare
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **59** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **42** | 🟪🟪🟪🟦🟦🟦🟦 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **37** | 🟪🟪🟪🟦🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **39** | 🟪🟪🟪🟦🟦🟦🟦 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **8** | 🟪 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **7** | 🟪 |
 <!-- WORKING_ON_END -->
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 28 | 20 | 20 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **96** | ✔️ |
-| `gcp-platform-ops` | 25 | 12 | 4 | 12 | 🟩🟩🟩🟩 🟩🟩 🟩 🟩🟩 | **53** | 🔥 |
-| `gcp-cloudrun-sources` | 14 | 3 | 13 | 8 | 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩 | **38** | ⚠️ |
+| `.github-private` | 28 | 27 | 20 | 20 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **95** | ✔️ |
+| `gcp-platform-ops` | 18 | 12 | 4 | 17 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **51** | 🔥 |
+| `gcp-cloudrun-sources` | 12 | 3 | 12 | 10 | 🟩🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **37** | ⬇️ |
 | `phlebo-parent` | 1 | 15 | 7 | 10 | 🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 | **33** | 🔥 |
 | `edos-service-java` | 1 | 9 | 1 | 0 | 🟩 🟩🟩🟩🟩 🟩 ⬜ | **11** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 16, 2026 03:50 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 16, 2026 09:37 AM IST**
 
 ---
 
