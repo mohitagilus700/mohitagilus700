@@ -55,8 +55,8 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **210** |
-| 🔁 Pull Requests | **13** |
+| 💻 Total Commits (30d) | **209** |
+| 🔁 Pull Requests | **15** |
 | 📂 Repos Contributed To | **18** |
 | 🏢 Total Org Repos | **45** |
 <!-- GITHUB_STATS_END -->
@@ -74,7 +74,7 @@ Building reliable cloud infrastructure for better healthcare
 | **Java** | 🟧 | `4.8%` |
 | **TypeScript** | 🟦 | `4.4%` |
 | **SCSS** | 🟦 | `1.2%` |
-| **Shell** | 🟩 | `0.9%` |
+| **Shell** | 🟩 | `1.0%` |
 | **Python** | 🟦 | `0.8%` |
 <!-- TOP_LANGUAGES_END -->
 
@@ -86,8 +86,8 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
 | [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **62** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **43** | 🟪🟪🟪🟦🟦🟦🟦 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **40** | 🟪🟪🟪🟦🟦🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **44** | 🟪🟪🟪🟦🟦🟦🟦 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **37** | 🟪🟪🟪🟦🟦🟦 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **8** | 🟪 |
 | [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **7** | 🟪 |
 <!-- WORKING_ON_END -->
@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `.github-private` | 28 | 25 | 20 | 21 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 | **94** | ✔️ |
-| `consumer-service` | 4 | 8 | 3 | 19 | 🟩 🟩🟩 🟩 🟩🟩🟩🟩 | **34** | 🔥 |
+| `gcp-platform-ops` | 19 | 11 | 2 | 20 | 🟩🟩🟩🟩 🟩🟩🟩 🟩 🟩🟩🟩🟩 | **52** | 🔥 |
+| `consumer-web` | 4 | 8 | 3 | 4 | 🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **19** | 🔥 |
+| `pulse-cms-service` | 5 | 5 | 2 | 5 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩🟩 | **17** | 🔥 |
 | `elastic-service` | 2 | 12 | 0 | 1 | 🟩 🟩🟩🟩🟩 ⬜ 🟩 | **15** | ✨ |
-| `edos-service-java` | 2 | 8 | 1 | 0 | 🟩 🟩🟩🟩🟩 🟩 ⬜ | **11** | ⚠️ |
-| `sentinel-service` | 1 | 4 | 1 | 1 | 🟩 🟩🟩🟩🟩 🟩 🟩 | **7** | ✔️ |
+| `tracking-service` | 0 | 0 | 0 | 2 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **2** | ✨ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 17, 2026 06:53 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 17, 2026 08:48 PM IST**
 
 ---
 
