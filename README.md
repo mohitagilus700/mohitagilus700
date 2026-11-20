@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **204** |
+| 💻 Total Commits (30d) | **197** |
 | 🔁 Pull Requests | **15** |
 | 📂 Repos Contributed To | **18** |
 | 🏢 Total Org Repos | **45** |
@@ -85,9 +85,9 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **64** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **37** | 🟪🟪🟪🟦🟦🟦 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **61** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **37** | 🟪🟪🟪🟦🟦🟦 |
+| [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **33** | 🟪🟪🟪🟦🟦 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **8** | 🟪 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **7** | 🟪 |
 <!-- WORKING_ON_END -->
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 28 | 22 | 20 | 24 | 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **94** | ⬆️ |
+| `gcp-platform-ops` | 15 | 4 | 12 | 22 | 🟩🟩🟩 🟩 🟩🟩🟩 🟩🟩🟩🟩 | **53** | 🔥 |
 | `phlebo-parent` | 14 | 8 | 5 | 9 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩🟩 | **36** | 🔥 |
-| `tracking-web` | 0 | 2 | 0 | 2 | ⬜ 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **4** | ✨ |
+| `agilus-pulse-portal` | 7 | 4 | 0 | 1 | 🟩🟩🟩🟩 🟩🟩🟩 ⬜ 🟩 | **12** | ✨ |
 | `consumer-app` | 1 | 1 | 0 | 1 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 | **3** | ✨ |
-| `phlebo-app` | 1 | 1 | 0 | 0 | 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ ⬜ | **2** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 20, 2026 05:36 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 20, 2026 08:12 PM IST**
 
 ---
 
