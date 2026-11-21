@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **190** |
+| 💻 Total Commits (30d) | **191** |
 | 🔁 Pull Requests | **15** |
 | 📂 Repos Contributed To | **18** |
 | 🏢 Total Org Repos | **45** |
@@ -85,7 +85,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **55** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **56** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
 | [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **37** | 🟪🟪🟪🟦🟦🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **32** | 🟪🟪🟪🟦🟦🟦 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **8** | 🟪 |
@@ -102,11 +102,11 @@ Building reliable cloud infrastructure for better healthcare
 | `.github-private` | 28 | 21 | 20 | 25 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **94** | ⬆️ |
 | `gcp-platform-ops` | 13 | 3 | 12 | 24 | 🟩🟩🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **52** | 🔥 |
 | `phlebo-parent` | 15 | 7 | 10 | 6 | 🟩🟩🟩🟩 🟩🟩 🟩🟩🟩 🟩🟩 | **38** | ⚠️ |
+| `gcp-cloudrun-sources` | 3 | 12 | 9 | 10 | 🟩 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **34** | ⬆️ |
 | `agilus-pulse-portal` | 5 | 3 | 0 | 1 | 🟩🟩🟩🟩 🟩🟩🟩 ⬜ 🟩 | **9** | ✨ |
-| `consumer-app` | 0 | 1 | 1 | 0 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **2** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 21, 2026 07:28 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 22, 2026 04:09 AM IST**
 
 ---
 
