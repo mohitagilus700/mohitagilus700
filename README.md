@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **192** |
+| 💻 Total Commits (30d) | **190** |
 | 🔁 Pull Requests | **15** |
 | 📂 Repos Contributed To | **18** |
 | 🏢 Total Org Repos | **45** |
@@ -85,8 +85,8 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **57** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **37** | 🟪🟪🟪🟦🟦🟦 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **55** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **37** | 🟪🟪🟪🟦🟦🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **32** | 🟪🟪🟪🟦🟦🟦 |
 | [`phlebo-parent`](https://github.com/agilusdiagnostics/phlebo-parent) | `Java` | **8** | 🟪 |
 | [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **7** | 🟪 |
@@ -106,7 +106,7 @@ Building reliable cloud infrastructure for better healthcare
 | `consumer-app` | 0 | 1 | 1 | 0 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **2** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 21, 2026 10:31 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 21, 2026 07:28 PM IST**
 
 ---
 
