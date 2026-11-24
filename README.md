@@ -99,14 +99,14 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WEEKLY_ACTIVITY_START -->
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
-| `gcp-platform-ops` | 12 | 4 | 17 | 20 | 🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **53** | ⬆️ |
-| `shared-actions` | 1 | 14 | 18 | 5 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩 | **38** | ⚠️ |
-| `gcp-cloudrun-sources` | 3 | 12 | 10 | 10 | 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **35** | ✔️ |
+| `.github-private` | 25 | 20 | 21 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 | **94** | 🔥 |
+| `gcp-platform-ops` | 11 | 2 | 20 | 19 | 🟩🟩🟩 🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **52** | ✔️ |
+| `shared-actions` | 5 | 10 | 20 | 6 | 🟩 🟩🟩 🟩🟩🟩🟩 🟩🟩 | **41** | ⚠️ |
 | `tracking-web` | 0 | 2 | 1 | 1 | ⬜ 🟩🟩🟩🟩 🟩🟩 🟩🟩 | **4** | ✔️ |
-| `tracking-service` | 0 | 0 | 0 | 2 | ⬜ ⬜ ⬜ 🟩🟩🟩🟩 | **2** | ✨ |
+| `tracking-service` | 0 | 0 | 2 | 0 | ⬜ ⬜ 🟩🟩🟩🟩 ⬜ | **2** | ⚠️ |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 23, 2026 10:29 PM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 24, 2026 09:11 AM IST**
 
 ---
 
