@@ -55,7 +55,7 @@ Building reliable cloud infrastructure for better healthcare
 <!-- GITHUB_STATS_START -->
 | Stat | Count |
 |:-----|------:|
-| 💻 Total Commits (30d) | **178** |
+| 💻 Total Commits (30d) | **146** |
 | 🔁 Pull Requests | **15** |
 | 📂 Repos Contributed To | **17** |
 | 🏢 Total Org Repos | **45** |
@@ -85,11 +85,11 @@ Building reliable cloud infrastructure for better healthcare
 <!-- WORKING_ON_START -->
 | Repository | Language | My Commits (30d) | Activity |
 |:-----------|:--------:|:----------------:|:---------|
-| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **56** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
-| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **35** | 🟪🟪🟪🟦🟦🟦 |
+| [`gcp-platform-ops`](https://github.com/agilusdiagnostics/gcp-platform-ops) | `Shell` | **53** | 🟪🟪🟪🟦🟦🟦🟦🟩🟩🟩 |
+| [`gcp-cloudrun-sources`](https://github.com/agilusdiagnostics/gcp-cloudrun-sources) | `Python` | **35** | 🟪🟪🟪🟦🟦🟦🟦 |
 | [`shared-actions`](https://github.com/agilusdiagnostics/shared-actions) | `Shell` | **34** | 🟪🟪🟪🟦🟦🟦 |
-| [`elastic-service`](https://github.com/agilusdiagnostics/elastic-service) | `Java` | **6** | 🟪 |
-| [`edos-service-java`](https://github.com/agilusdiagnostics/edos-service-java) | `Java` | **6** | 🟪 |
+| [`consumer-service`](https://github.com/agilusdiagnostics/consumer-service) | `Java` | **3** | 🟪 |
+| [`consumer-web`](https://github.com/agilusdiagnostics/consumer-web) | `TypeScript` | **3** | 🟪 |
 <!-- WORKING_ON_END -->
 
 ---
@@ -100,13 +100,13 @@ Building reliable cloud infrastructure for better healthcare
 | Repository | W‑3 | W‑2 | W‑1 | Now | Activity Graph | Last 4w Commits | Trend |
 |:-----------|----:|----:|----:|----:|:------|:------:|:-----:|
 | `.github-private` | 23 | 20 | 23 | 28 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩🟩 | **94** | ⬆️ |
-| `gcp-platform-ops` | 4 | 12 | 20 | 13 | 🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩🟩🟩 | **49** | ⚠️ |
 | `phlebo-parent` | 8 | 3 | 7 | 14 | 🟩🟩🟩 🟩 🟩🟩 🟩🟩🟩🟩 | **32** | 🔥 |
-| `agilus-pulse-portal` | 3 | 2 | 1 | 1 | 🟩🟩🟩🟩 🟩🟩🟩 🟩🟩 🟩🟩 | **7** | ✔️ |
-| `tracking-web` | 2 | 0 | 2 | 0 | 🟩🟩🟩🟩 ⬜ 🟩🟩🟩🟩 ⬜ | **4** | ⚠️ |
+| `consumer-service` | 7 | 8 | 13 | 2 | 🟩🟩🟩 🟩🟩🟩 🟩🟩🟩🟩 🟩 | **30** | ⚠️ |
+| `consumer-app` | 0 | 1 | 1 | 0 | ⬜ 🟩🟩🟩🟩 🟩🟩🟩🟩 ⬜ | **2** | ⚠️ |
+| `phlebo-app` | 0 | 1 | 0 | 0 | ⬜ 🟩🟩🟩🟩 ⬜ ⬜ | **1** | 💤 |
 <!-- WEEKLY_ACTIVITY_END -->
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 26, 2026 06:53 AM IST**
+> 🔄 Auto-updated every 6 hours via GitHub Actions. Last updated: **November 26, 2026 09:38 PM IST**
 
 ---
 
